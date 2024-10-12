@@ -1,0 +1,1534 @@
+<div id="page-content" class="row  blocks-pre  ">
+            <div id="region-main-box" class="region-main">
+                <section id="region-main" class="region-main-content" aria-label="Sisu">
+                    <span class="notifications" id="user-notifications"></span>
+                    <div role="main"><span id="maincontent"></span><div class="course-content"><div id="course-format-670a8fb434c15670a8fb41e96621" class="stateready">
+    <h2 class="accesshide">Kursuse/teemade ülevaade</h2>
+    
+    <ul class="topics" data-for="course_sectionlist">
+                <li id="section-0" class="section course-section main  clearfix
+                             
+                            " data-sectionid="0" data-sectionreturnid="0" data-for="section" data-id="155565" data-number="0" data-indexed="true">
+                    <div class="course-section-header d-flex" data-for="section_title" data-id="155565" data-number="0">
+                                
+                                        <div class="d-flex align-items-start position-relative">
+                                            <a role="button" data-toggle="collapse" href="#coursecontentcollapse0" id="collapssesection0" aria-expanded="true" aria-controls="coursecontentcollapse0" class="btn btn-icon mr-1 icons-collapse-expand justify-content-center
+                                                    stretched-link 
+                                                   " aria-label="  ">
+                                            <span class="expanded-icon icon-no-margin p-2" title="Ahenda">
+                                                <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
+                                            </span>
+                                            <span class="collapsed-icon icon-no-margin p-2" title="Laienda">
+                                                <span class="dir-rtl-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                                            </span>
+                                            </a>
+                                            <h3 class="sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-155565-title" data-for="section_title" data-id="155565" data-number="0" data-target="#coursecontentcollapse0" data-toggle="collapse" role="button">
+                                                
+                                            </h3>
+                                        </div>
+                            <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                            </div>
+                            <div class="flex-fill d-flex justify-content-end mr-2 align-self-start mt-2">
+                                <a id="collapsesections" class="section-collapsemenu" href="#" aria-expanded="true" role="button" data-toggle="toggleall" aria-controls="collapssesection0 sectionid-155565-title collapssesection1 sectionid-155567-title collapssesection2 sectionid-155566-title collapssesection3 sectionid-155568-title collapssesection4 sectionid-155569-title collapssesection5 sectionid-155570-title">
+                                    <span class="collapseall text-nowrap">Sulge kõik</span>
+                                    <span class="expandall text-nowrap">Ava kõik</span>
+                                </a>
+                                </div>
+                            </div>
+                            <div id="coursecontentcollapse0" class="content 
+                                    course-content-item-content collapse show
+                                ">
+                                <div class=" my-3" data-for="sectioninfo">
+                                            <div class="course-description-item summarytext">
+                                                <div class="description-inner">
+                                                    <div class="no-overflow"><p style="text-align: center; "><img src="https://moodle.ut.ee/pluginfile.php/1509146/course/section/155565/Snip20200630_34.png" alt="" width="800" height="163" role="presentation" class="img-responsive atto_image_button_text-bottom"><br></p><p>
+Kursuse eesmärk on õpetada kõhuõõne kirurgiliste haiguste epidemioloogiat, kliinilist pilti, võimalikke komplikatsioone, diagnostikat, ravi, prognoosimist ja profülaktikat.</p><p>The aim of the course is to teach epidemiology, etiology, clinical picture, possible complications, diagnostics, treatment principles, prognosis and prophylaxis of common surgical diseases of the abdominal cavity.<br></p></div>
+                                                </div>
+                                            </div>
+                                        <div class="section_availability course-description-item">
+                                        </div>
+                            </div>
+                                    <ul class="section m-0 p-0 img-text  d-block " data-for="cmlist">
+                                                <li class="activity activity-wrapper forum modtype_forum   " id="module-738948" data-for="cmitem" data-id="738948" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Teated õppijatele (uudistefoorum) / News">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_forum position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer collaboration courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1727930430/monologo?filtericon=1" class="activityicon " alt="Foorum ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/forum/view.php?id=738948" class=" aalink stretched-link" onclick="">        <span class="instancename">Teated õppijatele (uudistefoorum) / News </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Teated õppijatele (uudistefoorum) / News" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper forum modtype_forum   " id="module-738950" data-for="cmitem" data-id="738950" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Küsimused ja vastused / Questions and answers">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_forum position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer collaboration courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1727930430/monologo?filtericon=1" class="activityicon " alt="Foorum ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/forum/view.php?id=738950" class=" aalink stretched-link" onclick="">        <span class="instancename">Küsimused ja vastused / Questions and answers <span class="accesshide "> Foorum</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Küsimused ja vastused / Questions and answers" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper url modtype_url   " id="module-1292807" data-for="cmitem" data-id="1292807" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Syllabus info AR00.00.066 (24/25 S PÕ)">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_url position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer content courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1727930430/monologo?filtericon=1" class="activityicon " alt="URL ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/url/view.php?id=1292807" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1292807&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Syllabus info AR00.00.066 (24/25 S PÕ) <span class="accesshide "> URL</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Syllabus info AR00.00.066 (24/25 S PÕ)" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper url modtype_url   " id="module-1292814" data-for="cmitem" data-id="1292814" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Õppeaine versiooni info AR00.00.066 (24/25 S PÕ)">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_url position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer content courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1727930430/monologo?filtericon=1" class="activityicon " alt="URL ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/url/view.php?id=1292814" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1292814&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Õppeaine versiooni info AR00.00.066 (24/25 S PÕ) <span class="accesshide "> URL</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Õppeaine versiooni info AR00.00.066 (24/25 S PÕ)" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper url modtype_url   " id="module-1292820" data-for="cmitem" data-id="1292820" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Õppeaine versiooni info AR00.00.066 (24/25 K PÕ)">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_url position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer content courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1727930430/monologo?filtericon=1" class="activityicon " alt="URL ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/url/view.php?id=1292820" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1292820&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Õppeaine versiooni info AR00.00.066 (24/25 K PÕ) <span class="accesshide "> URL</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Õppeaine versiooni info AR00.00.066 (24/25 K PÕ)" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                        </ul>
+                            
+                    </div>
+                </li>
+                <li id="section-1" class="section course-section main  clearfix
+                             
+                            " data-sectionid="1" data-sectionreturnid="0" data-for="section" data-id="155567" data-number="1" data-indexed="true">
+                    <div class="course-section-header d-flex" data-for="section_title" data-id="155567" data-number="1">
+                                
+                                        <div class="d-flex align-items-start position-relative">
+                                            <a role="button" data-toggle="collapse" href="#coursecontentcollapse1" id="collapssesection1" aria-expanded="true" aria-controls="coursecontentcollapse1" class="btn btn-icon mr-1 icons-collapse-expand justify-content-center
+                                                    stretched-link 
+                                                   " aria-label="ÕPPEMATERJALID">
+                                            <span class="expanded-icon icon-no-margin p-2" title="Ahenda">
+                                                <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
+                                            </span>
+                                            <span class="collapsed-icon icon-no-margin p-2" title="Laienda">
+                                                <span class="dir-rtl-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                                            </span>
+                                            </a>
+                                            <h3 class="sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-155567-title" data-for="section_title" data-id="155567" data-number="1" data-target="#coursecontentcollapse1" data-toggle="collapse" role="button">
+                                                ÕPPEMATERJALID
+                                            </h3>
+                                        </div>
+                            <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                            </div>
+                            </div>
+                            <div id="coursecontentcollapse1" class="content 
+                                    course-content-item-content collapse show
+                                ">
+                                <div class=" my-3" data-for="sectioninfo">
+                                        <div class="section_availability course-description-item">
+                                        </div>
+                            </div>
+                                    <ul class="section m-0 p-0 img-text  d-block " data-for="cmlist">
+                                                <li class="activity activity-wrapper resource modtype_resource   " id="module-738990" data-for="cmitem" data-id="738990" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Kordamisküsimused üldkirurgias">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_resource position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer content courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1727930430/f/pdf" class="activityicon nofilter" alt="Fail ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/resource/view.php?id=738990" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=738990&amp;redirect=1', '', 'width=900,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Kordamisküsimused üldkirurgias <span class="accesshide "> Fail</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Kordamisküsimused üldkirurgias" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper linkset modtype_linkset   " id="module-738988" data-for="cmitem" data-id="738988" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Loengute slaidid ja videod">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_linkset position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer other courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1727930430/monologo" class="activityicon nofilter" alt="Viidete lehekülg ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=738988" class=" aalink stretched-link" onclick="">        <span class="instancename">Loengute slaidid ja videod <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Loengute slaidid ja videod" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper linkset modtype_linkset   " id="module-739198" data-for="cmitem" data-id="739198" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Praktikumid">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_linkset position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer other courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1727930430/monologo" class="activityicon nofilter" alt="Viidete lehekülg ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=739198" class=" aalink stretched-link" onclick="">        <span class="instancename">Praktikumid <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Praktikumid" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper resource modtype_resource   " id="module-1305318" data-for="cmitem" data-id="1305318" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Praktikumide juhised">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_resource position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer content courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1727930430/f/pdf" class="activityicon nofilter" alt="Fail ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/resource/view.php?id=1305318" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=1305318&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Praktikumide juhised <span class="accesshide "> Fail</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Praktikumide juhised" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                        </ul>
+                            
+                    </div>
+                </li>
+                <li id="section-2" class="section course-section main  clearfix
+                             
+                            " data-sectionid="2" data-sectionreturnid="0" data-for="section" data-id="155566" data-number="2" data-indexed="true">
+                    <div class="course-section-header d-flex" data-for="section_title" data-id="155566" data-number="2">
+                                
+                                        <div class="d-flex align-items-start position-relative">
+                                            <a role="button" data-toggle="collapse" href="#coursecontentcollapse2" id="collapssesection2" aria-expanded="true" aria-controls="coursecontentcollapse2" class="btn btn-icon mr-1 icons-collapse-expand justify-content-center
+                                                    stretched-link 
+                                                   " aria-label="TESTID">
+                                            <span class="expanded-icon icon-no-margin p-2" title="Ahenda">
+                                                <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
+                                            </span>
+                                            <span class="collapsed-icon icon-no-margin p-2" title="Laienda">
+                                                <span class="dir-rtl-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                                            </span>
+                                            </a>
+                                            <h3 class="sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-155566-title" data-for="section_title" data-id="155566" data-number="2" data-target="#coursecontentcollapse2" data-toggle="collapse" role="button">
+                                                TESTID
+                                            </h3>
+                                        </div>
+                            <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                            </div>
+                            </div>
+                            <div id="coursecontentcollapse2" class="content 
+                                    course-content-item-content collapse show
+                                ">
+                                <div class=" my-3" data-for="sectioninfo">
+                                        <div class="section_availability course-description-item">
+                                        </div>
+                            </div>
+                                    <ul class="section m-0 p-0 img-text  d-block " data-for="cmlist">
+                                                <li class="activity activity-wrapper label modtype_label   " id="module-738965" data-for="cmitem" data-id="738965" data-indexed="true">
+                                                        <div class="activity-item activityinline" data-activityname="Üld- ja abdominaalkirurgia harjutusteste saab soor...">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Üld- ja abdominaalkirurgia harjutusteste saab soor..." class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                        <div class="activity-altcontent contentwithoutlink d-flex">
+                                                                            <div class="flex-fill description-inner text-break">
+                                                                                <div class="no-overflow"><div class="no-overflow">Üld- ja abdominaalkirurgia harjutusteste saab sooritada piiramatu arv kordi, kuid arvestatud on test siis, kui olete saanud 100% õiged vastused. Test tuleb sooritada enne vastava teemaga praktikumi tulekut.</div></div>
+                                                                            </div>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738966" data-for="cmitem" data-id="738966" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.1. Test: Endokriinkirurgia">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738966" class=" aalink stretched-link" onclick="">        <span class="instancename">1.1. Test: Endokriinkirurgia </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.1. Test: Endokriinkirurgia" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738967" data-for="cmitem" data-id="738967" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.2. Test: Peptilise haavandi tüsistused. GI verejooksud">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738967" class=" aalink stretched-link" onclick="">        <span class="instancename">1.2. Test: Peptilise haavandi tüsistused. GI verejooksud </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.2. Test: Peptilise haavandi tüsistused. GI verejooksud" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738968" data-for="cmitem" data-id="738968" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.3. Test: Pärasoole haigused">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738968" class=" aalink stretched-link" onclick="">        <span class="instancename">1.3. Test: Pärasoole haigused </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.3. Test: Pärasoole haigused" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738969" data-for="cmitem" data-id="738969" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.4. Test: Sapikivitõbi">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738969" class=" aalink stretched-link" onclick="">        <span class="instancename">1.4. Test: Sapikivitõbi </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.4. Test: Sapikivitõbi" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738970" data-for="cmitem" data-id="738970" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.5. Test: Apenditsiit ja peritoniit">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738970" class=" aalink stretched-link" onclick="">        <span class="instancename">1.5. Test: Apenditsiit ja peritoniit </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.5. Test: Apenditsiit ja peritoniit" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738971" data-for="cmitem" data-id="738971" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.6. Test: Songad">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738971" class=" aalink stretched-link" onclick="">        <span class="instancename">1.6. Test: Songad </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.6. Test: Songad" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738972" data-for="cmitem" data-id="738972" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.7. Test: Söögitoru">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738972" class=" aalink stretched-link" onclick="">        <span class="instancename">1.7. Test: Söögitoru </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.7. Test: Söögitoru" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738973" data-for="cmitem" data-id="738973" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.8. Test: Bariaatria">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738973" class=" aalink stretched-link" onclick="">        <span class="instancename">1.8. Test: Bariaatria </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.8. Test: Bariaatria" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738974" data-for="cmitem" data-id="738974" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.9. Test: Äge ja krooniline pankreatiit">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738974" class=" aalink stretched-link" onclick="">        <span class="instancename">1.9. Test: Äge ja krooniline pankreatiit </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.9. Test: Äge ja krooniline pankreatiit" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738975" data-for="cmitem" data-id="738975" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.10. Test: Peen- ja jämesoole sulgus">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738975" class=" aalink stretched-link" onclick="">        <span class="instancename">1.10. Test: Peen- ja jämesoole sulgus </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.10. Test: Peen- ja jämesoole sulgus" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                        </ul>
+                            
+                    </div>
+                </li>
+                <li id="section-3" class="section course-section main  clearfix
+                             
+                            " data-sectionid="3" data-sectionreturnid="0" data-for="section" data-id="155568" data-number="3" data-indexed="true">
+                    <div class="course-section-header d-flex" data-for="section_title" data-id="155568" data-number="3">
+                                
+                                        <div class="d-flex align-items-start position-relative">
+                                            <a role="button" data-toggle="collapse" href="#coursecontentcollapse3" id="collapssesection3" aria-expanded="true" aria-controls="coursecontentcollapse3" class="btn btn-icon mr-1 icons-collapse-expand justify-content-center
+                                                    stretched-link 
+                                                   " aria-label="LEARNING MATERIALS">
+                                            <span class="expanded-icon icon-no-margin p-2" title="Ahenda">
+                                                <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
+                                            </span>
+                                            <span class="collapsed-icon icon-no-margin p-2" title="Laienda">
+                                                <span class="dir-rtl-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                                            </span>
+                                            </a>
+                                            <h3 class="sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-155568-title" data-for="section_title" data-id="155568" data-number="3" data-target="#coursecontentcollapse3" data-toggle="collapse" role="button">
+                                                LEARNING MATERIALS
+                                            </h3>
+                                        </div>
+                            <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                            </div>
+                            </div>
+                            <div id="coursecontentcollapse3" class="content 
+                                    course-content-item-content collapse show
+                                ">
+                                <div class=" my-3" data-for="sectioninfo">
+                                        <div class="section_availability course-description-item">
+                                        </div>
+                            </div>
+                                    <ul class="section m-0 p-0 img-text  d-block " data-for="cmlist">
+                                                <li class="activity activity-wrapper resource modtype_resource   " id="module-738992" data-for="cmitem" data-id="738992" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Revision questions (general surgery)">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_resource position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer content courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1727930430/f/pdf" class="activityicon nofilter" alt="Fail ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/resource/view.php?id=738992" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=738992&amp;redirect=1', '', 'width=900,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Revision questions (general surgery) <span class="accesshide "> Fail</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Revision questions (general surgery)" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper linkset modtype_linkset   " id="module-738995" data-for="cmitem" data-id="738995" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Lectures">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_linkset position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer other courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1727930430/monologo" class="activityicon nofilter" alt="Viidete lehekülg ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=738995" class=" aalink stretched-link" onclick="">        <span class="instancename">Lectures <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Lectures" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper linkset modtype_linkset   " id="module-739196" data-for="cmitem" data-id="739196" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Practicals">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_linkset position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer other courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1727930430/monologo" class="activityicon nofilter" alt="Viidete lehekülg ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=739196" class=" aalink stretched-link" onclick="">        <span class="instancename">Practicals <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Practicals" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper resource modtype_resource   " id="module-1306446" data-for="cmitem" data-id="1306446" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Practice guidelines">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_resource position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer content courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1727930430/f/pdf" class="activityicon nofilter" alt="Fail ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/resource/view.php?id=1306446" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=1306446&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Practice guidelines <span class="accesshide "> Fail</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Practice guidelines" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                        </ul>
+                            
+                    </div>
+                </li>
+                <li id="section-4" class="section course-section main  clearfix
+                             
+                            " data-sectionid="4" data-sectionreturnid="0" data-for="section" data-id="155569" data-number="4" data-indexed="true">
+                    <div class="course-section-header d-flex" data-for="section_title" data-id="155569" data-number="4">
+                                
+                                        <div class="d-flex align-items-start position-relative">
+                                            <a role="button" data-toggle="collapse" href="#coursecontentcollapse4" id="collapssesection4" aria-expanded="true" aria-controls="coursecontentcollapse4" class="btn btn-icon mr-1 icons-collapse-expand justify-content-center
+                                                    stretched-link 
+                                                   " aria-label="QUIZZES">
+                                            <span class="expanded-icon icon-no-margin p-2" title="Ahenda">
+                                                <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
+                                            </span>
+                                            <span class="collapsed-icon icon-no-margin p-2" title="Laienda">
+                                                <span class="dir-rtl-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                                            </span>
+                                            </a>
+                                            <h3 class="sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-155569-title" data-for="section_title" data-id="155569" data-number="4" data-target="#coursecontentcollapse4" data-toggle="collapse" role="button">
+                                                QUIZZES
+                                            </h3>
+                                        </div>
+                            <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                            </div>
+                            </div>
+                            <div id="coursecontentcollapse4" class="content 
+                                    course-content-item-content collapse show
+                                ">
+                                <div class=" my-3" data-for="sectioninfo">
+                                        <div class="section_availability course-description-item">
+                                        </div>
+                            </div>
+                                    <ul class="section m-0 p-0 img-text  d-block " data-for="cmlist">
+                                                <li class="activity activity-wrapper label modtype_label   " id="module-739199" data-for="cmitem" data-id="739199" data-indexed="true">
+                                                        <div class="activity-item activityinline" data-activityname="Quizzes can be done an unlimited number of times, ...">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Quizzes can be done an unlimited number of times, ..." class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                        <div class="activity-altcontent contentwithoutlink d-flex">
+                                                                            <div class="flex-fill description-inner text-break">
+                                                                                <div class="no-overflow"><div class="no-overflow"><p>Quizzes can be done an unlimited number of times, but you must get 100% correct answers. The quizzes must be completed before coming to the practical class of the respective topic.<br></p></div></div>
+                                                                            </div>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738976" data-for="cmitem" data-id="738976" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.1. Quiz: Endocrine surgery">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738976" class=" aalink stretched-link" onclick="">        <span class="instancename">1.1. Quiz: Endocrine surgery <span class="accesshide "> Test</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.1. Quiz: Endocrine surgery" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738977" data-for="cmitem" data-id="738977" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.2. Quiz: Peptic ulcer complications. GI haemorrhages">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738977" class=" aalink stretched-link" onclick="">        <span class="instancename">1.2. Quiz: Peptic ulcer complications. GI haemorrhages <span class="accesshide "> Test</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.2. Quiz: Peptic ulcer complications. GI haemorrhages" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738978" data-for="cmitem" data-id="738978" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.3. Quiz: Diseases of rectum, Diverticulitis">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738978" class=" aalink stretched-link" onclick="">        <span class="instancename">1.3. Quiz: Diseases of rectum, Diverticulitis <span class="accesshide "> Test</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.3. Quiz: Diseases of rectum, Diverticulitis" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738979" data-for="cmitem" data-id="738979" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.4. Quiz: Cholelithiasis">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738979" class=" aalink stretched-link" onclick="">        <span class="instancename">1.4. Quiz: Cholelithiasis <span class="accesshide "> Test</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.4. Quiz: Cholelithiasis" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738980" data-for="cmitem" data-id="738980" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.5. Quiz: Peritonitis. Acute appendicitis">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738980" class=" aalink stretched-link" onclick="">        <span class="instancename">1.5. Quiz: Peritonitis. Acute appendicitis <span class="accesshide "> Test</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.5. Quiz: Peritonitis. Acute appendicitis" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738981" data-for="cmitem" data-id="738981" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.6. Quiz: Hernias">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738981" class=" aalink stretched-link" onclick="">        <span class="instancename">1.6. Quiz: Hernias <span class="accesshide "> Test</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.6. Quiz: Hernias" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738982" data-for="cmitem" data-id="738982" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.7. Quiz: Esophagus">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738982" class=" aalink stretched-link" onclick="">        <span class="instancename">1.7. Quiz: Esophagus <span class="accesshide "> Test</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.7. Quiz: Esophagus" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738983" data-for="cmitem" data-id="738983" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.8. Quiz: Bariatric surgery">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738983" class=" aalink stretched-link" onclick="">        <span class="instancename">1.8. Quiz: Bariatric surgery <span class="accesshide "> Test</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.8. Quiz: Bariatric surgery" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738984" data-for="cmitem" data-id="738984" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.9. Quiz: Acute and chronic pancreatitis">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738984" class=" aalink stretched-link" onclick="">        <span class="instancename">1.9. Quiz: Acute and chronic pancreatitis <span class="accesshide "> Test</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.9. Quiz: Acute and chronic pancreatitis" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper quiz modtype_quiz   indented" id="module-738985" data-for="cmitem" data-id="738985" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="1.10. Quiz: Ileus">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_quiz position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer assessment courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo?filtericon=1" class="activityicon " alt="Test ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=738985" class=" aalink stretched-link" onclick="">        <span class="instancename">1.10. Quiz: Ileus <span class="accesshide "> Test</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="1.10. Quiz: Ileus" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                        </ul>
+                            
+                    </div>
+                </li>
+                <li id="section-5" class="section course-section main  clearfix
+                             
+                            " data-sectionid="5" data-sectionreturnid="0" data-for="section" data-id="155570" data-number="5" data-indexed="true">
+                    <div class="course-section-header d-flex" data-for="section_title" data-id="155570" data-number="5">
+                                
+                                        <div class="d-flex align-items-start position-relative">
+                                            <a role="button" data-toggle="collapse" href="#coursecontentcollapse5" id="collapssesection5" aria-expanded="true" aria-controls="coursecontentcollapse5" class="btn btn-icon mr-1 icons-collapse-expand justify-content-center
+                                                    stretched-link 
+                                                   " aria-label="Veebiseminarid / Webinars">
+                                            <span class="expanded-icon icon-no-margin p-2" title="Ahenda">
+                                                <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
+                                            </span>
+                                            <span class="collapsed-icon icon-no-margin p-2" title="Laienda">
+                                                <span class="dir-rtl-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                                            </span>
+                                            </a>
+                                            <h3 class="sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-155570-title" data-for="section_title" data-id="155570" data-number="5" data-target="#coursecontentcollapse5" data-toggle="collapse" role="button">
+                                                Veebiseminarid / Webinars
+                                            </h3>
+                                        </div>
+                            <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                            </div>
+                            </div>
+                            <div id="coursecontentcollapse5" class="content 
+                                    course-content-item-content collapse show
+                                ">
+                                <div class=" my-3" data-for="sectioninfo">
+                                        <div class="section_availability course-description-item">
+                                        </div>
+                            </div>
+                                    <ul class="section m-0 p-0 img-text  d-block " data-for="cmlist">
+                                                <li class="activity activity-wrapper label modtype_label   " id="module-738957" data-for="cmitem" data-id="738957" data-indexed="true">
+                                                        <div class="activity-item activityinline" data-activityname="Veebiseminarid/praktikumid toimuvad BigBlueButtoni...">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Veebiseminarid/praktikumid toimuvad BigBlueButtoni..." class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                        <div class="activity-altcontent contentwithoutlink d-flex">
+                                                                            <div class="flex-fill description-inner text-break">
+                                                                                <div class="no-overflow"><div class="no-overflow"><p>Veebiseminarid/praktikumid toimuvad BigBlueButtoni rakenduse vahendusel. Selleks vajate kiiremat internetiühendust (võimalusel kaabliga, mitte wifit), audio kuulamiseks kõrvaklappe või kõlareid, rääkimiseks mikrofoni, enda videopildi edastamiseks veebikaamerat. Kui videopildi edastamine pole hädavajalik, siis ressursi säästmiseks on parem piirduda audioga. Kui teil pole vaja teha ettekannet või küsida, lülitage kaja vältimiseks enda mikrofon välja.</p><p><span style="font-size: 0.9375rem;">Veebilehitsejaks&nbsp;</span><b style="font-size: 0.9375rem;">sobib&nbsp;kõige paremini&nbsp;</b><span style="font-size: 0.9375rem;">Google Chrome.&nbsp;Internet Explorer&nbsp;</span><b style="font-size: 0.9375rem;">ei sobi</b><span style="font-size: 0.9375rem;">.&nbsp;</span><b style="font-size: 0.9375rem;">Apple'i telefonis&nbsp;</b><span style="font-size: 0.9375rem;">kasutage Safarit.</span><br></p><p></p><p>Vt juhendit:&nbsp;<a href="https://sisu.ut.ee/juhendid/bbb-juhised-osalejale" target="_blank">https://sisu.ut.ee/juhendid/bbb-juhised-osalejale</a></p></div></div>
+                                                                            </div>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper bigbluebuttonbn modtype_bigbluebuttonbn   " id="module-738958" data-for="cmitem" data-id="738958" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Veebiseminar, ruum 1 (ühele rühmale korraga)">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_bigbluebuttonbn position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer other courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/bigbluebuttonbn/1727930430/monologo?filtericon=1" class="activityicon " alt="BigBlueButton ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/bigbluebuttonbn/view.php?id=738958" class=" aalink stretched-link" onclick="">        <span class="instancename">Veebiseminar, ruum 1 (ühele rühmale korraga) <span class="accesshide "> BigBlueButton</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Veebiseminar, ruum 1 (ühele rühmale korraga)" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper bigbluebuttonbn modtype_bigbluebuttonbn   " id="module-738959" data-for="cmitem" data-id="738959" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Veebiseminar, ruum 2 (mitmele rühmale korraga)">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_bigbluebuttonbn position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer other courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/bigbluebuttonbn/1727930430/monologo?filtericon=1" class="activityicon " alt="BigBlueButton ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/bigbluebuttonbn/view.php?id=738959" class=" aalink stretched-link" onclick="">        <span class="instancename">Veebiseminar, ruum 2 (mitmele rühmale korraga) <span class="accesshide "> BigBlueButton</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Veebiseminar, ruum 2 (mitmele rühmale korraga)" class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper label modtype_label   " id="module-738960" data-for="cmitem" data-id="738960" data-indexed="true">
+                                                        <div class="activity-item activityinline" data-activityname="Webinars/workshops take place through the BigBlueB...">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Webinars/workshops take place through the BigBlueB..." class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                        <div class="activity-altcontent contentwithoutlink d-flex">
+                                                                            <div class="flex-fill description-inner text-break">
+                                                                                <div class="no-overflow"><div class="no-overflow"><hr id="null"><p>Webinars/workshops take place through the BigBlueButton application. You will need a faster internet connection (wired if possible, not Wi-Fi), headphones or speakers to listen to audio, a microphone to talk to, a webcam to stream your video. If transmitting a video image is not essential, use audio only. If you do not need to make a presentation or ask, turn off/mute your microphone to avoid echo and noise.</p><p>Use&nbsp;<b>Google Chrome</b>&nbsp;web browser or&nbsp;<b>Safari on iPhones</b>.&nbsp;<b>BigBlueButton does not work</b>&nbsp;with Internet Explorer.</p></div></div>
+                                                                            </div>
+                                                                        </div>
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper bigbluebuttonbn modtype_bigbluebuttonbn   " id="module-738961" data-for="cmitem" data-id="738961" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Webinar, room 3 (for one group) ">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_bigbluebuttonbn position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer other courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/bigbluebuttonbn/1727930430/monologo?filtericon=1" class="activityicon " alt="BigBlueButton ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/bigbluebuttonbn/view.php?id=738961" class=" aalink stretched-link" onclick="">        <span class="instancename">Webinar, room 3 (for one group)  <span class="accesshide "> BigBlueButton</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Webinar, room 3 (for one group) " class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                                <li class="activity activity-wrapper bigbluebuttonbn modtype_bigbluebuttonbn   " id="module-738962" data-for="cmitem" data-id="738962" data-indexed="true">
+                                                        <div class="activity-item " data-activityname="Webinar, room 4 (for several groups) ">
+
+                                                                <div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_bigbluebuttonbn position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer other courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/bigbluebuttonbn/1727930430/monologo?filtericon=1" class="activityicon " alt="BigBlueButton ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/bigbluebuttonbn/view.php?id=738962" class=" aalink stretched-link" onclick="">        <span class="instancename">Webinar, room 4 (for several groups)  <span class="accesshide "> BigBlueButton</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
+                                                                
+                                                                    <div class="activity-info">
+                                                                            <div data-region="activity-information" data-activityname="Webinar, room 4 (for several groups) " class="activity-information">
+                                                                            </div>
+                                                                    </div>
+                                                                
+                                                                <div class="description">
+                                                                </div>
+                                                        </div>
+                                                </li>
+                                        </ul>
+                            
+                    </div>
+                </li>
+    </ul>
+</div></div></div>
+                    
+                    
+                </section>
+            </div>
+            <div class="columnleft blockcolumn  has-blocks ">
+                <section data-region="blocks-column" class="hidden-print" aria-label="Plokid">
+                    <aside id="block-region-side-pre" class="block-region" data-blockregion="side-pre" data-droptarget="1"><a href="#sb-1" class="sr-only sr-only-focusable">Jäta vahele Seadistused</a>
+
+<section id="inst39912" class="hidden block_settings block  card mb-3" role="navigation" data-block="settings" data-instance-id="39912" aria-labelledby="instance-39912-header">
+
+    <div class="card-body p-3">
+
+            <h5 id="instance-39912-header" class="card-title d-inline">Seadistused</h5>
+
+
+        <div class="card-text content mt-3">
+            <div id="settingsnav" class="box py-3 block_tree_box"><ul class="block_tree list" role="tree" data-ajax-loader="block_navigation/site_admin_loader"><li class="type_course depth_1 contains_branch" tabindex="0" role="treeitem" aria-expanded="true" aria-owns="random670a8fb41e9661_group" aria-selected="true"><p class="tree_item root_node tree_item branch" tabindex="-1"><span tabindex="-1">Kursuse haldamine</span></p><ul id="random670a8fb41e9661_group" role="group" tabindex="-1"><li class="type_setting depth_2 item_with_icon" tabindex="-1" role="treeitem" aria-selected="false"><p class="tree_item hasicon tree_item leaf" tabindex="-1"><a href="https://moodle.ut.ee/grade/report/index.php?id=10257" tabindex="-1"><i class="icon fa fa-table fa-fw navicon" aria-hidden="true" tabindex="-1"></i>Hinded</a></p></li></ul></li></ul></div>
+            <div class="footer"></div>
+            
+        </div>
+
+    </div>
+
+</section>
+
+  <span id="sb-1"></span><a href="#sb-2" class="sr-only sr-only-focusable">Jäta vahele Tegevused</a>
+
+<section id="inst39921" class=" block_activity_modules block list_block  card mb-3" role="navigation" data-block="activity_modules" data-instance-id="39921" aria-labelledby="instance-39921-header">
+
+    <div class="card-body p-3">
+
+            <h5 id="instance-39921-header" class="card-title d-inline">Tegevused</h5>
+
+
+        <div class="card-text content mt-3">
+            <ul class="unlist"><li class="r0"><div class="column c1"><a href="https://moodle.ut.ee/mod/bigbluebuttonbn/index.php?id=10257"><img class="icon " alt="BigBlueButton" title="BigBlueButton" src="https://moodle.ut.ee/theme/image.php/classic_ut/bigbluebuttonbn/1727930430/monologo">BigBlueButton</a></div></li>
+<li class="r1"><div class="column c1"><a href="https://moodle.ut.ee/mod/forum/index.php?id=10257"><img class="icon " alt="Foorum" title="Foorum" src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1727930430/monologo">Foorumid</a></div></li>
+<li class="r0"><div class="column c1"><a href="https://moodle.ut.ee/mod/quiz/index.php?id=10257"><img class="icon " alt="Test" title="Test" src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1727930430/monologo">Testid</a></div></li>
+<li class="r1"><div class="column c1"><a href="https://moodle.ut.ee/course/resources.php?id=10257"><img class="icon icon" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/mod_page/1727930430/monologo">Vahendid</a></div></li></ul>
+            <div class="footer"></div>
+            
+        </div>
+
+    </div>
+
+</section>
+
+  <span id="sb-2"></span></aside>
+                </section>
+            </div>
+
+            <div class="columnright blockcolumn ">
+                <section data-region="blocks-column" class="hidden-print" aria-label="Plokid">
+                    <aside id="block-region-side-post" class="block-region" data-blockregion="side-post" data-droptarget="1"></aside>
+                </section>
+            </div>
+        </div>
