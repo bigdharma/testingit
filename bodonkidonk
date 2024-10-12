@@ -1,0 +1,18 @@
+<div class="activity-basis d-flex align-items-center justify-content-between">
+                                                                    <div class="d-flex flex-column flex-xs-row align-self-start">
+                                                                                    <div class="activity-instance d-flex flex-column">
+                                                                                        <div class="activitytitle media  modtype_forum position-relative align-self-start">
+                                                                                            <div class="activityiconcontainer collaboration courseicon align-self-start mr-3">
+                                                                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1727930430/monologo?filtericon=1" class="activityicon " alt="Foorum ikoon">
+                                                                                            </div>
+                                                                                            <div class="media-body align-self-center">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/forum/view.php?id=191244" class=" aalink stretched-link" onclick="">        <span class="instancename">Teated õppijatele (uudistefoorum) </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                    </div>
+                                                                
+                                                                </div>
