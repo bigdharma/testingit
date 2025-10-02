@@ -1,4 +1,21 @@
-
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    display: table;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+</style>
 
 <div role="main"><div class="course-content"><div id="course-format-68dd8b7deb63568dd8b7dc89ee21">
     <h2 class="accesshide">Section outline</h2>
