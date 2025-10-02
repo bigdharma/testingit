@@ -15,6 +15,14 @@
   tr:nth-child(even) {
     background-color: #f9f9f9;
   }
+  /* Style the "Praktikumi teema" column (second column) */
+  th:nth-child(2), td:nth-child(2) {
+    background-color: #e6f3ff; /* Light blue background */
+    font-weight: bold; /* Bold text */
+    color: #333; /* Darker text color for contrast */
+    padding: 10px; /* Slightly more padding */
+    text-align: left; /* Ensure left alignment */
+  }
 </style>
 
 <div role="main"><div class="course-content"><div id="course-format-68dd8b7deb63568dd8b7dc89ee21">
