@@ -19,7 +19,7 @@
   th:nth-child(2), td:nth-child(2) {
     background-color: #e6f3ff; /* Light blue background */
     font-weight: bold; /* Bold text */
-    color: #333; /* Darker text color for contrast */
+    color: #eeffee; /* Darker text color for contrast */
     padding: 10px; /* Slightly more padding */
     text-align: left; /* Ensure left alignment */
   }
