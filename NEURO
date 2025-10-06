@@ -1,1 +1,463 @@
-GPHYSICIAN
+<li id="section-0" class="section course-section main  clearfix
+                             
+                            " data-sectionid="0" data-sectionreturnnum="" data-for="section" data-id="64422" data-number="0" data-sectionname=" " data-indexed="true">
+                    <div class="section-item">
+                            <div class="course-section-header d-flex" data-for="section_title" data-id="64422" data-number="0">
+                                            <div class="bulkselect align-self-center d-none" data-for="sectionBulkSelect">
+                                                <input id="sectionCheckbox64422" type="checkbox" data-id="64422" data-action="toggleSelectionSection" data-bulkcheckbox="1">
+                                                <label class="sr-only" for="sectionCheckbox64422">
+                                                     Vali jaotis   
+                                                </label>
+                                            </div>
+                                                    <div class="d-flex align-items-center position-relative">
+                                                        <a role="button" data-toggle="collapse" data-for="sectiontoggler" href="#coursecontentcollapseid64422" id="collapsesectionid64422" aria-expanded="true" aria-controls="coursecontentcollapseid64422" class="btn btn-icon me-1 icons-collapse-expand justify-content-center
+                                                                " aria-label=" ">
+                                                        <span class="expanded-icon icon-no-margin p-2" title="Ahenda">
+                                                            <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
+                                                            <span class="sr-only">Ahenda</span>
+                                                        </span>
+                                                        <span class="collapsed-icon icon-no-margin p-2" title="Laienda">
+                                                            <span class="dir-rtl-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="sr-only">Laienda</span>
+                                                        </span>
+                                                        </a>
+                                                        <h3 class="h4 sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-64422-title" data-for="section_title" data-id="64422" data-number="0" data-target="#coursecontentcollapseid64422" data-toggle="collapse" role="button">
+                                                            
+                                                        </h3>
+                                                    </div>
+                                <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                                </div>
+                                        <div class="flex-fill d-flex justify-content-end me-2 align-self-start mt-2">
+                                            <a id="collapsesections" class="section-collapsemenu" href="#" aria-expanded="true" role="button" data-toggle="toggleall" aria-controls="collapsesectionid64422 sectionid-64422-title collapsesectionid158127 sectionid-158127-title collapsesectionid151540 sectionid-151540-title collapsesectionid64423 sectionid-64423-title collapsesectionid84209 sectionid-84209-title collapsesectionid84816 sectionid-84816-title collapsesectionid87024 sectionid-87024-title collapsesectionid87030 sectionid-87030-title collapsesectionid87027 sectionid-87027-title collapsesectionid87033 sectionid-87033-title collapsesectionid87036 sectionid-87036-title collapsesectionid87039 sectionid-87039-title collapsesectionid87042 sectionid-87042-title collapsesectionid87045 sectionid-87045-title collapsesectionid87048 sectionid-87048-title collapsesectionid87051 sectionid-87051-title collapsesectionid87563 sectionid-87563-title collapsesectionid87054 sectionid-87054-title collapsesectionid87057 sectionid-87057-title collapsesectionid87059 sectionid-87059-title">
+                                                <span class="collapseall text-nowrap">Sulge kõik</span>
+                                                <span class="expandall text-nowrap">Ava kõik</span>
+                                            </a>
+                                        </div>
+                            </div>
+                            <div id="coursecontentcollapseid64422" class="content course-content-item-content collapse show">
+                                <div class=" my-3" data-for="sectioninfo">
+                                                <div class="summarytext">
+                                                    <div class="no-overflow"><p><img style="display: block; margin-left: auto; margin-right: auto; border: 0px solid rgb(125, 155, 181); width: 99%; max-width: 650px; --darkreader-inline-border-top: var(--darkreader-border-7d9bb5, #3b5368); --darkreader-inline-border-right: var(--darkreader-border-7d9bb5, #3b5368); --darkreader-inline-border-bottom: var(--darkreader-border-7d9bb5, #3b5368); --darkreader-inline-border-left: var(--darkreader-border-7d9bb5, #3b5368);" src="https://moodle.ut.ee/pluginfile.php/464853/course/section/64422/neuroloogia_banner.png" data-darkreader-inline-border-top="" data-darkreader-inline-border-right="" data-darkreader-inline-border-bottom="" data-darkreader-inline-border-left=""></p>
+<p><br>Hea üliõpilane!</p>
+<p><br></p>
+<div title="Page 1">
+<div>
+<div>
+<p>Õppeaine õpetab neuroloogiliste ja neurokirurgiliste haigete kliinilise uurimise võtteid ning pea- ja seljaaju, perifeersete närvide ning lihashaiguste diagnoosimise ja ravi võimalusi. Käsitletakse eluohtlike neuroloogiliste sündroomide diferentsiaaldiagnostikat ning esmase käsitluse põhimõtteid.</p>
+<p>Siitsamast Moodle'i lehelt leiad kõik kursuse läbimiseks vajaliku: õpijuhised, lingid õppematerjalidele ja &nbsp;kontrolltestid.<br></p>
+</div>
+</div>
+</div>
+<p><strong>Kuue praktikumi – motoorika 1 ja 2, tundlikkus, kraniaalnärvid 1 ja 2 ning ajukoor osades on viide testile.</strong> Vastata tuleb kümnele küsimusele valides antud vastusevariantidest üks õige. Vastamiste arv ei ole piiratud. Õigesti tuleb vastata kõik küsimused.&nbsp;</p>
+<p>Vastavalt praktikumide toimumise ajaplaanile peab olema vastav test tehtud praktikumi päeva hommikul kella seitsmeks.&nbsp;<strong>Testi 100% õigesti sooritamata praktikumi ei pääse.</strong></p>
+<p><strong style="font-size: 0.9375rem;"><strong><br></strong></strong></p>
+<p><strong style="font-size: 0.9375rem;"><strong>Sissejuhatavad loengud Neuroloogiasse toimuvad &nbsp; 8. (<strong><strong>Puusepa 8 - M6017)&nbsp;</strong></strong>ja 9. &nbsp;(Puusepa 8- G23105) septembril kell 14.15 .</strong></strong></p>
+<p><br></p>
+<p><br></p></div>
+                                                </div>
+                                            <div class="section_availability">
+                                            </div>
+                                </div>
+                                        <ul class="section m-0 p-0 img-text  d-block " data-for="cmlist">
+                                                    <li class="activity activity-wrapper forum modtype_forum   " id="module-312566" data-for="cmitem" data-id="312566" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Uudistefoorum" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox312566" type="checkbox" data-id="312566" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox312566">
+                                                                                Vali tegevus Uudistefoorum
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller collaboration forum  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="312566" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_forum position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/forum/view.php?id=312566" class=" aalink stretched-link" onclick="">        <span class="instancename">Uudistefoorum </span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper forum modtype_forum   " id="module-312567" data-for="cmitem" data-id="312567" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Küsimused ja vastused" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox312567" type="checkbox" data-id="312567" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox312567">
+                                                                                Vali tegevus Küsimused ja vastused
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller collaboration forum  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="312567" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_forum position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/forum/view.php?id=312567" class=" aalink stretched-link" onclick="">        <span class="instancename">Küsimused ja vastused <span class="accesshide "> Foorum</span></span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper resource modtype_resource   " id="module-516832" data-for="cmitem" data-id="516832" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Kordamisküsimused" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox516832" type="checkbox" data-id="516832" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox516832">
+                                                                                Vali tegevus Kordamisküsimused
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1758608048/f/pdf?filtericon=1" class="activityicon " data-region="activity-icon" data-id="516832" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/resource/view.php?id=516832" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=516832&amp;redirect=1', '', 'width=900,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Kordamisküsimused <span class="accesshide "> Fail</span></span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper feedback modtype_feedback   " id="module-943373" data-for="cmitem" data-id="943373" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Tagasisideküsitlus" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox943373" type="checkbox" data-id="943373" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox943373">
+                                                                                Vali tegevus Tagasisideküsitlus
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller communication feedback  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/feedback/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="943373" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_feedback position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/feedback/view.php?id=943373" class=" aalink stretched-link" onclick="">        <span class="instancename">Tagasisideküsitlus </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper label modtype_label   " id="module-679972" data-for="cmitem" data-id="679972" data-indexed="true">
+                                                            <div class="activity-item focus-control activityinline" data-activityname="Vahetekst" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox679972" type="checkbox" data-id="679972" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox679972">
+                                                                                Vali tegevus Vahetekst
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid noname-grid">
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                            <div class="activity-altcontent text-break ">
+                                                                                <div class="no-overflow"><div class="no-overflow"><hr id="null"></div></div>
+                                                                            </div>
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper quiz modtype_quiz   " id="module-431016" data-for="cmitem" data-id="431016" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Enesetest" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox431016" type="checkbox" data-id="431016" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox431016">
+                                                                                Vali tegevus Enesetest
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller assessment quiz  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="431016" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_quiz position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=431016" class=" aalink stretched-link" onclick="">        <span class="instancename">Enesetest </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper label modtype_label   " id="module-749404" data-for="cmitem" data-id="749404" data-indexed="true">
+                                                            <div class="activity-item focus-control activityinline" data-activityname="Vahetekst (copy)" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox749404" type="checkbox" data-id="749404" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox749404">
+                                                                                Vali tegevus Vahetekst (copy)
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid noname-grid">
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                            <div class="activity-altcontent text-break ">
+                                                                                <div class="no-overflow"><div class="no-overflow"><hr id="null"></div></div>
+                                                                            </div>
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper resource modtype_resource   " id="module-1245485" data-for="cmitem" data-id="1245485" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Liikvor" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1245485" type="checkbox" data-id="1245485" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1245485">
+                                                                                Vali tegevus Liikvor
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1758608048/f/powerpoint?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1245485" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/resource/view.php?id=1245485" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=1245485&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Liikvor <span class="accesshide "> Fail</span></span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper url modtype_url   " id="module-1406772" data-for="cmitem" data-id="1406772" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Õppeaine versiooni info ARNR.01.036 (25/26 S PÕ)" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1406772" type="checkbox" data-id="1406772" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1406772">
+                                                                                Vali tegevus Õppeaine versiooni info ARNR.01.036 (25/26 S PÕ)
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1406772" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_url position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/url/view.php?id=1406772" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1406772&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Õppeaine versiooni info ARNR.01.036 (25/26 S PÕ) <span class="accesshide "> URL</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper resource modtype_resource   " id="module-1409579" data-for="cmitem" data-id="1409579" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Ajakava XII ja XV rühm" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1409579" type="checkbox" data-id="1409579" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1409579">
+                                                                                Vali tegevus Ajakava XII ja XV rühm
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1758608048/f/pdf?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1409579" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/resource/view.php?id=1409579" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=1409579&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Ajakava XII ja XV rühm <span class="accesshide "> Fail</span></span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper resource modtype_resource   " id="module-1420978" data-for="cmitem" data-id="1420978" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Loeng 08.09.2025: Sissejuhatus: Närvisüsteemi haigused. (prof P.Taba)" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1420978" type="checkbox" data-id="1420978" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1420978">
+                                                                                Vali tegevus Loeng 08.09.2025: Sissejuhatus: Närvisüsteemi haigused. (prof P.Taba)
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1758608048/f/pdf?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1420978" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/resource/view.php?id=1420978" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=1420978&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Loeng 08.09.2025: Sissejuhatus: Närvisüsteemi haigused. (prof P.Taba) <span class="accesshide "> Fail</span></span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                            </ul>
+                                
+                            </div>
+                    </div>
+                
+                </li>

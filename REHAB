@@ -1,2 +1,1581 @@
+<ul class="topics" data-for="course_sectionlist">
+                <li id="section-0" class="section course-section main  clearfix
+                             
+                            " data-sectionid="0" data-sectionreturnnum="" data-for="section" data-id="51803" data-number="0" data-sectionname="Üldinfo" data-indexed="true">
+                    <div class="section-item">
+                            <div class="course-section-header d-flex" data-for="section_title" data-id="51803" data-number="0">
+                                            <div class="bulkselect align-self-center d-none" data-for="sectionBulkSelect">
+                                                <input id="sectionCheckbox51803" type="checkbox" data-id="51803" data-action="toggleSelectionSection" data-bulkcheckbox="1">
+                                                <label class="sr-only" for="sectionCheckbox51803">
+                                                     Vali jaotis Üldinfo 
+                                                </label>
+                                            </div>
+                                                    <div class="d-flex align-items-center position-relative">
+                                                        <a role="button" data-toggle="collapse" data-for="sectiontoggler" href="#coursecontentcollapseid51803" id="collapsesectionid51803" aria-expanded="true" aria-controls="coursecontentcollapseid51803" class="btn btn-icon me-1 icons-collapse-expand justify-content-center
+                                                                " aria-label="Üldinfo">
+                                                        <span class="expanded-icon icon-no-margin p-2" title="Ahenda">
+                                                            <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
+                                                            <span class="sr-only">Ahenda</span>
+                                                        </span>
+                                                        <span class="collapsed-icon icon-no-margin p-2" title="Laienda">
+                                                            <span class="dir-rtl-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="sr-only">Laienda</span>
+                                                        </span>
+                                                        </a>
+                                                        <h3 class="h4 sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-51803-title" data-for="section_title" data-id="51803" data-number="0" data-target="#coursecontentcollapseid51803" data-toggle="collapse" role="button">
+                                                            Üldinfo
+                                                        </h3>
+                                                    </div>
+                                <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                                </div>
+                                        <div class="flex-fill d-flex justify-content-end me-2 align-self-start mt-2">
+                                            <a id="collapsesections" class="section-collapsemenu" href="#" aria-expanded="true" role="button" data-toggle="toggleall" aria-controls="collapsesectionid51803 sectionid-51803-title collapsesectionid243724 sectionid-243724-title collapsesectionid159248 sectionid-159248-title collapsesectionid158336 sectionid-158336-title collapsesectionid159249 sectionid-159249-title collapsesectionid159250 sectionid-159250-title collapsesectionid159251 sectionid-159251-title">
+                                                <span class="collapseall text-nowrap">Sulge kõik</span>
+                                                <span class="expandall text-nowrap">Ava kõik</span>
+                                            </a>
+                                        </div>
+                            </div>
+                            <div id="coursecontentcollapseid51803" class="content course-content-item-content collapse show">
+                                <div class=" my-3" data-for="sectioninfo">
+                                                <div class="summarytext">
+                                                    <div class="no-overflow"><p style="text-align: center;"><img class="img-responsive atto_image_button_text-bottom" role="presentation" src="https://moodle.ut.ee/pluginfile.php/371628/course/section/51803/Snip20200922_44.png" alt="" width="600" height="186"><br></p>
+<p style="text-align: center;"><span style="color: rgb(128, 128, 128); --darkreader-inline-color: var(--darkreader-text-808080, #a8b960);" data-darkreader-inline-color=""><strong><span style="font-size: x-large;">Tere tulemast taastusravi kursusele!</span></strong></span></p>
+<p><span class="" style="font-size: 15px;">Taastusravi (Physical and rehabilitation medicine (PRM))&nbsp;on suhteliselt uus ja dünaamiliselt arenev kaasaegse meditsiini haru. Taastusravi unikaalne eesmärk on ühendada kliiniline ravitulemus&nbsp;</span><span class="" style="font-size: 15px;">üldise funktsionaalse paranemisega. &nbsp;</span></p>
+<p><span class="" style="font-size: 15px;">Kõik loengud on videoloengud (v.a."Taastusravi eriala tutvustus"). Praktikumid toimuvad </span><span class="" style="font-size: 15px;">lähiõppena</span><span class="" style="font-size: 15px;">. Haigena lähiõppel osaleda ei tohi.&nbsp;</span></p>
+<p><span class="" style="font-size: 15px;">Kursuse materjalid on pandud järgmiste teemade alla:</span></p>
+<ul>
+<li><span class="" style="font-size: 15px;">Sissejuhatus taastusravisse - praktikumideks vajalikud eeldusloengud.</span></li>
+<li><span class="" style="font-size: 15px;">Madala kardiorespiratoorse reserviga patsient.&nbsp;</span></li>
+<li><span class="" style="font-size: 15px;">Valu patsiendi käsitlus. Vaagnapõhja häired.</span></li>
+<li><span class="" style="font-size: 15px;">Tugi-liikumissüsteemi taastusravi.</span><br></li>
+<li><span class="" style="font-size: 15px;">Ajukahjustusega haige käsitlus taastusravis.</span></li>
+<li>SEMINAR - RFK, onkoloogiline taastusravi. ARVESTUS.</li>
+</ul>
+<p dir="ltr"><strong><span class="" style="font-size: 15px;">Lõpphindamisele pääsemiseks</span></strong><span class="" style="font-size: 15px;"> peavad olema läbitud kõik 4 praktikumi ja esitatud kõik iseseisvad ülesanded: kroonilise valu loengu test (100%), kodune töö 1 (arvestatud), RFK test, lõputest (100%). Test avaneb neile, kes on täitnud anonüümse tagasiside küsimustiku.</span></p>
+<p dir="ltr"><strong><span class="" style="font-size: 15px;">Arvestus on:&nbsp;</span></strong></p>
+<ul>
+<li><em><span class="" style="font-size: 15px;">Praktiline ülesanne:</span></em><span class="" style="font-size: 15px;"> Üliõpilane demonstreerib reaalse patsiendi peal anamneesi võtmist ja vastava probleemi kliinilist uurimist, seab taastusravi eesmärgid ning koostab taastusraviplaani arvestades patsiendi funktsionaalset seisundit ja kaasuvaid haigusi. </span></li>
+</ul>
+<p dir="ltr"><span class="" style="font-size: 15px;">VÕI</span></p>
+<ul>
+<li><em><span class="" style="font-size: 15px;">Juhtumi analüüs (kaasus):</span></em><span class="" style="font-size: 15px;">&nbsp;Taastusravi plaan on koostatud arvestades patsiendi funktsionaalset seisundit ja kaasuvaid haigusi; patsienti on käsitletud terviklikult.</span></li>
+</ul>
+<p dir="ltr"><span class="" style="font-size: 15px;">Lõpphinne kujuneb seminaris arvestuse sooritamisel kas praktilise ülesandena reaalse patsiendi peal või juhtumianalüüsi suulisel lahendamisel.</span><br></p>
+<p dir="ltr"><strong><span class="" style="font-size: 15px;">Võlgnevuste likvideerimine: </span></strong><span class="" style="font-size: 15px;">Puudutud praktikumi teema läbimine, etteantud ülesande (sõltub teemast) esitamine ning arvestuse sooritamine.</span></p></div>
+                                                </div>
+                                            <div class="section_availability">
+                                            </div>
+                                </div>
+                                        <ul class="section m-0 p-0 img-text  d-block " data-for="cmlist">
+                                                    <li class="activity activity-wrapper forum modtype_forum  hasinfo " id="module-772960" data-for="cmitem" data-id="772960" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Teated õppijatele (uudiste foorum)" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox772960" type="checkbox" data-id="772960" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox772960">
+                                                                                Vali tegevus Teated õppijatele (uudiste foorum)
+                                                                            </label>
+                                                                        </div>
 
-GPHYSICIAN
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller collaboration forum  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="772960" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_forum position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/forum/view.php?id=772960" class=" aalink stretched-link" onclick="">        <span class="instancename">Teated õppijatele (uudiste foorum) </span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper forum modtype_forum  hasinfo " id="module-772958" data-for="cmitem" data-id="772958" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Taastusravi kursust puudutavad üldised küsimused ja vastused" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox772958" type="checkbox" data-id="772958" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox772958">
+                                                                                Vali tegevus Taastusravi kursust puudutavad üldised küsimused ja vastused
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller collaboration forum  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="772958" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_forum position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/forum/view.php?id=772958" class=" aalink stretched-link" onclick="">        <span class="instancename">Taastusravi kursust puudutavad üldised küsimused ja vastused <span class="accesshide "> Foorum</span></span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper resource modtype_resource  hasinfo " id="module-1434706" data-for="cmitem" data-id="1434706" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Tunniplaan sügis 2025/2026" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1434706" type="checkbox" data-id="1434706" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1434706">
+                                                                                Vali tegevus Tunniplaan sügis 2025/2026
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1758608048/f/pdf?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1434706" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/resource/view.php?id=1434706" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=1434706&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Tunniplaan sügis 2025/2026 <span class="accesshide "> Fail</span></span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper attendance modtype_attendance  hasinfo " id="module-757422" data-for="cmitem" data-id="757422" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Osalemine praktikumides ja seminaris" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox757422" type="checkbox" data-id="757422" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox757422">
+                                                                                Vali tegevus Osalemine praktikumides ja seminaris
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller administration attendance  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/attendance/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="757422" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_attendance position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/attendance/view.php?id=757422" class=" aalink stretched-link" onclick="">        <span class="instancename">Osalemine praktikumides ja seminaris </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper url modtype_url  hasinfo " id="module-1411488" data-for="cmitem" data-id="1411488" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Õppeaine versiooni info ARSM.00.013 (25/26 S PÕ)" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1411488" type="checkbox" data-id="1411488" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1411488">
+                                                                                Vali tegevus Õppeaine versiooni info ARSM.00.013 (25/26 S PÕ)
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1411488" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_url position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/url/view.php?id=1411488" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1411488&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Õppeaine versiooni info ARSM.00.013 (25/26 S PÕ) <span class="accesshide "> URL</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                            </ul>
+                                
+                            </div>
+                    </div>
+                
+                </li>
+                <li id="section-1" class="section course-section main  clearfix
+                             
+                            " data-sectionid="1" data-sectionreturnnum="" data-for="section" data-id="243724" data-number="1" data-sectionname="SISSEJUHATUS TAASTUSRAVISSE - praktikumideks vajalikud eeldusloengud" data-indexed="true">
+                    <div class="section-item">
+                            <div class="course-section-header d-flex" data-for="section_title" data-id="243724" data-number="1">
+                                            <div class="bulkselect align-self-center d-none" data-for="sectionBulkSelect">
+                                                <input id="sectionCheckbox243724" type="checkbox" data-id="243724" data-action="toggleSelectionSection" data-bulkcheckbox="1">
+                                                <label class="sr-only" for="sectionCheckbox243724">
+                                                     Vali jaotis SISSEJUHATUS TAASTUSRAVISSE - praktikumideks vajalikud eeldusloengud 
+                                                </label>
+                                            </div>
+                                                    <div class="d-flex align-items-center position-relative">
+                                                        <a role="button" data-toggle="collapse" data-for="sectiontoggler" href="#coursecontentcollapseid243724" id="collapsesectionid243724" aria-expanded="true" aria-controls="coursecontentcollapseid243724" class="btn btn-icon me-1 icons-collapse-expand justify-content-center
+                                                                " aria-label="SISSEJUHATUS TAASTUSRAVISSE - praktikumideks vajalikud eeldusloengud">
+                                                        <span class="expanded-icon icon-no-margin p-2" title="Ahenda">
+                                                            <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
+                                                            <span class="sr-only">Ahenda</span>
+                                                        </span>
+                                                        <span class="collapsed-icon icon-no-margin p-2" title="Laienda">
+                                                            <span class="dir-rtl-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="sr-only">Laienda</span>
+                                                        </span>
+                                                        </a>
+                                                        <h3 class="h4 sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-243724-title" data-for="section_title" data-id="243724" data-number="1" data-target="#coursecontentcollapseid243724" data-toggle="collapse" role="button">
+                                                            SISSEJUHATUS TAASTUSRAVISSE - praktikumideks vajalikud eeldusloengud
+                                                        </h3>
+                                                    </div>
+                                <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                                </div>
+                            </div>
+                            <div id="coursecontentcollapseid243724" class="content course-content-item-content collapse show">
+                                <div class=" my-3" data-for="sectioninfo">
+                                                <div class="summarytext">
+                                                    <div class="no-overflow"><p><span style="font-size: medium;"><span class="">Taastusravi eriala tutvustuseks Eesti Taastusarstide Seltsi juhatuse esimehe&nbsp;<strong>Varje - Riin Tuuliku </strong></span><span class="">loeng teemal </span><strong><span class="">"</span><span class="">Taastusravi eriala tutvustus</span></strong><span class=""><strong>".</strong></span></span></p>
+<p><span style="font-size: medium;"><span class="">Huvilistel on võimalik lugeda ka&nbsp;</span><a href="https://moodle.ut.ee/pluginfile.php/371628/course/section/243724/EestiArsti%20_taastusravi_erinumber_2022.pdf" target="_blank" rel="noopener"><span class="">Eesti Arsti taastusravi erinumbrit</span></a><span class="">, mis ilmus 2022 a. mais seoses Eesti Taastusarstide Seltsi 20. juubeliaastaga.</span></span></p>
+<p><span style="font-size: medium;">Kuulake videoloengut <strong>"RFK ja selle rakendamine kliinilises töös"</strong>. <strong>Tiina Tammik</strong> tutvustab videoloengus rahvusvahelist funktsioneerimisvõime klassifikatsiooni. Loengu eesmärk on anda ülevaade RFK struktuurist, põhimõtetest ning praktilistest kasutusvõimalustest patsiendi terviseseisundi hindamisel. Huvilistel on võimalik tutvuda RFK alaste lisamaterjalidega kaustas "Õppematerjalid. RFK." Tervise Arengu Instituudi teabekeskuse RFK lehe lingi <a href="https://teabekeskus.tehik.ee/et/terminoloogiastandardid/rfk">https://teabekeskus.tehik.ee/et/terminoloogiastandardid/rfk</a> kaudu on kättesaadavad eestikeelsed RFK alased materjalid: RFK klassifikatsiooni täpsem kirjeldus ja kõik olulised viited.</span></p>
+<p><span style="font-size: medium;">👉 <em>NB! Palun kuulata videoloengut enne taastusravitsüklisse tulekut, kuna see loob vajaliku aluse edasisteks aruteludeks ja praktilisteks tegevusteks. Haigusjuhtude arutelu RFK raamistikus toimub tsükli viimasel päeval seminaris.</em></span></p>
+<p>Vastake videoloengu põhjal esitatud küsimustele "RFK testis".</p>
+<p><br></p></div>
+                                                </div>
+                                            <div class="section_availability">
+                                            </div>
+                                </div>
+                                        <ul class="section m-0 p-0 img-text  d-block " data-for="cmlist">
+                                                    <li class="activity activity-wrapper linkset modtype_linkset  hasinfo " id="module-1409294" data-for="cmitem" data-id="1409294" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Loeng &quot;Taastusravi eriala tutvustus&quot;" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1409294" type="checkbox" data-id="1409294" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1409294">
+                                                                                Vali tegevus Loeng "Taastusravi eriala tutvustus"
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller other linkset  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1409294" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_linkset position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=1409294" class=" aalink stretched-link" onclick="">        <span class="instancename">Loeng "Taastusravi eriala tutvustus" <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper linkset modtype_linkset  hasinfo " id="module-1409295" data-for="cmitem" data-id="1409295" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Videoloeng &quot;RFK ja selle rakendamine kliinilises töös&quot;" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1409295" type="checkbox" data-id="1409295" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1409295">
+                                                                                Vali tegevus Videoloeng "RFK ja selle rakendamine kliinilises töös"
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller other linkset  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1409295" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_linkset position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=1409295" class=" aalink stretched-link" onclick="">        <span class="instancename">Videoloeng "RFK ja selle rakendamine kliinilises töös" <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper linkset modtype_linkset  hasinfo " id="module-1411396" data-for="cmitem" data-id="1411396" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Õppematerjalid. RFK." data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1411396" type="checkbox" data-id="1411396" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1411396">
+                                                                                Vali tegevus Õppematerjalid. RFK.
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller other linkset  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1411396" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_linkset position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=1411396" class=" aalink stretched-link" onclick="">        <span class="instancename">Õppematerjalid. RFK. <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper quiz modtype_quiz  hasinfo " id="module-1412390" data-for="cmitem" data-id="1412390" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="RFK test" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1412390" type="checkbox" data-id="1412390" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1412390">
+                                                                                Vali tegevus RFK test
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller assessment quiz  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1412390" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_quiz position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=1412390" class=" aalink stretched-link" onclick="">        <span class="instancename">RFK test </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                            </ul>
+                                
+                            </div>
+                    </div>
+                
+                </li>
+                <li id="section-2" class="section course-section main  clearfix
+                             
+                            " data-sectionid="2" data-sectionreturnnum="" data-for="section" data-id="159248" data-number="2" data-sectionname="Praktikum 1: MADALA KARDIORESPIRATOORSE RESERVIGA PATSIENT.Dr med Aet Lukmann või dr Matko Vučica." data-indexed="true">
+                    <div class="section-item">
+                            <div class="course-section-header d-flex" data-for="section_title" data-id="159248" data-number="2">
+                                            <div class="bulkselect align-self-center d-none" data-for="sectionBulkSelect">
+                                                <input id="sectionCheckbox159248" type="checkbox" data-id="159248" data-action="toggleSelectionSection" data-bulkcheckbox="1">
+                                                <label class="sr-only" for="sectionCheckbox159248">
+                                                     Vali jaotis Praktikum 1: MADALA KARDIORESPIRATOORSE RESERVIGA PATSIENT.Dr med Aet Lukmann või dr Matko Vučica. 
+                                                </label>
+                                            </div>
+                                                    <div class="d-flex align-items-center position-relative">
+                                                        <a role="button" data-toggle="collapse" data-for="sectiontoggler" href="#coursecontentcollapseid159248" id="collapsesectionid159248" aria-expanded="true" aria-controls="coursecontentcollapseid159248" class="btn btn-icon me-1 icons-collapse-expand justify-content-center
+                                                                " aria-label="Praktikum 1: MADALA KARDIORESPIRATOORSE RESERVIGA PATSIENT.Dr med Aet Lukmann või dr Matko Vučica.">
+                                                        <span class="expanded-icon icon-no-margin p-2" title="Ahenda">
+                                                            <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
+                                                            <span class="sr-only">Ahenda</span>
+                                                        </span>
+                                                        <span class="collapsed-icon icon-no-margin p-2" title="Laienda">
+                                                            <span class="dir-rtl-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="sr-only">Laienda</span>
+                                                        </span>
+                                                        </a>
+                                                        <h3 class="h4 sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-159248-title" data-for="section_title" data-id="159248" data-number="2" data-target="#coursecontentcollapseid159248" data-toggle="collapse" role="button">
+                                                            Praktikum 1: MADALA KARDIORESPIRATOORSE RESERVIGA PATSIENT.Dr med Aet Lukmann või dr Matko Vučica.
+                                                        </h3>
+                                                    </div>
+                                <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                                </div>
+                            </div>
+                            <div id="coursecontentcollapseid159248" class="content course-content-item-content collapse show">
+                                <div class=" my-3" data-for="sectioninfo">
+                                                <div class="summarytext">
+                                                    <div class="no-overflow"><p dir="ltr" style="text-align: left;">Praktikumi toimumiskoht: Puusepa 1a II korrus, ruum 2073.&nbsp;</p>
+<p dir="ltr" style="text-align: left;"><strong>Õpijuhis praktikumiks valmistumisel:&nbsp;</strong></p>
+<ul>
+<li>Kuulake videoloengut "Kardioloogiline taastusravi"</li>
+<li>Tutvuge materjaliga viidete leheküljel "Õppematerjalid. Kardioloogiline taastusravi."&nbsp;</li>
+</ul>
+<p dir="ltr" style="text-align: left;">Praktikumi teemad: <strong>Kardioloogilise taastusravi</strong> eesmärgid. Milline on kardioloogilise taastusravi programmi ülesehitus Eestis. Kuidas patsient siseneb kardioloogilise taastusravi programmi. Kes peaksid osalema kardioloogilise taastusravi programmis. Millal on õige aeg siseneda kardioloogilise taastusravi programmi. Taastusravi komponendid.Osalemine patsiendi kardiopulmonaalse seisundi hindamisel. Optimaalse intensiivsusega treeningprogrammi koostamine kardioloogilisele patsiendile. Vastunäidustused osalemiseks kardioloogilise taastusravi programmis. Riskiastmed kehalise treeningu puhul. Liikumisravi programm. Osalemine kardioloogilise taastusravi rühmatreeningul. Patsiendi tervisenäitajate monitooring rühmatreeningul. Kardioloogilise taastusravi programmi koostamine kardioloogilisele patsiendile.</p></div>
+                                                </div>
+                                            <div class="section_availability">
+                                            </div>
+                                </div>
+                                        <ul class="section m-0 p-0 img-text  d-block " data-for="cmlist">
+                                                    <li class="activity activity-wrapper linkset modtype_linkset  hasinfo " id="module-772641" data-for="cmitem" data-id="772641" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Videoloeng" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox772641" type="checkbox" data-id="772641" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox772641">
+                                                                                Vali tegevus Videoloeng
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller other linkset  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="772641" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_linkset position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=772641" class=" aalink stretched-link" onclick="">        <span class="instancename">Videoloeng <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper linkset modtype_linkset  hasinfo " id="module-756594" data-for="cmitem" data-id="756594" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Õppematerjalid. Kardioloogiline taastusravi" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox756594" type="checkbox" data-id="756594" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox756594">
+                                                                                Vali tegevus Õppematerjalid. Kardioloogiline taastusravi
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller other linkset  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="756594" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_linkset position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=756594" class=" aalink stretched-link" onclick="">        <span class="instancename">Õppematerjalid. Kardioloogiline taastusravi <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper forum modtype_forum  hasinfo " id="module-773038" data-for="cmitem" data-id="773038" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Madala kardiorespiratoorse reserviga patsiendi praktikumi puudutavad küsimused. Tagasiside." data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox773038" type="checkbox" data-id="773038" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox773038">
+                                                                                Vali tegevus Madala kardiorespiratoorse reserviga patsiendi praktikumi puudutavad küsimused. Tagasiside.
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller collaboration forum  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="773038" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_forum position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/forum/view.php?id=773038" class=" aalink stretched-link" onclick="">        <span class="instancename">Madala kardiorespiratoorse reserviga patsiendi praktikumi puudutavad küsimused. Tagasiside. <span class="accesshide "> Foorum</span></span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                            </ul>
+                                
+                            </div>
+                    </div>
+                
+                </li>
+                <li id="section-3" class="section course-section main  clearfix
+                             
+                            " data-sectionid="3" data-sectionreturnnum="" data-for="section" data-id="158336" data-number="3" data-sectionname="Praktikum 2: VALU PATSIENDI KÄSITLUS. VAAGNAPÕHJA HÄIRED - dr Annika Albert-Aksjonov või dr Teele Kaarma-Tõnne" data-indexed="true">
+                    <div class="section-item">
+                            <div class="course-section-header d-flex" data-for="section_title" data-id="158336" data-number="3">
+                                            <div class="bulkselect align-self-center d-none" data-for="sectionBulkSelect">
+                                                <input id="sectionCheckbox158336" type="checkbox" data-id="158336" data-action="toggleSelectionSection" data-bulkcheckbox="1">
+                                                <label class="sr-only" for="sectionCheckbox158336">
+                                                     Vali jaotis Praktikum 2: VALU PATSIENDI KÄSITLUS. VAAGNAPÕHJA HÄIRED - dr Annika Albert-Aksjonov või dr Teele Kaarma-Tõnne 
+                                                </label>
+                                            </div>
+                                                    <div class="d-flex align-items-center position-relative">
+                                                        <a role="button" data-toggle="collapse" data-for="sectiontoggler" href="#coursecontentcollapseid158336" id="collapsesectionid158336" aria-expanded="true" aria-controls="coursecontentcollapseid158336" class="btn btn-icon me-1 icons-collapse-expand justify-content-center
+                                                                " aria-label="Praktikum 2: VALU PATSIENDI KÄSITLUS. VAAGNAPÕHJA HÄIRED - dr Annika Albert-Aksjonov või dr Teele Kaarma-Tõnne">
+                                                        <span class="expanded-icon icon-no-margin p-2" title="Ahenda">
+                                                            <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
+                                                            <span class="sr-only">Ahenda</span>
+                                                        </span>
+                                                        <span class="collapsed-icon icon-no-margin p-2" title="Laienda">
+                                                            <span class="dir-rtl-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="sr-only">Laienda</span>
+                                                        </span>
+                                                        </a>
+                                                        <h3 class="h4 sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-158336-title" data-for="section_title" data-id="158336" data-number="3" data-target="#coursecontentcollapseid158336" data-toggle="collapse" role="button">
+                                                            Praktikum 2: VALU PATSIENDI KÄSITLUS. VAAGNAPÕHJA HÄIRED - dr Annika Albert-Aksjonov või dr Teele Kaarma-Tõnne
+                                                        </h3>
+                                                    </div>
+                                <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                                </div>
+                            </div>
+                            <div id="coursecontentcollapseid158336" class="content course-content-item-content collapse show">
+                                <div class=" my-3" data-for="sectioninfo">
+                                                <div class="summarytext">
+                                                    <div class="no-overflow"><p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem;">Praktikumi toimumiskoht: Puusepa 1 a II korrus, ruum 2073</span></p><p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem;"><strong>Õpijuhis praktikumiks valmistumisel:&nbsp;</strong></span></p><p dir="ltr" style="text-align: left;"></p><ul><li><span style="font-size: 0.9375rem;">Kuulake videoloenguid (esituskiirus 1,5x) (Loengumaterjalid T1-T4):&nbsp;</span></li></ul><p></p><p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem;"></span></p><p>T1&nbsp;<span id="popup-Valu klassifikatsioon, kroonilise valutekkemehhanismid, biopsühhosotsiaalne mudel, kroonilise valu hindamine" class="popup-tool"><a href="#" class="popup-trigger" onclick="return false;" title="Valu klassifikatsioon, kroonilise valutekkemehhanismid, biopsühhosotsiaalne mudel, kroonilise valu hindamine">Valu klassifikatsioon, kroonilise valutekkemehhanismid, biopsühhosotsiaalne mudel, kroonilise valu hindamine</a><span id="popup-content-Valu klassifikatsioon, kroonilise valutekkemehhanismid, biopsühhosotsiaalne mudel, kroonilise valu hindamine" class="popup-content">Loengud käsitlevad lühidalt valu tekkemehhanisme, krooniliseks muutumist,  perifeerse ja tsentraalse sensibilisatsiooni olemust. Samuti tuleb juttu valu patofüsioloogilisest ja etioloogilisest klassifikatsioonist, kroonilise valu biopsühhosotsiaalsest olemusest ning sellest, kuidas kroonilise valuga patsienti hinnata.</span></span>. Annika
+Albert-Aksjonov</p><p>T2 <span id="popup-Patsiendi valualase harimise ja valu enesejuhtimise roll kroonilise valu käsitluses." class="popup-tool"><a href="#" class="popup-trigger" onclick="return false;" title="Patsiendi valualase harimise ja valu enesejuhtimise roll kroonilise valu käsitluses.">Patsiendi valualase harimise ja valu enesejuhtimise roll kroonilise valu käsitluses.</a><span id="popup-content-Patsiendi valualase harimise ja valu enesejuhtimise roll kroonilise valu käsitluses." class="popup-content">Kroonilise valu edukas käsitlus nõuab patsiendi valualast harimist ja enesejuhtimise võtmeoskuste iseseisvat valdamist - inimene saab ise oma valu mõjutada! Esmatasandil on soovitatud alustada mittemedikamentoossetest sekkumistest kõigil kroonilise valuga patsientidel, vajadusel juurde medikamentoosne ravi. Loengutes käsitleme notsiplastilise valu mittemedikamentoosse ravi põhimõtteid, valualase harimise ja valu enesejuhtimise rolli.</span></span> Teele Kaarma-Tõnne<br></p><p>T3&nbsp;<span style="font-size: 0.9375rem;"><span id="popup-Füüsilise aktiivsuse ja füsioteraapia roll kroonilise valu ravis." class="popup-tool"><a href="#" class="popup-trigger" onclick="return false;" title="Füüsilise aktiivsuse ja füsioteraapia roll kroonilise valu ravis.">Füüsilise aktiivsuse ja füsioteraapia roll kroonilise valu ravis.</a><span id="popup-content-Füüsilise aktiivsuse ja füsioteraapia roll kroonilise valu ravis." class="popup-content">Krooniline valu võib põhjustada füüsilise aktiivsuse langust. Loeng arutleb füüsilise  aktiivsuse mõju meie kehale - mis juhtub, kui teeme vähem; mida saame teha, et seda muuta; mida tähendavad liikumissoovitused ja kuidas need meid ravis aitavad. </span></span> <span id="popup-Mati Arend" class="popup-tool"><a href="#" class="popup-trigger" onclick="return false;" title="Mati Arend">Mati Arend</a><span id="popup-content-Mati Arend" class="popup-content">Mati Arend on lõpetanud Tartu Ülikoolis füsioteraapia õpingud (MSc) ja doktorantuuri (PhD, liikumisteadused). Mati töötab füsioterapeudina FysioCentrumis ja Tartu Ülikooli Kliinikumi  Spordimeditsiini ja taastusravi kliiniku ambulatoorse taastusravi osakonnas ning lektorina Tartu Ülikoolis.</span></span></span></p><p><span style="font-size: 0.9375rem;">T4 <span id="popup-Kroonilise valu&nbsp; medikamentoosse ravipõhimõtted, interventsionaalse valuravi näidustused." class="popup-tool"><a href="#" class="popup-trigger" onclick="return false;" title="Kroonilise valu&nbsp; medikamentoosse ravipõhimõtted, interventsionaalse valuravi näidustused.">Kroonilise valu&nbsp; medikamentoosse ravipõhimõtted, interventsionaalse valuravi näidustused.</a><span id="popup-content-Kroonilise valu&nbsp; medikamentoosse ravipõhimõtted, interventsionaalse valuravi näidustused." class="popup-content">Kroonilise valu puhul tekivad närvisüsteemis teatud muutused, mille puhul võib olla vaja kasutada ka medikamentoosset ravi. Sobivate ravimite valimiseks tuleb teada valu tüüpe ja teada mõnda põhimõtet. Loengud käsitlevad medikamentoosse valuravi põhimõtteid, kasutatavaid ravimirühmasid (mitteopioidid, opioidid, adjuvandid), ravimite näidustusi ja vastunäidustusi. Lisaks tuleb juttu interventsionaalsest ehk invasiivsest valuravist ja selle kasutamise põhimõtetest.</span></span> <span><span id="popup-Aleksandra Šilova" class="popup-tool"><a href="#" class="popup-trigger" onclick="return false;" title="Aleksandra Šilova">Aleksandra Šilova</a><span id="popup-content-Aleksandra Šilova" class="popup-content">Aleksandra Šilova on üldkirurg ja integreeritud pediaatria osakonna vanemarst Ida-Viru Keskhaiglas, lisaks on Aleksandra lastekirurgia arst-resident Tallinna Lastehaiglas. Aleksandra on omandanud ka valuarsti (EDPM - European Diploma in pain management) diplomi. </span></span></span></span></p><p></p><p dir="ltr" style="text-align: left;"></p><ul><li><span style="font-size: 0.9375rem;">Vastake loengute põhjal esitatud küsimustele "Kroonilise valu testis".</span></li></ul><p></p><p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem;">Praktikumi peamine teema on kroonilise valu käsitlus esmatasandil ja taastusravis, hõlmates muuhulgas valualast harimist ja suhtlemist valupatsiendiga. Huvi korral leiate küsimustikud jm lisamaterjalid viidete leheküljelt "Õppematerjalid. Valu". Praktikumis t</span><span style="font-size: 0.9375rem;">utvume ka põgusalt vaagnapõhjahäirete füsioteraapia võimalustega.&nbsp;</span><br></p><p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem;"><strong>Õpijuhis peale praktikumi:&nbsp;</strong></span></p><p dir="ltr" style="text-align: left;"></p><ul><li><span style="font-size: 0.9375rem;"><span>Esitage P2. Kodune töö 1&nbsp;</span></span><span style="font-size: 0.9375rem;">enne reedest seminari/arvestust.</span></li></ul><p></p></div>
+                                                </div>
+                                            <div class="section_availability">
+                                            </div>
+                                </div>
+                                        <ul class="section m-0 p-0 img-text  d-block " data-for="cmlist">
+                                                    <li class="activity activity-wrapper linkset modtype_linkset  hasinfo " id="module-1192253" data-for="cmitem" data-id="1192253" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Loengumaterjalid (T1) (Videod: 2h)" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1192253" type="checkbox" data-id="1192253" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1192253">
+                                                                                Vali tegevus Loengumaterjalid (T1) (Videod: 2h)
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller other linkset  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1192253" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_linkset position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=1192253" class=" aalink stretched-link" onclick="">        <span class="instancename">Loengumaterjalid (T1) (Videod: 2h) <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper linkset modtype_linkset  hasinfo " id="module-1192254" data-for="cmitem" data-id="1192254" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Loengumaterjalid (T2) (Videod: 1 h 10 min)" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1192254" type="checkbox" data-id="1192254" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1192254">
+                                                                                Vali tegevus Loengumaterjalid (T2) (Videod: 1 h 10 min)
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller other linkset  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1192254" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_linkset position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=1192254" class=" aalink stretched-link" onclick="">        <span class="instancename">Loengumaterjalid (T2) (Videod: 1 h 10 min) <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper linkset modtype_linkset  hasinfo " id="module-1192256" data-for="cmitem" data-id="1192256" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Loengumaterjalid (T3) (Videod: 35 min)" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1192256" type="checkbox" data-id="1192256" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1192256">
+                                                                                Vali tegevus Loengumaterjalid (T3) (Videod: 35 min)
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller other linkset  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1192256" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_linkset position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=1192256" class=" aalink stretched-link" onclick="">        <span class="instancename">Loengumaterjalid (T3) (Videod: 35 min) <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper linkset modtype_linkset  hasinfo " id="module-1192255" data-for="cmitem" data-id="1192255" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Loengumaterjalid (T4) (Videod: 1 h 40 min)" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1192255" type="checkbox" data-id="1192255" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1192255">
+                                                                                Vali tegevus Loengumaterjalid (T4) (Videod: 1 h 40 min)
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller other linkset  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1192255" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_linkset position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=1192255" class=" aalink stretched-link" onclick="">        <span class="instancename">Loengumaterjalid (T4) (Videod: 1 h 40 min) <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper quiz modtype_quiz  hasinfo " id="module-772155" data-for="cmitem" data-id="772155" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="P2. Kroonilise valu loengu test" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox772155" type="checkbox" data-id="772155" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox772155">
+                                                                                Vali tegevus P2. Kroonilise valu loengu test
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller assessment quiz  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="772155" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_quiz position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/quiz/view.php?id=772155" class=" aalink stretched-link" onclick="">        <span class="instancename">P2. Kroonilise valu loengu test </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper linkset modtype_linkset  hasinfo " id="module-752051" data-for="cmitem" data-id="752051" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Õppematerjalid. Valu." data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox752051" type="checkbox" data-id="752051" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox752051">
+                                                                                Vali tegevus Õppematerjalid. Valu.
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller other linkset  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="752051" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_linkset position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=752051" class=" aalink stretched-link" onclick="">        <span class="instancename">Õppematerjalid. Valu. <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper page modtype_page  hasinfo " id="module-758802" data-for="cmitem" data-id="758802" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Vaagnapõhja häirete ja diastaasi konservatiivne käsitlus" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox758802" type="checkbox" data-id="758802" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox758802">
+                                                                                Vali tegevus Vaagnapõhja häirete ja diastaasi konservatiivne käsitlus
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller content page  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/page/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="758802" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_page position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/page/view.php?id=758802" class=" aalink stretched-link" onclick="">        <span class="instancename">Vaagnapõhja häirete ja diastaasi konservatiivne käsitlus <span class="accesshide "> Leht</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper assign modtype_assign  hasinfo " id="module-758766" data-for="cmitem" data-id="758766" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="P2. Kodune töö 1 " data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox758766" type="checkbox" data-id="758766" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox758766">
+                                                                                Vali tegevus P2. Kodune töö 1 
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller assessment assign  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/assign/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="758766" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_assign position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/assign/view.php?id=758766" class=" aalink stretched-link" onclick="">        <span class="instancename">P2. Kodune töö 1  <span class="accesshide "> Ülesanne</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper forum modtype_forum  hasinfo " id="module-773046" data-for="cmitem" data-id="773046" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Valu patsiendi käsitluse praktikumi puudutavad küsimused. Tagasiside." data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox773046" type="checkbox" data-id="773046" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox773046">
+                                                                                Vali tegevus Valu patsiendi käsitluse praktikumi puudutavad küsimused. Tagasiside.
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller collaboration forum  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="773046" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_forum position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/forum/view.php?id=773046" class=" aalink stretched-link" onclick="">        <span class="instancename">Valu patsiendi käsitluse praktikumi puudutavad küsimused. Tagasiside. <span class="accesshide "> Foorum</span></span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                            </ul>
+                                
+                            </div>
+                    </div>
+                
+                </li>
+                <li id="section-4" class="section course-section main  clearfix
+                             
+                            " data-sectionid="4" data-sectionreturnnum="" data-for="section" data-id="159249" data-number="4" data-sectionname="Praktikum 3: TUGI-LIIKUMISSÜSTEEMI TAASTUSRAVI. Dr Merle Rokk, dr Mari Arak või dr Risto Võsaste" data-indexed="true">
+                    <div class="section-item">
+                            <div class="course-section-header d-flex" data-for="section_title" data-id="159249" data-number="4">
+                                            <div class="bulkselect align-self-center d-none" data-for="sectionBulkSelect">
+                                                <input id="sectionCheckbox159249" type="checkbox" data-id="159249" data-action="toggleSelectionSection" data-bulkcheckbox="1">
+                                                <label class="sr-only" for="sectionCheckbox159249">
+                                                     Vali jaotis Praktikum 3: TUGI-LIIKUMISSÜSTEEMI TAASTUSRAVI. Dr Merle Rokk, dr Mari Arak või dr Risto Võsaste 
+                                                </label>
+                                            </div>
+                                                    <div class="d-flex align-items-center position-relative">
+                                                        <a role="button" data-toggle="collapse" data-for="sectiontoggler" href="#coursecontentcollapseid159249" id="collapsesectionid159249" aria-expanded="true" aria-controls="coursecontentcollapseid159249" class="btn btn-icon me-1 icons-collapse-expand justify-content-center
+                                                                " aria-label="Praktikum 3: TUGI-LIIKUMISSÜSTEEMI TAASTUSRAVI. Dr Merle Rokk, dr Mari Arak või dr Risto Võsaste">
+                                                        <span class="expanded-icon icon-no-margin p-2" title="Ahenda">
+                                                            <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
+                                                            <span class="sr-only">Ahenda</span>
+                                                        </span>
+                                                        <span class="collapsed-icon icon-no-margin p-2" title="Laienda">
+                                                            <span class="dir-rtl-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="sr-only">Laienda</span>
+                                                        </span>
+                                                        </a>
+                                                        <h3 class="h4 sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-159249-title" data-for="section_title" data-id="159249" data-number="4" data-target="#coursecontentcollapseid159249" data-toggle="collapse" role="button">
+                                                            Praktikum 3: TUGI-LIIKUMISSÜSTEEMI TAASTUSRAVI. Dr Merle Rokk, dr Mari Arak või dr Risto Võsaste
+                                                        </h3>
+                                                    </div>
+                                <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                                </div>
+                            </div>
+                            <div id="coursecontentcollapseid159249" class="content course-content-item-content collapse show">
+                                <div class=" my-3" data-for="sectioninfo">
+                                                <div class="summarytext">
+                                                    <div class="no-overflow"><p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem;">Praktikumi toimumiskoht: Puusepa 1 a II korrus, ruum 2073</span></p><p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem;"><strong><span>Õpijuhis praktikumiks valmistumiseks:</span></strong></span></p><p dir="ltr" style="text-align: left;"></p><ul><li><span style="font-size: 0.9375rem;"><span><span style="">Kuulake vi<span>d</span>eoloenguid "Luu-lihas-liigessüsteemi haiguste ja kahjustuste taastusravi", "Õlavalu", "Osteoartroos", "Ülekoormussündroomid" ning&nbsp;vastake<span style="">&nbsp;</span>loengus esitatud&nbsp;küsimustele, et saaksime teha praktikumi algusel lühikokkuvõtte.&nbsp;</span></span></span></li><li><span style="font-size: 0.9375rem;"><span><span style="">Tutvuge õppematerjalide ja lisamaterjalidega&nbsp;viidete leheküljel "Õppematerjalid.Tugi-liikumissüsteemi taastusravi." Tuletage meelde patsiendi objektiivne hindamine, liigeste testimine.</span></span></span></li></ul><p></p><p dir="ltr" style="text-align: left;"><span style="font-size: 0.9375rem;">Praktikumi eesmärk on täiendada teadmisi ja oskusi&nbsp;luu-, lihas-, liigessüsteemi&nbsp;haiguste ja kahjustuste&nbsp;valdkonnas ja&nbsp;tutvuda taastusravi võimalustega.&nbsp;</span><span style="font-size: 0.9375rem;">Praktikumis saate&nbsp;harjutada liigeste testimist, võtta vastu patsiente, koostada taastusravi plaani, teha praktilisi&nbsp;ülesandeid.&nbsp;Kuna liigeste testimist harjutate üksteise peal, siis palun riietuda sportlikult.</span></p></div>
+                                                </div>
+                                            <div class="section_availability">
+                                            </div>
+                                </div>
+                                        <ul class="section m-0 p-0 img-text  d-block " data-for="cmlist">
+                                                    <li class="activity activity-wrapper linkset modtype_linkset  hasinfo " id="module-772614" data-for="cmitem" data-id="772614" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Videoloengud" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox772614" type="checkbox" data-id="772614" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox772614">
+                                                                                Vali tegevus Videoloengud
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller other linkset  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="772614" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_linkset position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=772614" class=" aalink stretched-link" onclick="">        <span class="instancename">Videoloengud <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper linkset modtype_linkset  hasinfo " id="module-756592" data-for="cmitem" data-id="756592" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Õppematerjalid. Tugi-liikumissüsteemi taastusravi" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox756592" type="checkbox" data-id="756592" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox756592">
+                                                                                Vali tegevus Õppematerjalid. Tugi-liikumissüsteemi taastusravi
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller other linkset  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="756592" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_linkset position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=756592" class=" aalink stretched-link" onclick="">        <span class="instancename">Õppematerjalid. Tugi-liikumissüsteemi taastusravi <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper forum modtype_forum  hasinfo " id="module-773041" data-for="cmitem" data-id="773041" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Tugi-liikumissüsteemi taastusravi praktikumi puudutavad küsimused. Tagasiside." data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox773041" type="checkbox" data-id="773041" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox773041">
+                                                                                Vali tegevus Tugi-liikumissüsteemi taastusravi praktikumi puudutavad küsimused. Tagasiside.
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller collaboration forum  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="773041" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_forum position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/forum/view.php?id=773041" class=" aalink stretched-link" onclick="">        <span class="instancename">Tugi-liikumissüsteemi taastusravi praktikumi puudutavad küsimused. Tagasiside. <span class="accesshide "> Foorum</span></span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                            </ul>
+                                
+                            </div>
+                    </div>
+                
+                </li>
+                <li id="section-5" class="section course-section main  clearfix
+                             
+                            " data-sectionid="5" data-sectionreturnnum="" data-for="section" data-id="159250" data-number="5" data-sectionname="Praktikum 4: AJUKAHJUSTUSEGA HAIGE KÄSITLUS TAASTUSRAVIS. Dr med Aet Lukmann või dr Jana Intšite. " data-indexed="true">
+                    <div class="section-item">
+                            <div class="course-section-header d-flex" data-for="section_title" data-id="159250" data-number="5">
+                                            <div class="bulkselect align-self-center d-none" data-for="sectionBulkSelect">
+                                                <input id="sectionCheckbox159250" type="checkbox" data-id="159250" data-action="toggleSelectionSection" data-bulkcheckbox="1">
+                                                <label class="sr-only" for="sectionCheckbox159250">
+                                                     Vali jaotis Praktikum 4: AJUKAHJUSTUSEGA HAIGE KÄSITLUS TAASTUSRAVIS. Dr med Aet Lukmann või dr Jana Intšite.  
+                                                </label>
+                                            </div>
+                                                    <div class="d-flex align-items-center position-relative">
+                                                        <a role="button" data-toggle="collapse" data-for="sectiontoggler" href="#coursecontentcollapseid159250" id="collapsesectionid159250" aria-expanded="true" aria-controls="coursecontentcollapseid159250" class="btn btn-icon me-1 icons-collapse-expand justify-content-center
+                                                                " aria-label="Praktikum 4: AJUKAHJUSTUSEGA HAIGE KÄSITLUS TAASTUSRAVIS. Dr med Aet Lukmann või dr Jana Intšite. ">
+                                                        <span class="expanded-icon icon-no-margin p-2" title="Ahenda">
+                                                            <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
+                                                            <span class="sr-only">Ahenda</span>
+                                                        </span>
+                                                        <span class="collapsed-icon icon-no-margin p-2" title="Laienda">
+                                                            <span class="dir-rtl-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="sr-only">Laienda</span>
+                                                        </span>
+                                                        </a>
+                                                        <h3 class="h4 sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-159250-title" data-for="section_title" data-id="159250" data-number="5" data-target="#coursecontentcollapseid159250" data-toggle="collapse" role="button">
+                                                            Praktikum 4: AJUKAHJUSTUSEGA HAIGE KÄSITLUS TAASTUSRAVIS. Dr med Aet Lukmann või dr Jana Intšite.
+                                                        </h3>
+                                                    </div>
+                                <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                                </div>
+                            </div>
+                            <div id="coursecontentcollapseid159250" class="content course-content-item-content collapse show">
+                                <div class=" my-3" data-for="sectioninfo">
+                                                <div class="summarytext">
+                                                    <div class="no-overflow"><p dir="ltr" style="text-align: left;"><span>Praktikumi toimumiskoht: Riia 167, ruum&nbsp;<a name="_Hlk112268336" style="">B236.</a><br></span></p><p dir="ltr" style="text-align: left;"><strong>Õpijuhis praktikumiks valmistumisel:</strong></p><p dir="ltr" style="text-align: left;"></p><ul><li>Kuulake videoloengut "Neuroloogiliste haigete taastusravi". Soovi korral täitke&nbsp;<span style="font-size: 0.9375rem;">loenguid jälgides tööleht - see aitab Teil paremini teemale keskenduda ning saate ühtlasi omale konspekti.&nbsp;</span><span style="font-size: 0.9375rem;">Et Teil oleks parem järge pidada, on küsimuste juurde märgitud, kui algab järgmise loengu osa teema (I-VI).</span></li><li>Töötage läbi materjalid viidete leheküljel "Õppematerjalid. Ajukahjustusega haige käsitlus taastusravis".&nbsp;</li></ul><p></p><p></p><p dir="ltr" style="text-align: left;">Praktikumis käsitletakse ajukahjustusega haige taastusravi võimalusi insuldi läbiteinud patsiendi näitel. Praktikumis räägitakse lahti neuroloogilise haige uurimise põhimõtted (anamnees ja objektiivne staatus) taastusravi seisukohast. Tutvustatakse taastusravi&nbsp; meeskonnaliikmete tööd. Omandatud teadmisi ning oskusi rakendatakse taastusravil viibiva patsiendi iseseisval uurimisel. Patsiendi uurimise põhjal selgitatakse välja tema funktsioonihäire (d), seatakse taastusravi eesmärgid ja koostatakse raviplaan. Praktikumi lõpus arutame uuritud patsiendid ühiselt läbi. Kuna praktikum toimub taastusraviosakonnas ja tegeletakse patsientidega, on vajalik kaasa võtta kittel ja stetoskoop.</p></div>
+                                                </div>
+                                            <div class="section_availability">
+                                            </div>
+                                </div>
+                                        <ul class="section m-0 p-0 img-text  d-block " data-for="cmlist">
+                                                    <li class="activity activity-wrapper linkset modtype_linkset  hasinfo " id="module-763180" data-for="cmitem" data-id="763180" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Videoloengud" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox763180" type="checkbox" data-id="763180" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox763180">
+                                                                                Vali tegevus Videoloengud
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller other linkset  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="763180" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_linkset position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=763180" class=" aalink stretched-link" onclick="">        <span class="instancename">Videoloengud <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper resource modtype_resource  hasinfo " id="module-1086773" data-for="cmitem" data-id="1086773" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Tööleht videoloengute juurde täitmiseks" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1086773" type="checkbox" data-id="1086773" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1086773">
+                                                                                Vali tegevus Tööleht videoloengute juurde täitmiseks
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1758608048/f/document?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1086773" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/resource/view.php?id=1086773" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=1086773&amp;redirect=1', '', 'width=900,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Tööleht videoloengute juurde täitmiseks <span class="accesshide "> Fail</span></span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper linkset modtype_linkset  hasinfo " id="module-772921" data-for="cmitem" data-id="772921" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Õppematerjalid - Ajukahjustusega haige käsitlus taastusravis" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox772921" type="checkbox" data-id="772921" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox772921">
+                                                                                Vali tegevus Õppematerjalid - Ajukahjustusega haige käsitlus taastusravis
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller other linkset  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="772921" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_linkset position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/linkset/view.php?id=772921" class=" aalink stretched-link" onclick="">        <span class="instancename">Õppematerjalid - Ajukahjustusega haige käsitlus taastusravis <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper forum modtype_forum  hasinfo " id="module-773044" data-for="cmitem" data-id="773044" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Ajukahjustusega haige käsitluse taastusravi praktikumi puudutavad küsimused. Tagasiside." data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox773044" type="checkbox" data-id="773044" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox773044">
+                                                                                Vali tegevus Ajukahjustusega haige käsitluse taastusravi praktikumi puudutavad küsimused. Tagasiside.
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller collaboration forum  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="773044" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_forum position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/forum/view.php?id=773044" class=" aalink stretched-link" onclick="">        <span class="instancename">Ajukahjustusega haige käsitluse taastusravi praktikumi puudutavad küsimused. Tagasiside. <span class="accesshide "> Foorum</span></span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                            </ul>
+                                
+                            </div>
+                    </div>
+                
+                </li>
+                <li id="section-6" class="section course-section main  clearfix
+                             
+                            " data-sectionid="6" data-sectionreturnnum="" data-for="section" data-id="159251" data-number="6" data-sectionname="SEMINAR - RFK, onkoloogiline taastusravi. ARVESTUS." data-indexed="true">
+                    <div class="section-item">
+                            <div class="course-section-header d-flex" data-for="section_title" data-id="159251" data-number="6">
+                                            <div class="bulkselect align-self-center d-none" data-for="sectionBulkSelect">
+                                                <input id="sectionCheckbox159251" type="checkbox" data-id="159251" data-action="toggleSelectionSection" data-bulkcheckbox="1">
+                                                <label class="sr-only" for="sectionCheckbox159251">
+                                                     Vali jaotis SEMINAR - RFK, onkoloogiline taastusravi. ARVESTUS. 
+                                                </label>
+                                            </div>
+                                                    <div class="d-flex align-items-center position-relative">
+                                                        <a role="button" data-toggle="collapse" data-for="sectiontoggler" href="#coursecontentcollapseid159251" id="collapsesectionid159251" aria-expanded="true" aria-controls="coursecontentcollapseid159251" class="btn btn-icon me-1 icons-collapse-expand justify-content-center
+                                                                " aria-label="SEMINAR - RFK, onkoloogiline taastusravi. ARVESTUS.">
+                                                        <span class="expanded-icon icon-no-margin p-2" title="Ahenda">
+                                                            <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
+                                                            <span class="sr-only">Ahenda</span>
+                                                        </span>
+                                                        <span class="collapsed-icon icon-no-margin p-2" title="Laienda">
+                                                            <span class="dir-rtl-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="sr-only">Laienda</span>
+                                                        </span>
+                                                        </a>
+                                                        <h3 class="h4 sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-159251-title" data-for="section_title" data-id="159251" data-number="6" data-target="#coursecontentcollapseid159251" data-toggle="collapse" role="button">
+                                                            SEMINAR - RFK, onkoloogiline taastusravi. ARVESTUS.
+                                                        </h3>
+                                                    </div>
+                                <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                                </div>
+                            </div>
+                            <div id="coursecontentcollapseid159251" class="content course-content-item-content collapse show">
+                                <div class=" my-3" data-for="sectioninfo">
+                                                <div class="summarytext">
+                                                    <div class="no-overflow"><p dir="ltr" style="text-align: left;"><span class="" style="font-size: 15px;">Seminari/arvestuse toimumiskoht: Puusepa 1 a II korrus, ruum 2073 VÕI Riia 167, ruum </span><a name="_Hlk112268336"></a><span class="" style="font-size: 15px;">B236.</span></p>
+<p dir="ltr" style="text-align: left;"><strong><span class="" style="font-size: 15px;">Õpijuhis seminariks valmistumiseks:&nbsp;</span></strong></p>
+<ul>
+<li><span class="" style="font-size: 15px;">Kui te ei ole varem kuulanud videoloengut „RFK ja selle rakendamine kliinilises töös“, palume seda kindlasti teha enne seminari.</span></li>
+<li><span class="" style="font-size: 15px;">Tutvuge H5P slaididega " Onkoloogilise haige taastusravi põhimõtted."</span></li>
+<li><span style="font-size: 0.9375rem;">Esitage VALU praktikumi (praktikum 2)</span><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff1d56);" data-darkreader-inline-color="">&nbsp;</span><span class="" style="font-size: 0.9375rem;">kodune töö 1</span><span style="font-size: 0.9375rem;">.&nbsp;&nbsp;</span><br></li>
+</ul>
+<p dir="ltr" style="text-align: left;">Seminaril käsitleme erinevaid haigusjuhte RFK ehk rahvusvahelise funktsioneerimisvõime klassifikatsiooni raamistikus - kuidas patsiendi terviseseisundit välja tuua terviklikult koos tema funktsioneerimisvõime alase infoga, st lisaks diagnoosile (RHK) ka funktsioneerimisvõime (RFK) raamistikus, sealjuures arvestades nt. ka tema igapäevast toimetulekut ja keskkonnategureid. Onkoloogilise taastusravi põhimõtted.&nbsp;</p>
+<p dir="ltr" style="text-align: left;">Arvestuse saamise ühe osana saavad üliõpilased 2-3 peale kas situatsioonülesande (juhtumianalüüsi) või reaalse patsiendi. Üliõpilane demonstreerib reaalse patsiendi (või kaastudengi) peal anamneesi võtmist ja&nbsp; vastava probleemi kliinilist uurimist, seab taastusravi eesmärgid ning koostab taastusravi plaani arvestades patsiendi funktsionaalset seisundit ja kaasuvaid haigusi.&nbsp;&nbsp;<br></p>
+<p dir="ltr" style="text-align: left;"><strong><span class="" style="font-size: 15px;">Õpijuhis peale seminari:</span></strong></p>
+<ul>
+<li>
+<p><strong>PÄRAST seminari palume teil täita anonüümne tagasisideküsitlus taastusravi tsükli kohta ning sooritada lõputest 100% -le. </strong>Test avaneb neile, kes on tagasiside esitanud.</p>
+<p>Oleme siiralt tänulikud, kui jagate meiega konstruktiivset tagasisidet — see on meile väga oluline. Teie soovituste kaudu saame oma tegevust parendada.&nbsp;</p>
+</li>
+</ul>
+<p dir="ltr" style="text-align: left;"><strong><span class="" style="font-size: 15px;">Hindamine: </span></strong><span class="" style="font-size: 15px;">mitteeristav (arvestatud, mittearvestatud, mitte ilmunud). Arvestusele pääsemise eelduseks on osalemine kõikides praktikumides ja kodutööde sooritamine.&nbsp; &nbsp;</span></p></div>
+                                                </div>
+                                            <div class="section_availability">
+                                            </div>
+                                </div>
+                                        <ul class="section m-0 p-0 img-text  d-block " data-for="cmlist">
+                                                    <li class="activity activity-wrapper hvp modtype_hvp  hasinfo " id="module-756604" data-for="cmitem" data-id="756604" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Onkoloogilise haige taastusravi põhimõtted" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox756604" type="checkbox" data-id="756604" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox756604">
+                                                                                Vali tegevus Onkoloogilise haige taastusravi põhimõtted
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller other hvp  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/hvp/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="756604" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_hvp position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/hvp/view.php?id=756604" class=" aalink stretched-link" onclick="">        <span class="instancename">Onkoloogilise haige taastusravi põhimõtted <span class="accesshide "> Interaktiivne sisu</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper feedback modtype_feedback  hasinfo " id="module-938234" data-for="cmitem" data-id="938234" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Tagasiside taastusravi tsükli kohta" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox938234" type="checkbox" data-id="938234" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox938234">
+                                                                                Vali tegevus Tagasiside taastusravi tsükli kohta
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller communication feedback  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/feedback/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="938234" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_feedback position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/feedback/view.php?id=938234" class=" aalink stretched-link" onclick="">        <span class="instancename">Tagasiside taastusravi tsükli kohta </span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                                <div class="activity-completion align-self-start ms-sm-2">
+                                                                                        <div data-region="activity-information" data-activityname="Tagasiside taastusravi tsükli kohta" class="activity-information">
+                                                                                                <div data-region="completion-info">
+                                                                                                        <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Tagasiside taastusravi tsükli kohta jaoks">
+                                                                                                            <div class="dropdown completion-dropdown dropup" id="dropdownDialog_68e40aadc541821" data-dropdown-dialog-initialized="true">
+                                                                                                                <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_68e40aadc541822" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                                                                                        Teha
+                                                                                                                </button>
+                                                                                                                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropwdownbutton_68e40aadc541822" data-for="dropdowndialog_dialog">
+                                                                                                                    <div class="p-2" data-for="dropdowndialog_content">
+                                                                                                                            <div class="completion-dialog px-2">
+            <strong>You must</strong>
+
+        <div class="ms-2" role="list">
+                    <div class="d-flex mt-2" role="listitem">
+                        <div>
+                            <img class="icon " alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1758608048/i/dot">
+                            <span class="sr-only"><i></i></span>
+                        </div>
+                        <span>Esita vastus</span>
+                    </div>
+
+
+        </div>
+
+
+</div>
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                        
+                                                                                                </div>
+                                                                                        </div>
+                                                                                </div>
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper quiz modtype_quiz  hasinfo " id="module-245597" data-for="cmitem" data-id="245597" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Lõputest" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox245597" type="checkbox" data-id="245597" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox245597">
+                                                                                Vali tegevus Lõputest
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller assessment quiz  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="245597" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_quiz position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <span class="instancename">        Lõputest     </span>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                                        <div class="activity-availability availabilityinfo isrestricted" data-region="availabilityinfo">
+                                                                                                <div>
+                                                                                                    <i class="icon fa fa-lock fa-fw " aria-hidden="true"></i> Ligipääs piiratud, v.a juhul kui Tegevus <strong><a data-cm-name-for="938234" href="https://moodle.ut.ee/mod/feedback/view.php?id=938234">Tagasiside taastusravi tsükli kohta</a></strong> on lõpetatud
+                                                                                                </div>
+                                                                                        </div>
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper assign modtype_assign  hasinfo " id="module-941542" data-for="cmitem" data-id="941542" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Arvestuse tulemus" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox941542" type="checkbox" data-id="941542" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox941542">
+                                                                                Vali tegevus Arvestuse tulemus
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller assessment assign  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/assign/1758608048/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="941542" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_assign position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/assign/view.php?id=941542" class=" aalink stretched-link" onclick="">        <span class="instancename">Arvestuse tulemus <span class="accesshide "> Ülesanne</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                            </ul>
+                                
+                            </div>
+                    </div>
+                
+                </li>
+    </ul>
