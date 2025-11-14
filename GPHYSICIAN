@@ -1,4 +1,276 @@
 <ul class="topics" data-for="course_sectionlist">
+
+  <style>
+    table.schedule {
+        width: 100%;
+        border-collapse: collapse;
+        background: #1c1c1c;
+        color: #e0d0b0;
+        font-family: sans-serif;
+        font-size: 14px;
+    }
+
+    table.schedule th,
+    table.schedule td {
+        border: 1px solid #444;
+        padding: 6px 10px;
+        vertical-align: top;
+    }
+
+    .session { line-height: 1.3; }
+
+    .time { color: #b9b9b9; }
+
+    .divider td {
+        background: #2c2c2c;
+        text-align: center;
+        font-weight: bold;
+        padding: 12px;
+    }
+
+    .centered { text-align: center; }
+
+    .examtext {
+        text-align: center;
+        padding: 20px;
+        line-height: 1.5;
+    }
+
+    .exam strong { color: #fff; }
+
+    .date { font-size: 12px; color: #bbb; }
+</style>
+
+    <table class="schedule">
+    <thead>
+        <tr>
+            <th>õn</th>
+            <th></th>
+            <th>17. RÜHM</th>
+            <th>Ruumi nr</th>
+            <th>18. RÜHM</th>
+            <th>Ruumi nr</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        <!-- HEADER BLOCK 1 -->
+        <tr class="divider">
+            <td></td>
+            <td></td>
+            <td colspan="4">
+                PEREARSTIKESKUSES<br>
+                Vt e-kursusel Moodul 1
+            </td>
+        </tr>
+
+        <!-- HEADER BLOCK 2 -->
+        <tr class="divider">
+            <td></td>
+            <td></td>
+            <td colspan="4">
+                PEREARSTIKESKUSES<br>
+                Vt e-kursusel Moodul 1
+            </td>
+        </tr>
+
+        <!-- 10 November -->
+        <tr>
+            <td>11</td>
+            <td>
+                E<br>
+                <span class="date">10. november</span>
+            </td>
+            <td class="session"></td>
+            <td></td>
+            <td class="session"></td>
+            <td></td>
+        </tr>
+
+        <!-- 11 November -->
+        <tr>
+            <td>11</td>
+            <td>
+                T<br>
+                <span class="date">11. november</span>
+            </td>
+            <td class="session"></td>
+            <td></td>
+            <td class="session"></td>
+            <td></td>
+        </tr>
+
+        <!-- 12 November -->
+        <tr>
+            <td>11</td>
+            <td>
+                K<br>
+                <span class="date">12. november</span>
+            </td>
+
+            <!-- 17. RÜHM -->
+            <td class="session">
+                Ägeda infektsiooniga haige – Liina Pilv<br>
+                <span class="time">Kell 9.15–12.00</span>
+            </td>
+            <td>3067</td>
+
+            <!-- 18. RÜHM -->
+            <td class="session">
+                Ägeda infektsiooniga haige – Liina Pilv<br>
+                <span class="time">Kell 12.15–15.00</span>
+            </td>
+            <td>3067</td>
+        </tr>
+
+        <!-- 13 November -->
+        <tr>
+            <td>11</td>
+            <td>
+                N<br>
+                <span class="date">13. november</span>
+            </td>
+            <td colspan="4" class="session centered">
+                Palliatiivne ravi – Kadri Suija<br>
+                <span class="time">Kell 9.15–12.00</span>
+            </td>
+        </tr>
+
+        <!-- 14 November -->
+        <tr>
+            <td>11</td>
+            <td>
+                R<br>
+                <span class="date">14. november</span>
+            </td>
+
+            <td class="session">
+                Motiveeriv intervjueerimine – Laura Kaljurand<br>
+                <span class="time">Kell 9.15–12.00</span>
+            </td>
+            <td>3067</td>
+
+            <td class="session">
+                Motiveeriv intervjueerimine – Laura Kaljurand<br>
+                <span class="time">Kell 12.15–15.00</span>
+            </td>
+            <td>3067</td>
+        </tr>
+
+        <!-- 17 November -->
+        <tr>
+            <td>12</td>
+            <td>
+                E<br>
+                <span class="date">17. november</span>
+            </td>
+
+            <td class="session">
+                Mees perearstabis – Tarmo Loogus<br>
+                <span class="time">Kell 8.15–11.00</span>
+            </td>
+            <td>3067</td>
+
+            <td class="session">
+                Mees perearstabis – Tarmo Loogus<br>
+                <span class="time">Kell 11.15–14.00</span>
+            </td>
+            <td>3067</td>
+        </tr>
+
+        <!-- 18 November — two stacked sessions per group -->
+        <tr>
+            <td>12</td>
+            <td>
+                T<br>
+                <span class="date">18. november</span>
+            </td>
+
+            <!-- 17. RÜHM col -->
+            <td class="session">
+                Alaseljavalu käsitlus perearstabis – Ruth Kalda<br>
+                <span class="time">Kell 9.15–12.00</span>
+                <br><br>
+                Hulgihägustega patsiendi käsitlus – Kertu Rünkorg<br>
+                <span class="time">Kell 12.15–15.00</span>
+            </td>
+            <td>
+                3067<br><br>3068
+            </td>
+
+            <!-- 18. RÜHM col -->
+            <td class="session">
+                Hulgihägustega patsiendi käsitlus – Kertu Rünkorg<br>
+                <span class="time">Kell 9.15–12.00</span>
+                <br><br>
+                Alaseljavalu käsitlus perearstabis – Ruth Kalda<br>
+                <span class="time">Kell 12.15–15.00</span>
+            </td>
+            <td>
+                3068<br><br>3067
+            </td>
+        </tr>
+
+        <!-- 19 November -->
+        <tr>
+            <td>12</td>
+            <td>
+                K<br>
+                <span class="date">19. november</span>
+            </td>
+
+            <td class="session">
+                Laps perearstabis – Marje Oona<br>
+                <span class="time">Kell 9.15–12.00</span>
+            </td>
+            <td>3067</td>
+
+            <td class="session">
+                Laps perearstabis – Marje Oona<br>
+                <span class="time">Kell 12.15–15.00</span>
+            </td>
+            <td>3067</td>
+        </tr>
+
+        <!-- 20 November -->
+        <tr>
+            <td>12</td>
+            <td>
+                N<br>
+                <span class="date">20. november</span>
+            </td>
+
+            <td class="session">
+                Naine perearstabis – Heli Tähepõld<br>
+                <span class="time">Kell 9.15–12.00</span>
+            </td>
+            <td>3067</td>
+
+            <td class="session">
+                Naine perearstabis – Heli Tähepõld<br>
+                <span class="time">Kell 12.15–15.00</span>
+            </td>
+            <td>3067</td>
+        </tr>
+
+        <!-- 21 November — EXAM -->
+        <tr class="exam">
+            <td>12</td>
+            <td>
+                R<br>
+                <span class="date">21. november</span>
+            </td>
+
+            <td colspan="4" class="examtext">
+                <strong>EKSAM</strong><br><br>
+                Eksam toimub Biomedikumi arvutiklassis<br>
+                <strong>Kell 9.00–11.00<br>Ravila 19, BM 1029</strong>
+            </td>
+        </tr>
+
+    </tbody>
+</table>
                 <li id="section-0" class="section course-section main  clearfix
                              
                             " data-sectionid="0" data-sectionreturnnum="" data-for="section" data-id="52131" data-number="0" data-sectionname="Sissejuhatus " data-indexed="true">
