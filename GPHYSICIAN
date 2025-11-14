@@ -1,6 +1,11 @@
 <ul class="topics" data-for="course_sectionlist">
 
-  <style>
+                <li id="section-0" class="section course-section main  clearfix
+                             
+                            " data-sectionid="0" data-sectionreturnnum="" data-for="section" data-id="52131" data-number="0" data-sectionname="Sissejuhatus " data-indexed="true">
+                    <div class="section-item">
+
+<style>
     table.schedule {
         width: 100%;
         border-collapse: collapse;
@@ -271,10 +276,7 @@
 
     </tbody>
 </table>
-                <li id="section-0" class="section course-section main  clearfix
-                             
-                            " data-sectionid="0" data-sectionreturnnum="" data-for="section" data-id="52131" data-number="0" data-sectionname="Sissejuhatus " data-indexed="true">
-                    <div class="section-item">
+
                             <div class="course-section-header d-flex" data-for="section_title" data-id="52131" data-number="0">
                                             <div class="bulkselect align-self-center d-none" data-for="sectionBulkSelect">
                                                 <input id="sectionCheckbox52131" type="checkbox" data-id="52131" data-action="toggleSelectionSection" data-bulkcheckbox="1">
