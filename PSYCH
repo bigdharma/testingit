@@ -1,4 +1,375 @@
 <div id="region-main-box" class="region-main">
+
+<table border="1" cellspacing="0" cellpadding="6" 
+       style="border-collapse:collapse; width:100%; background:#111; color:#4cff4c; font-family:Arial, sans-serif;">
+
+  <thead style="background:#0c0c0c; color:#00ff66; font-weight:bold;">
+    <tr>
+      <th style="padding:8px;">Date</th>
+      <th style="padding:8px;">Time</th>
+      <th style="padding:8px;">Topic</th>
+      <th style="padding:8px;">Lecturer(s)</th>
+      <th style="padding:8px;">Location</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <!-- ========================== 24 NOV ========================== -->
+    <tr><td rowspan="4">E, 24.11</td>
+      <td>8.30–10.00</td>
+      <td>Seminar. Psühhopatoloogia I.</td>
+      <td>kaasprof. I. Tõru</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>10.20–11.50</td>
+      <td>Seminar. Psühhopatoloogia II. Psüühilise staatuse koostamine.</td>
+      <td>kaasprof. I. Tõru</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>12.15–13.45</td>
+      <td>Praktikum. Psühholoogiline hindamine: emotsionaalne seisund.</td>
+      <td>kl. psühholoog T. Reiljan</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>14.00–15.30</td>
+      <td>Psühholoogiline hindamine: kognitiivsed funktsioonid ja intelligentsuse uuringud.</td>
+      <td>kl. psühholoog K. Anni</td>
+      <td>Moodle</td>
+    </tr>
+
+    <!-- ========================== 25 NOV ========================== -->
+    <tr><td rowspan="2">T, 25.11</td>
+      <td>8.30–10.00</td>
+      <td>Seminar. Orgaanilised psüühikahäired, diagnostika, sündroomid.</td>
+      <td>kaasprof. I. Tõru</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>10.20–13.45</td>
+      <td>Praktikum. Arsti-patsiendi suhe. Toetav kuulamine.</td>
+      <td>kl. psühholoog M. Juursoo</td>
+      <td>A2120</td>
+    </tr>
+
+    <!-- ========================== 26 NOV ========================== -->
+    <tr><td rowspan="3">K, 26.11</td>
+      <td>8.30–10.00</td>
+      <td>Seminar. Ärevus ja stressiga seotud häired.</td>
+      <td>kaasprof. I. Tõru</td>
+      <td>A3077</td>
+    </tr>
+    <tr>
+      <td>10.20–11.50</td>
+      <td>Praktikum. PSSK. Alkohol- ja uimastisõltuvus.</td>
+      <td>dr. T. Rauks-Pärgmäe</td>
+      <td>Riia 167</td>
+    </tr>
+    <tr>
+      <td>12.15–13.45</td>
+      <td>Seminar. Erakorraline psühhiaatria. Riskihindamine.</td>
+      <td>dr. K. Koch</td>
+      <td>A2120</td>
+    </tr>
+
+    <!-- ========================== 27 NOV ========================== -->
+    <tr><td rowspan="2">N, 27.11</td>
+      <td>8.30–10.00</td>
+      <td>KKT: videoloeng + RET video (Moodle).</td>
+      <td>külalisteadur A. Aluoja</td>
+      <td>Moodle</td>
+    </tr>
+    <tr>
+      <td>10.20–13.45</td>
+      <td>Praktikum. KKT harjutamine.</td>
+      <td>kl. psühholoog M. Juursoo</td>
+      <td>A2120</td>
+    </tr>
+
+    <!-- ========================== 28 NOV ========================== -->
+    <tr><td rowspan="2">R, 28.11</td>
+      <td>8.30–10.00</td>
+      <td>Psühhoaktiivsed ained: intoksikatsioon, sõltuvus.</td>
+      <td>kaasprof. S. Janno</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>10.20–13.45</td>
+      <td>Läbipõlemine, psühholoogiline vastupidavus.</td>
+      <td>kl. psühholoog T. Niiberg-Pikksööt</td>
+      <td>A2120</td>
+    </tr>
+
+    <!-- ========================== 1 DEC ========================== -->
+    <tr><td rowspan="2">E, 01.12</td>
+      <td>8.30–10.00</td>
+      <td>Skisofreenia: etioloogia, kulg, DD.</td>
+      <td>kaasprof. S. Janno</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>10.20–11.50</td>
+      <td>PSAK. Psühhootilised häired: sümptomatoloogia.</td>
+      <td>dr. K. Uppin</td>
+      <td>A2120</td>
+    </tr>
+
+    <!-- ========================== 2 DEC ========================== -->
+    <tr><td rowspan="3">T, 02.12</td>
+      <td>8.30–10.00</td>
+      <td>Meeleoluhäired: etioloogia, diagnostika.</td>
+      <td>assist. V. Veikat</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>10.20–11.50</td>
+      <td>PSAK. Teadvushäired, võõrutusdeliirium.</td>
+      <td>dr. R. Pihlakas</td>
+      <td>B1085</td>
+    </tr>
+    <tr>
+      <td>12.15–13.45</td>
+      <td>Suitsiid. Hindamine.</td>
+      <td>assist. V. Veikat</td>
+      <td>A2120</td>
+    </tr>
+
+    <!-- ========================== 3 DEC ========================== -->
+    <tr><td rowspan="2">K, 03.12</td>
+      <td>9.15–11.30</td>
+      <td>Ärevushäirete mudelid, KKT.</td>
+      <td>külalisteadur A. Aluoja</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>11.50–14.05</td>
+      <td>Psühhosomaatika.</td>
+      <td>kl. psühholoog T. Niiberg-Pikksööt</td>
+      <td>A3077</td>
+    </tr>
+
+    <!-- ========================== 4 DEC ========================== -->
+    <tr><td rowspan="3">N, 04.12</td>
+      <td>8.30–10.00</td>
+      <td>Psühhootiliste häirete ravi.</td>
+      <td>kaasprof. S. Janno</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>10.20–11.50</td>
+      <td>PSLN. Laste anamnees, psüühiline staatus.</td>
+      <td>dr. K. Kipper</td>
+      <td>A2072</td>
+    </tr>
+    <tr>
+      <td>12.15–13.45</td>
+      <td>Ärevus: diagnostika, ravi.</td>
+      <td>kaasprof. I. Tõru</td>
+      <td>A2120</td>
+    </tr>
+
+    <!-- ========================== 5 DEC ========================== -->
+    <tr><td rowspan="3">R, 05.12</td>
+      <td>8.30–10.00</td>
+      <td>Isiksushäired: ravi põhimõtted.</td>
+      <td>assist. V. Veikat</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>10.20–11.50</td>
+      <td>Depressiooni sümptomid. Video + arutelu.</td>
+      <td>assist. V. Veikat</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>12.15–13.45</td>
+      <td>Somatoformsed ja dissotsiatiivsed häired.</td>
+      <td>assist. V. Veikat</td>
+      <td>A2120</td>
+    </tr>
+
+    <!-- ========================== 8 DEC ========================== -->
+    <tr><td rowspan="3">E, 08.12</td>
+      <td>8.30–10.00</td>
+      <td>Kognitiivse võimekuse häired, õpiraskused.</td>
+      <td>dr. J. Kütner</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>10.20–11.50</td>
+      <td>PSAK. Vältimatu psühhiaatriline abi.</td>
+      <td>dr. T. Kiens</td>
+      <td>B1085</td>
+    </tr>
+    <tr>
+      <td>12.15–13.45</td>
+      <td>Psühholoogiline hindamine: isiksus (SNAP).</td>
+      <td>kl. psühholoog S. Kuusik</td>
+      <td>A2120</td>
+    </tr>
+
+    <!-- ========================== 9 DEC ========================== -->
+    <tr><td rowspan="3">T, 09.12</td>
+      <td>8.30–10.00</td>
+      <td>Laste ja noorte käitumishäired, sõltuvushäired.</td>
+      <td>dr. R. Reppo</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>10.20–11.50</td>
+      <td>PSÜP. Mittepsühhootilised orgaanilised häired.</td>
+      <td>assist. S. Tiivoja</td>
+      <td>A2056-1</td>
+    </tr>
+    <tr>
+      <td>12.15–13.45</td>
+      <td>Meeleoluhäired lastel ja noortel. Suitsidaalsus.</td>
+      <td>dr. R. Reppo</td>
+      <td>A2120</td>
+    </tr>
+
+    <!-- ========================== 10 DEC ========================== -->
+    <tr><td rowspan="3">K, 10.12</td>
+      <td>8.30–10.00</td>
+      <td>Meeleoluhäirete ravi: antidepressandid, tümostabilisaatorid.</td>
+      <td>kaasprof. I. Tõru</td>
+      <td>A3077</td>
+    </tr>
+    <tr>
+      <td>10.20–11.50</td>
+      <td>PSÜP. Meeleoluhäired: sümptomid, ravi, suicidohu diagnostika.</td>
+      <td>dr. H. Paadik</td>
+      <td>A2056-1</td>
+    </tr>
+    <tr>
+      <td>12.15–13.45</td>
+      <td>Psühhoosihaige küsitlemine. Video + arutelu.</td>
+      <td>kaasprof. S. Janno</td>
+      <td>A2120</td>
+    </tr>
+
+    <!-- ========================== 11 DEC ========================== -->
+    <tr><td rowspan="3">N, 11.12</td>
+      <td>8.30–10.00</td>
+      <td>Autism. Kiindumussuhte häire.</td>
+      <td>dr. L. Juursoo</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>10.20–11.50</td>
+      <td>Aktiivsus- ja tähelepanuhäire.</td>
+      <td>dr. L. Juursoo</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>12.15–13.45</td>
+      <td>Ärevus- ja tundeeluhäired lastel ja noorukitel.</td>
+      <td>dr. A. Susi</td>
+      <td>A2120</td>
+    </tr>
+
+    <!-- ========================== 12 DEC ========================== -->
+    <tr><td rowspan="3">R, 12.12</td>
+      <td>8.30–10.00</td>
+      <td>Sotsiaalne toimetulek ja toetavad teenused.</td>
+      <td>sotsiaaltöötaja K. Kaldma</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>10.20–11.50</td>
+      <td>PSAK. Psüühikahäirete diagnoos ja ravi vanemaealistel.</td>
+      <td>dr. T. Tint</td>
+      <td>B1085</td>
+    </tr>
+    <tr>
+      <td>12.30–14.00</td>
+      <td>Unehäired.</td>
+      <td>dr. T. Hion</td>
+      <td>BBB 1</td>
+    </tr>
+
+    <!-- ========================== 15 DEC ========================== -->
+    <tr><td rowspan="4">E, 15.12</td>
+      <td>8.30–10.00</td>
+      <td>Söömishäired.</td>
+      <td>lektor T. Sedman</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>10.20–11.50</td>
+      <td>PSLN. Anamnees noorukilt, psüühiline staatus.</td>
+      <td>dr. R. Reppo</td>
+      <td>A2072</td>
+    </tr>
+    <tr>
+      <td>12.15–13.45</td>
+      <td>Sõltuvushäirete psühholoogilised tegurid.</td>
+      <td>kl. psühholoog S. Kuusik</td>
+      <td>A2120</td>
+    </tr>
+    <tr>
+      <td>14.00–15.30</td>
+      <td>Psühhiaatrilise abi seadus, eetika, ekspertiisid.</td>
+      <td>kaasprof. S. Janno</td>
+      <td>A2120</td>
+    </tr>
+
+    <!-- ========================== 16 DEC ========================== -->
+    <tr><td rowspan="2">T, 16.12</td>
+      <td>8.30–10.00</td>
+      <td>Töö psühholoogilise traumaga.</td>
+      <td>külalisteadur A. Aluoja</td>
+      <td>A3077</td>
+    </tr>
+    <tr>
+      <td>10.20–13.45</td>
+      <td>Lastega töötamise iseärasused: hindamine ja psühhoteraapia.</td>
+      <td>kl. psühholoog K. Pruulmann</td>
+      <td>A3077</td>
+    </tr>
+
+    <!-- ========================== 17 DEC ========================== -->
+    <tr><td rowspan="3">K, 17.12</td>
+      <td>8.30–10.00</td>
+      <td>Vanemaealiste psühhiaatria: kliinilised avaldused.</td>
+      <td>kaasprof. I. Tõru</td>
+      <td>A3077</td>
+    </tr>
+    <tr>
+      <td>10.20–11.50</td>
+      <td>PSÜP. Söömishäiretega patsiendi küsitlus, DD, ravi.</td>
+      <td>dr. M. Paas</td>
+      <td>A2056-1</td>
+    </tr>
+    <tr>
+      <td>12.15–13.45</td>
+      <td>Seminar. Pereteraapia.</td>
+      <td>kl. psühholoog I. Põldsepp</td>
+      <td>A2120</td>
+    </tr>
+
+    <!-- ========================== 18 DEC ========================== -->
+    <tr>
+      <td>N, 18.12</td>
+      <td>—</td>
+      <td>VABA PÄEV</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+
+    <!-- ========================== 19 DEC ========================== -->
+    <tr>
+      <td>R, 19.12</td>
+      <td>9.00–10.30</td>
+      <td>Eksam</td>
+      <td>kaasprof. I. Tõru</td>
+      <td>A2120</td>
+    </tr>
+
+  </tbody>
+</table>
                 <section id="region-main" class="region-main-content" aria-label="Sisu">
                     <span class="notifications" id="user-notifications"></span>
                     <div role="main"><div class="course-content"><div id="course-format-68e40ae92b9f868e40ae8cf16e21">
