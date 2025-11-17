@@ -3,7 +3,58 @@
                     <span class="notifications" id="user-notifications"></span>
                     <div role="main"><div class="course-content"><div id="course-format-68e40a6947b8668e40a692f36a21">
     <h2 class="accesshide">Section outline</h2>
-    
+    <!-- 📅 Inserted Schedule Table -->
+                <table style="width:100%; border-collapse:collapse; margin:20px 0; background:#000; color:white; font-family:sans-serif; text-align:left;">
+                    <thead>
+                        <tr style="background:#222;">
+                            <th colspan="6" style="padding:8px; font-style:italic;">9. nädal</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Esmaspäev, 27.10</td>
+                            <td>08.15–13.00</td>
+                            <td>2, 17</td>
+                            <td>Rindkere</td>
+                            <td colspan="2" style="background:#375a7f; color:white;">Rauno Pihlak</td>
+                        </tr>
+                        <tr>
+                            <td>Teisipäev, 28.10</td>
+                            <td>08.15–13.00</td>
+                            <td>2, 17</td>
+                            <td>Muskoloskeletaal</td>
+                            <td colspan="2" style="background:#364900; color:white;">Jaanika Paemre</td>
+                        </tr>
+                        <tr>
+                            <td>Kolmapäev, 29.10</td>
+                            <td>08.15–13.00</td>
+                            <td>2, 17</td>
+                            <td>Närvisüsteem, nägu, kael</td>
+                            <td colspan="2" style="background:#0b3036; color:white;">Mariliis Tiidermann</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2">Neljapäev, 30.10</td>
+                            <td>08.15–10.30</td>
+                            <td>2, 17</td>
+                            <td>Isotoopdiagnostika</td>
+                            <td colspan="2" style="background:#6b5b95; color:white;">Kai Ulst</td>
+                        </tr>
+                        <tr>
+                            <td>10.30–13.00</td>
+                            <td>2, 17</td>
+                            <td>Lasteradioloogia</td>
+                            <td colspan="2" style="background:#5b2a00; color:white;">Mare Lintrop</td>
+                        </tr>
+                        <tr>
+                            <td>Reede, 31.10</td>
+                            <td>08.15–13.00</td>
+                            <td>2, 17</td>
+                            <td>Akuutradioloogia, test</td>
+                            <td colspan="2" style="background:#293500; color:white;">Pilvi Ilves</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <!-- End schedule table -->
     <ul class="topics" data-for="course_sectionlist">
                 <li id="section-0" class="section course-section main  clearfix
                              
