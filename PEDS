@@ -1,0 +1,510 @@
+<li id="section-0" class="section course-section main clearfix" role="region" aria-labelledby="sectionid-34000-title" data-sectionid="0" data-for="section" data-id="34000" data-number="0" data-indexed="true">
+    
+    <div class="content">
+            <h3 data-for="section_title" data-id="34000" data-number="0" id="sectionid-34000-title" class="section-title"><a href="https://moodle.ut.ee/course/view.php?id=2713#section-0"> </a></h3>
+            <div class="section_availability">
+</div>
+            <div class="summary">
+                <div class="no-overflow"><p><img src="https://moodle.ut.ee/pluginfile.php/250304/course/section/34000/banner2.png" width="417" style="display: block; margin-left: auto; margin-right: auto;" height="50"></p>
+<p style="text-align: center;"><strong><span style="font-size: medium;"><span style="color: rgb(0, 51, 102); --darkreader-inline-color: var(--darkreader-text-003366, #2ea1ff);" data-darkreader-inline-color="">&nbsp;</span></span></strong><span style="color: rgb(128, 128, 128); font-family: OpenSans, Arial, Helvetica, sans-serif; font-size: x-large; --darkreader-inline-color: var(--darkreader-text-808080, #a8b960);" data-darkreader-inline-color="">Arstiteaduse 5. kursusele</span></p>
+<p></p></div>
+                
+            </div>
+            <ul class="section m-0 p-0 img-text d-block" data-for="cmlist">
+            
+            
+            <li class="activity activity-wrapper url modtype_url  hasinfo indented" id="module-1403472" data-for="cmitem" data-id="1403472" data-indexed="true">
+        <div class="activity-item focus-control indent-1" data-activityname="Õppeaine versiooni info ARLA.01.042 (25/26 S PÕ)">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1403472" type="checkbox" data-id="1403472" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1403472">
+                            Vali tegevus Õppeaine versiooni info ARLA.01.042 (25/26 S PÕ)
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1772085238/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1403472" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1403472" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1403472&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Õppeaine versiooni info ARLA.01.042 (25/26 S PÕ) <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper page modtype_page  hasinfo " id="module-153584" data-for="cmitem" data-id="153584" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Lastehaiguste õppetöö korraldus lastekliinikus">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox153584" type="checkbox" data-id="153584" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox153584">
+                            Vali tegevus Lastehaiguste õppetöö korraldus lastekliinikus
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content page  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/page/1772085238/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="153584" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_page position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/page/view.php?id=153584" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/page/view.php?id=153584&amp;inpopup=1', '', 'width=900,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Lastehaiguste õppetöö korraldus lastekliinikus <span class="accesshide "> Leht</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper linkset modtype_linkset  hasinfo " id="module-619127" data-for="cmitem" data-id="619127" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Lastehaiguste õppeplaanid rühmadele (02.03.26)">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox619127" type="checkbox" data-id="619127" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox619127">
+                            Vali tegevus Lastehaiguste õppeplaanid rühmadele (02.03.26)
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller other linkset  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/linkset/1772085238/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="619127" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_linkset position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/linkset/view.php?id=619127" class=" aalink stretched-link" onclick="">        <span class="instancename">Lastehaiguste õppeplaanid rühmadele (02.03.26) <span class="accesshide "> Viidete lehekülg</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper resource modtype_resource  hasinfo indented" id="module-1185936" data-for="cmitem" data-id="1185936" data-indexed="true">
+        <div class="activity-item focus-control indent-1" data-activityname="Lastehaiguste loengute nimekiri">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1185936" type="checkbox" data-id="1185936" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1185936">
+                            Vali tegevus Lastehaiguste loengute nimekiri
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1772085238/f/pdf?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1185936" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/resource/view.php?id=1185936" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=1185936&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Lastehaiguste loengute nimekiri <span class="accesshide "> Fail</span></span>    </a>
+                                                        
+                                                        <span class="ms-1">
+                                                            <span class="activitybadge badge rounded-pill ">
+                                                                    
+                                                            </span>
+                                                        </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper resource modtype_resource  hasinfo indented" id="module-322866" data-for="cmitem" data-id="322866" data-indexed="true">
+        <div class="activity-item focus-control indent-1" data-activityname="Lastehaiguste seminaride nimekiri">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox322866" type="checkbox" data-id="322866" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox322866">
+                            Vali tegevus Lastehaiguste seminaride nimekiri
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1772085238/f/pdf?filtericon=1" class="activityicon " data-region="activity-icon" data-id="322866" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/resource/view.php?id=322866" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=322866&amp;redirect=1', '', 'width=900,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Lastehaiguste seminaride nimekiri <span class="accesshide "> Fail</span></span>    </a>
+                                                        
+                                                        <span class="ms-1">
+                                                            <span class="activitybadge badge rounded-pill ">
+                                                                    
+                                                            </span>
+                                                        </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper forum modtype_forum  hasinfo " id="module-811722" data-for="cmitem" data-id="811722" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Teated üliõpilastele">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox811722" type="checkbox" data-id="811722" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox811722">
+                            Vali tegevus Teated üliõpilastele
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller collaboration forum  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1772085238/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="811722" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_forum position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/forum/view.php?id=811722" class=" aalink stretched-link" onclick="">        <span class="instancename">Teated üliõpilastele <span class="accesshide "> Foorum</span></span>    </a>
+                                                        
+                                                        <span class="ms-1">
+                                                            <span class="activitybadge badge rounded-pill bg-dark text-white">
+                                                                    1 lugemata postitus
+                                                            </span>
+                                                        </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper label modtype_label  hasinfo " id="module-696273" data-for="cmitem" data-id="696273" data-indexed="true">
+        <div class="activity-item focus-control activityinline" data-activityname="Eksam">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox696273" type="checkbox" data-id="696273" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox696273">
+                            Vali tegevus Eksam
+                        </label>
+                    </div>
+
+                <div class="activity-grid noname-grid">
+                
+                
+                
+                
+                
+                
+                
+                        <div class="activity-altcontent text-break ">
+                            <div class="no-overflow"><div class="no-overflow"><h4><div class="attostylesbox attostylesbox-solid attostylesbox-solid-blue"><h4><span>Eksam</span></h4><hr id="null"></div></h4></div></div>
+                        </div>
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper page modtype_page  hasinfo " id="module-1074840" data-for="cmitem" data-id="1074840" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Lastehaiguste e-eksami korraldus õppeaastal 2025/2026">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1074840" type="checkbox" data-id="1074840" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1074840">
+                            Vali tegevus Lastehaiguste e-eksami korraldus õppeaastal 2025/2026
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content page  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/page/1772085238/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1074840" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_page position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/page/view.php?id=1074840" class=" aalink stretched-link" onclick="">        <span class="instancename">Lastehaiguste e-eksami korraldus õppeaastal 2025/2026 <span class="accesshide "> Leht</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper choice modtype_choice  hasinfo " id="module-1160831" data-for="cmitem" data-id="1160831" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Aususe lubadus (eksam)">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1160831" type="checkbox" data-id="1160831" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1160831">
+                            Vali tegevus Aususe lubadus (eksam)
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller communication choice  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/choice/1772085238/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1160831" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_choice position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/choice/view.php?id=1160831" class=" aalink stretched-link" onclick="">        <span class="instancename">Aususe lubadus (eksam) <span class="accesshide "> Küsitlus</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                            <div class="activity-completion align-self-start ms-sm-2">
+                                    <div data-region="activity-information" data-activityname="Aususe lubadus (eksam)" class="activity-information">
+                                            <div data-region="completion-info">
+                                                    <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Aususe lubadus (eksam) jaoks">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_69a81370c9c0121" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin btn-success   " type="button" id="dropwdownbutton_69a81370c9c0122" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                                    <i class="icon fa fa-check fa-fw " aria-hidden="true"></i> Tehtud
+                                                            </button>
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_69a81370c9c0122" data-for="dropdowndialog_dialog">
+                                                                <div class="p-2" data-for="dropdowndialog_content">
+                                                                        <div class="completion-dialog px-2">
+            <strong>You must</strong>
+
+        <div class="ms-2" role="list">
+                    <div class="d-flex mt-2 text-success" role="listitem">
+                        <div>
+                            <i class="icon fa fa-check fa-fw " aria-hidden="true"></i>
+                            <span class="sr-only">Tehtud:</span>
+                        </div>
+                        <span>Tee valik</span>
+                    </div>
+
+
+        </div>
+
+
+</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                    
+                                            </div>
+                                    </div>
+                            </div>
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper quiz modtype_quiz  hasinfo " id="module-1351727" data-for="cmitem" data-id="1351727" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Eksam 2025/26">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1351727" type="checkbox" data-id="1351727" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1351727">
+                            Vali tegevus Eksam 2025/26
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller assessment quiz  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1772085238/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1351727" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_quiz position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/quiz/view.php?id=1351727" class=" aalink stretched-link" onclick="">        <span class="instancename">Eksam 2025/26 <span class="accesshide "> Test</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                        <div class="activity-altcontent text-break activity-description">
+                            <div class="no-overflow"><div class="no-overflow"><p><span style="font-size: medium;">Test on avatud 13. rühmale ja 15.rühmale <strong>6. märtsil 2026&nbsp; 9.15-10.15&nbsp;</strong></span><br></p>
+<p><span style="font-size: small;">Test avaneb, kui teil on kinnitatud&nbsp;aususe lubadus, mis avaneb eelneval lingil&nbsp;<strong><em>Aususe lubadus (eksam)</em></strong>.&nbsp;&nbsp;</span><br><span style="font-size: small;">Pärast testi avamist on teil aega testi sooritada <strong>60 minutit</strong>.&nbsp;&nbsp;Testis on 50 valikvastustega küsimust, igaüks eraldi lehel. Lehtede vahel on võimalik vabalt liikuda.<strong>&nbsp;</strong>Järgmisele lehele liikudes sisestatud vastus salvestatakse.&nbsp;<br>Enne 60 minuti möödumist ja testi sulgumist peate jõudma vajutada nuppu <strong>"Esita kõik ja lõpeta"</strong>&nbsp;testi viimasel lehel all servas.&nbsp;</span></p></div></div>
+                        </div>
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper resource modtype_resource  hasinfo indented" id="module-1280205" data-for="cmitem" data-id="1280205" data-indexed="true">
+        <div class="activity-item focus-control indent-1" data-activityname="Kordamisteemad 6.kursuse lõpueksamiks (2024)">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1280205" type="checkbox" data-id="1280205" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1280205">
+                            Vali tegevus Kordamisteemad 6.kursuse lõpueksamiks (2024)
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1772085238/f/pdf?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1280205" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/resource/view.php?id=1280205" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=1280205&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Kordamisteemad 6.kursuse lõpueksamiks (2024) <span class="accesshide "> Fail</span></span>    </a>
+                                                        
+                                                        <span class="ms-1">
+                                                            <span class="activitybadge badge rounded-pill ">
+                                                                    
+                                                            </span>
+                                                        </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url  hasinfo " id="module-1444629" data-for="cmitem" data-id="1444629" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Õppeaine versiooni info ARLA.01.042 (25/26 K PÕ)">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1444629" type="checkbox" data-id="1444629" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1444629">
+                            Vali tegevus Õppeaine versiooni info ARLA.01.042 (25/26 K PÕ)
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1772085238/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1444629" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1444629" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1444629&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Õppeaine versiooni info ARLA.01.042 (25/26 K PÕ) <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+</ul>
+    </div>
+    
+</li>
