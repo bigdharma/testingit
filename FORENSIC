@@ -59,7 +59,7 @@
                                                                         <div class="bulkselect d-none" data-for="cmBulkSelect">
                                                                             <input id="cmCheckbox483013" type="checkbox" data-id="483013" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
                                                                             <label class="sr-only" for="cmCheckbox483013">
-                                                                                Vali tegevus Foorum õppejõult õppijatele
+                                                                                Vali ttegevus Foorum õppejõult õppijatele
                                                                             </label>
                                                                         </div>
 
