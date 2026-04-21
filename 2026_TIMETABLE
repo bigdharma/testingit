@@ -1,0 +1,100 @@
+const 2026_TIMETABLE = [
+  {
+    date: "2026-04-20",
+    timeStart: "08:15",
+    timeEnd: "12:30",
+    type: "Seminar",
+    title: "Nahahaige uurimise metoodika. Naha lööbeelemendid. Naha mädapöletikud. Sügelised. Täitõbi",
+    lecturer: "",
+    location: "",
+    notes: ""
+  },
+
+  {
+    date: "2026-04-21",
+    timeStart: "08:15",
+    timeEnd: "12:30",
+    type: "Seminar",
+    title: "Naha seenhaigused",
+     lecturer: "",
+    location: "",
+    notes: ""
+  },
+
+  {
+    date: "2026-04-22",
+    timeStart: "08:15",
+    timeEnd: "12:30",
+    type: "Seminar",
+    title: "Dermatiidid, ekseemid. Tööga seotud nahahaigused",
+    lecturer: "",
+    location: "",
+    notes: ""
+  },
+
+  {
+    date: "2026-04-23",
+    timeStart: "08:15",
+    timeEnd: "12:30",
+    type: "Seminar",
+    title: "Atoopiline dermatiit. Urtikaaria, sügelus, pruriigo",
+    lecturer: "",
+    location: "",
+    notes: ""
+  },
+
+  {
+    date: "2026-04-24",
+    timeStart: "08:15",
+    timeEnd: "12:30",
+    type: "Seminar",
+    title: "Psoriaas. Lame lihhen",
+    lecturer: "",
+    location: "",
+    notes: ""
+  },
+
+  {
+    date: "2026-04-27",
+    timeStart: "08:15",
+    timeEnd: "12:30",
+    type: "Seminar",
+    title: "Reaktiivsed erüteemid, viruslikud dermatoosid",
+    lecturer: "",
+    location: "",
+    notes: ""
+  },
+
+  {
+    date: "2026-04-28",
+    timeStart: "09:30",
+    timeEnd: "12:30",
+    type: "Seminar",
+    title: "Akne, rosaatsea",
+    lecturer: "",
+    location: "",
+    notes: ""
+  },
+
+  {
+    date: "2026-04-29",
+    timeStart: "08:15",
+    timeEnd: "12:30",
+    type: "Seminar",
+    title: "Healoomulised nahakasvajad. Vaskuliidid",
+    lecturer: "",
+    location: "",
+    notes: ""
+  },
+
+  {
+    date: "2026-04-30",
+    timeStart: "09:30",
+    timeEnd: "12:30",
+    type: "Seminar",
+    title: "eksam",
+    lecturer: "",
+    location: "",
+    notes: ""
+  }
+];
