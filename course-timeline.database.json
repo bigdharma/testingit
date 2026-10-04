@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "database_type": "course_timeline",
+  "courses": [
+    {
+      "id": "chemistry-2026-2027",
+      "subject": "Chemistry",
+      "academic_year": "2026-2027",
+      "source_language": "et",
+      "schedule_note": "Sisu on orienteeruv; võimalikud on väikesed nihked.",
+      "timeline": [
+        {
+          "id": "chemistry-lecture-01",
+          "date": "2026-09-02",
+          "kind": "lecture",
+          "sequence": 1,
+          "title": "Sissejuhatus",
+          "topics": [
+            "Milleks ja kuidas seda ainet õppida?",
+            "Mõõtemääramatus ja tüvenumbrid"
+          ]
+        },
+        {
+          "id": "chemistry-lecture-02",
+          "date": "2026-09-07",
+          "kind": "lecture",
+          "sequence": 2,
+          "topics": [
+            "Elemendid ja aatomid",
+            "Molekulid ja ained",
+            "Nomenklatuur"
+          ]
+        },
+        { "id": "chemistry-group-work-01", "date": "2026-09-09", "kind": "group_work", "sequence": 1, "topics": ["Eelneva loengu teemadel"] },
+        {
+          "id": "chemistry-lecture-03",
+          "date": "2026-09-14",
+          "kind": "lecture",
+          "sequence": 3,
+          "topics": [
+            "Mool ja molaarmass",
+            "Aine koostise kindlakstegemine",
+            "Segud, lahused, kontsentratsioon",
+            "Reaktsioonivõrrandid"
+          ]
+        },
+        { "id": "chemistry-group-work-02", "date": "2026-09-16", "kind": "group_work", "sequence": 2, "topics": ["Eelneva loengu teemadel"] },
+        {
+          "id": "chemistry-lecture-04",
+          "date": "2026-09-21",
+          "kind": "lecture",
+          "sequence": 4,
+          "topics": [
+            "Sadestusreaktsioonid",
+            "Happed ja alused",
+            "Redoksreaktsioonid",
+            "Reaktsiooni stöhhiomeetria ja sellel põhinevad arvutused"
+          ]
+        },
+        { "id": "chemistry-group-work-03", "date": "2026-09-23", "kind": "group_work", "sequence": 3, "topics": ["Eelneva loengu teemadel"] },
+        {
+          "id": "chemistry-lecture-05",
+          "date": "2026-09-28",
+          "kind": "lecture",
+          "sequence": 5,
+          "topics": ["Aatomid: kvantmaailm", "Perioodilisuse süsteem", "Keemiline side"]
+        },
+        { "id": "chemistry-test-01", "date": "2026-09-30", "kind": "test", "assessment_id": "chemistry-kt-01" },
+        {
+          "id": "chemistry-lecture-06",
+          "date": "2026-10-05",
+          "kind": "lecture",
+          "sequence": 6,
+          "topics": ["Molekulide kuju ja struktuur", "Molekulorbitaalid"]
+        },
+        { "id": "chemistry-group-work-04", "date": "2026-10-07", "kind": "group_work", "sequence": 4, "topics": ["Eelneva loengu teemadel"] },
+        {
+          "id": "chemistry-lecture-07",
+          "date": "2026-10-12",
+          "kind": "lecture",
+          "sequence": 7,
+          "topics": ["Gaaside omadused", "Vedelikud ja tahkised"]
+        },
+        { "id": "chemistry-group-work-05", "date": "2026-10-14", "kind": "group_work", "sequence": 5, "topics": ["Eelneva loengu teemadel"] },
+        {
+          "id": "chemistry-lecture-08",
+          "date": "2026-10-19",
+          "kind": "lecture",
+          "sequence": 8,
+          "topics": ["Perioodilised seosed aatomite omadustes", "1.-4. pealarühm"]
+        },
+        { "id": "chemistry-group-work-06", "date": "2026-10-21", "kind": "group_work", "sequence": 6, "topics": ["Eelneva loengu teemadel"] },
+        {
+          "id": "chemistry-lecture-09",
+          "date": "2026-10-26",
+          "kind": "lecture",
+          "sequence": 9,
+          "topics": ["Elemendid: 5.-8. pealarühm"]
+        },
+        { "id": "chemistry-test-02", "date": "2026-10-28", "kind": "test", "assessment_id": "chemistry-kt-02" },
+        {
+          "id": "chemistry-lecture-10",
+          "date": "2026-11-02",
+          "kind": "lecture",
+          "sequence": 10,
+          "topics": ["d-elemendid", "Kompleksühendite keemia"]
+        },
+        { "id": "chemistry-group-work-07", "date": "2026-11-04", "kind": "group_work", "sequence": 7, "topics": ["Eelneva loengu teemadel"] },
+        {
+          "id": "chemistry-lecture-11",
+          "date": "2026-11-09",
+          "kind": "lecture",
+          "sequence": 11,
+          "topics": ["Termodünaamika I-III seadus"]
+        },
+        { "id": "chemistry-group-work-08", "date": "2026-11-11", "kind": "group_work", "sequence": 8, "topics": ["Eelneva loengu teemadel"] },
+        {
+          "id": "chemistry-lecture-12",
+          "date": "2026-11-16",
+          "kind": "lecture",
+          "sequence": 12,
+          "topics": ["Füüsikaline ja keemiline tasakaal"]
+        },
+        { "id": "chemistry-test-03", "date": "2026-11-18", "kind": "test", "assessment_id": "chemistry-kt-03" },
+        {
+          "id": "chemistry-lecture-13",
+          "date": "2026-11-23",
+          "kind": "lecture",
+          "sequence": 13,
+          "topics": ["Elektrokeemia alused"]
+        },
+        { "id": "chemistry-group-work-09", "date": "2026-11-25", "kind": "group_work", "sequence": 9, "topics": ["Eelneva loengu teemadel"] },
+        {
+          "id": "chemistry-lecture-14",
+          "date": "2026-11-30",
+          "kind": "lecture",
+          "sequence": 14,
+          "topics": ["Happed ja alused", "Sadestustasakaalud"]
+        },
+        { "id": "chemistry-group-work-10", "date": "2026-12-02", "kind": "group_work", "sequence": 10, "topics": ["Eelneva loengu teemadel"] },
+        {
+          "id": "chemistry-lecture-15",
+          "date": "2026-12-07",
+          "kind": "lecture",
+          "sequence": 15,
+          "topics": ["Keemiline kineetika"]
+        },
+        { "id": "chemistry-group-work-11", "date": "2026-12-09", "kind": "group_work", "sequence": 11, "topics": ["Eelneva loengu teemadel"] },
+        {
+          "id": "chemistry-group-work-12",
+          "date": "2026-12-16",
+          "kind": "group_work",
+          "sequence": 12,
+          "topics": ["Viimase kontrolltöö teemadel (kordamine)"]
+        },
+        { "id": "chemistry-test-04", "date": "2027-01-06", "kind": "test", "assessment_id": "chemistry-kt-04" }
+      ],
+      "assessments": [
+        {
+          "id": "chemistry-kt-01",
+          "type": "kontrolltöö",
+          "sequence": 1,
+          "scheduled_date": "2026-09-30",
+          "coverage": { "lectures": [1, 2, 3, 4], "group_work": [1, 2, 3] },
+          "retake_session_ids": ["chemistry-retake-kt-01"]
+        },
+        {
+          "id": "chemistry-kt-02",
+          "type": "kontrolltöö",
+          "sequence": 2,
+          "scheduled_date": "2026-10-28",
+          "coverage": { "lectures": [5, 6, 7], "group_work": [4, 5] },
+          "retake_session_ids": ["chemistry-retake-kt-02"]
+        },
+        {
+          "id": "chemistry-kt-03",
+          "type": "kontrolltöö",
+          "sequence": 3,
+          "scheduled_date": "2026-11-18",
+          "coverage": { "lectures": [8, 9, 10], "group_work": [6, 7] },
+          "retake_session_ids": ["chemistry-retake-kt-03"]
+        },
+        {
+          "id": "chemistry-kt-04",
+          "type": "kontrolltöö",
+          "sequence": 4,
+          "scheduled_date": "2027-01-06",
+          "coverage": { "lectures": [11, 12, 13, 14, 15], "group_work": [8, 9, 10, 11, 12] },
+          "retake_session_ids": ["chemistry-retake-kt-04", "chemistry-third-attempt-all-kts"]
+        }
+      ],
+      "assessment_sessions": [
+        {
+          "id": "chemistry-retake-kt-01",
+          "kind": "retake",
+          "assessment_ids": ["chemistry-kt-01"],
+          "date": "2026-10-12",
+          "time": "18:15",
+          "location": "Vanemuise 46-225"
+        },
+        {
+          "id": "chemistry-retake-kt-02",
+          "kind": "retake",
+          "assessment_ids": ["chemistry-kt-02"],
+          "date": "2026-11-09",
+          "time": "18:15",
+          "location": "Vanemuise 46-225"
+        },
+        {
+          "id": "chemistry-retake-kt-03",
+          "kind": "retake",
+          "assessment_ids": ["chemistry-kt-03"],
+          "date": "2026-11-30",
+          "time": "18:15",
+          "location": "Vanemuise 46-225"
+        },
+        {
+          "id": "chemistry-retake-kt-04",
+          "kind": "retake",
+          "assessment_ids": ["chemistry-kt-04"],
+          "date": "2027-01-13",
+          "time": "10:15",
+          "location": "Vanemuise 46-225"
+        },
+        {
+          "id": "chemistry-third-attempt-all-kts",
+          "kind": "third_attempt",
+          "assessment_ids": ["chemistry-kt-01", "chemistry-kt-02", "chemistry-kt-03", "chemistry-kt-04"],
+          "date": "2027-01-20",
+          "time": "10:15",
+          "location": "Vanemuise 46-225",
+          "note": "Kõiki kontrolltöid saab jaanuaris kirjutada ka kolmandat korda."
+        }
+      ]
+    },
+    {
+      "id": "higher-mathematics-i-2026",
+      "subject": "Kõrgem matemaatika I",
+      "course_codes": ["MTMM.00.340", "LTMS.00.081"],
+      "credits_eap": 6,
+      "academic_year": "2026-2027",
+      "source_language": "et",
+      "timezone": "Europe/Tallinn",
+      "timeline": [
+        { "id": "math-lecture-01", "date": "2026-09-01", "start_time": "08:15", "end_time": "10:00", "kind": "lecture", "sequence": 1, "location": "Ostwaldi A106", "title": "Sissejuhatus. Vektorid ruumis.", "topics": ["Vektorid ruumis", "Vektorite skalaarkorrutis", "Vektorite vaheline nurk", "Vektorite vektorkorrutis ja segakorrutis"] },
+        { "id": "math-lecture-02", "date": "2026-09-07", "kind": "lecture", "sequence": 2, "title": "Vektorid ruumis. Sirge ja tasand ruumis. Kompleksarvud.", "topics": ["Sirge ja tasandi kanooniline võrrand ruumis", "Punkti kaugus sirgest ja tasandist", "Kompleksarvu algebraline kuju", "Kaaskompleksarv, moodul ja argument", "Kompleksarvude geomeetriline esitamine"] },
+        { "id": "math-lecture-03", "date": "2026-09-14", "kind": "lecture", "sequence": 3, "title": "Kompleksarvud.", "topics": ["Kompleksarvu trigonomeetriline ja eksponentkuju", "Tehted trigonomeetrilisel ja eksponentkujul", "De Moivre’i valem ja n-astme juured", "Kõrgema astme võrrandite lahendamine"] },
+        { "id": "math-lecture-04", "date": "2026-09-21", "kind": "lecture", "sequence": 4, "title": "Funktsioonid ja nende graafikud.", "topics": ["Funktsiooni mõiste", "Määramis- ja muutumispiirkond", "Liitfunktsioon", "Pöördfunktsioon", "Põhilised elementaarfunktsioonid"] },
+        { "id": "math-lecture-05", "date": "2026-09-28", "kind": "lecture", "sequence": 5, "title": "Funktsiooni piirväärtus, pidevus. Tuletise definitsioon.", "topics": ["Ühepoolne piirväärtus", "Piirväärtuse omadused ja arvutamine", "Funktsiooni pidevus", "Tuletise füüsikaline ja geomeetriline sisu"] },
+        { "id": "math-lecture-06", "date": "2026-10-05", "kind": "lecture", "sequence": 6, "delivery_note": "Iseseisvalt: loeng vaadata salvestuselt.", "title": "Funktsiooni tuletis ja diferentsiaal.", "topics": ["Liitfunktsiooni tuletis", "Kõrgemat järku tuletis", "Funktsiooni diferentsiaal", "Diferentsiaali kasutamine ligikaudsetes arvutustes", "Joone puutuja ja normaali võrrandid"] },
+        { "id": "math-lecture-07", "date": "2026-10-12", "kind": "lecture", "sequence": 7, "title": "Funktsiooni uurimine. Määramata integraal.", "topics": ["Diferentsiaalarvutuse keskväärtusteoreemid", "Kasvamis- ja kahanemispiirkonnad", "Ekstreemumid, nõgusus ja kumerus", "Algfunktsioon", "Määramata integraal", "Muutujavahetus"] },
+        { "id": "math-lecture-08", "date": "2026-10-19", "kind": "lecture", "sequence": 8, "title": "Määramata integraal. Harilikud diferentsiaalvõrrandid.", "topics": ["Ositi integreerimine", "Ratsionaalfunktsioonide integreerimine", "Hariliku diferentsiaalvõrrandi mõiste ja lahend", "Eraldatud ja eralduvate muutujatega võrrandid"] },
+        { "id": "math-lecture-09", "date": "2026-10-26", "kind": "lecture", "sequence": 9, "title": "Lineaar­sed esimest järku diferentsiaalvõrrandid.", "topics": ["Eralduvate muutujatega võrrandid", "Lineaarsed diferentsiaalvõrrandid"] },
+        { "id": "math-lecture-10", "date": "2026-11-02", "kind": "lecture", "sequence": 10, "title": "Riemanni integraal. Määratud integraal.", "topics": ["Riemanni summad", "Määratud integraali omadused", "Newton-Leibnizi valem", "Numbriline integreerimine: ristkülik-, trapets- ja Simpsoni valem"] },
+        { "id": "math-lecture-11", "date": "2026-11-09", "kind": "lecture", "sequence": 11, "delivery_note": "Iseseisvalt: loeng vaadata salvestuselt.", "title": "Määratud integraali arvutamine", "topics": ["Ositi integreerimine", "Ratsionaalfunktsioonide integreerimine", "Kõvertrapetsi pindala"] },
+        { "id": "math-lecture-12", "date": "2026-11-16", "kind": "lecture", "sequence": 12, "title": "Määratud integraali rakendused", "topics": ["Joone kaare pikkus", "Keha ruumala", "Määratud integraali füüsikalised rakendused"] },
+        { "id": "math-lecture-13", "date": "2026-11-23", "kind": "lecture", "sequence": 13, "title": "Trigonomeetriliste funktsioonide ja irratsionaalfunktsioonide integreerimine. Päratud integraalid.", "topics": ["Trigonomeetriliste funktsioonide integreerimine", "Irratsionaalfunktsioonide integreerimine", "Lõpmatute rajadega integraalid"] },
+        { "id": "math-lecture-14", "date": "2026-11-30", "kind": "lecture", "sequence": 14, "title": "Päratud integraalid. Maatriksid.", "topics": ["Integraal tõkestamata funktsioonist", "Tehted maatriksitega", "Maatriksite korrutamine", "Tehete omadused", "Ühikmaatriks ja nullmaatriks"] },
+        { "id": "math-lecture-15", "date": "2026-12-07", "kind": "lecture", "sequence": 15, "title": "Determinandid. Pöördmaatriks", "topics": ["Determinandi arendamine rea või veeru järgi", "Determinantide põhiomadused", "Pöördmaatriks", "Lihtsamate maatriksvõrrandite lahendamine"] },
+        { "id": "math-lecture-16", "date": "2026-12-14", "kind": "lecture", "sequence": 16, "delivery_note": "Iseseisvalt: loeng vaadata salvestuselt.", "title": "Maatriksi astak. Lineaarvõrrandisüsteemid", "topics": ["Lineaarvõrrandisüsteemid", "Crameri peajuht ja valemid", "Gaussi meetod", "Homogeenne lineaarvõrrandisüsteem"] }
+      ],
+      "assessments": [
+        { "id": "math-input-exercises", "type": "practice", "title": "Avaldiste sisestamise harjutused", "availability": { "opens_at": "2026-09-01T08:30", "closes_at": null }, "platform": "Moodle", "grading": { "points": 0, "attempts": "unlimited" } },
+        { "id": "math-pretest", "type": "pretest", "title": "Matemaatika eeltest", "availability": { "opens_at": "2026-09-01T10:00", "closes_at": "2026-09-13T22:00" }, "platform": "Moodle", "grading": { "max_points": 1, "attempts": 1 } },
+        { "id": "math-graded-test-01", "type": "graded_test", "sequence": 1, "availability": { "opens_at": "2026-09-14T14:00", "closes_at": "2026-09-20T22:00" }, "platform": "Moodle", "grading": { "max_points": 2, "attempts": 10, "required": true }, "topics": ["Vektorid", "Sirged ja tasandid ruumis"] },
+        { "id": "math-class-test-01", "type": "class_test", "sequence": 1, "candidate_dates": ["2026-09-22", "2026-09-23", "2026-09-24"], "practical_session": 7, "topics": ["Vektorid", "Sirged ja tasandid ruumis", "Kompleksarvud"] },
+        { "id": "math-graded-test-02", "type": "graded_test", "sequence": 2, "availability": { "opens_at": "2026-09-21T14:00", "closes_at": "2026-09-27T22:00" }, "platform": "Moodle", "grading": { "max_points": 2, "attempts": 10, "required": true }, "topics": ["Kompleksarvud", "Funktsioonid"] },
+        { "id": "math-control-work-01", "type": "kontrolltöö", "sequence": 1, "scheduled_at": "2026-10-05T12:15", "lecture_sequence": 6, "topics": ["Kontrolltöö nr 1 teemad"] },
+        { "id": "math-graded-test-03", "type": "graded_test", "sequence": 3, "availability": { "opens_at": "2026-10-05T14:00", "closes_at": "2026-10-11T22:00" }, "platform": "Moodle", "grading": { "max_points": 2, "attempts": 10, "required": true }, "topics": ["Piirväärtus", "Pidevus", "Tuletis"] },
+        { "id": "math-class-test-02", "type": "class_test", "sequence": 2, "candidate_dates": ["2026-10-20", "2026-10-21", "2026-10-22"], "practical_session": 15, "topics": ["Funktsioonid", "Funktsiooni tuletis ja diferentsiaal", "Tuletise rakendused"] },
+        { "id": "math-graded-test-04", "type": "graded_test", "sequence": 4, "availability": { "opens_at": "2026-10-19T14:00", "closes_at": "2026-10-25T22:00" }, "platform": "Moodle", "grading": { "max_points": 2, "attempts": 10, "required": true }, "topics": ["Funktsiooni pidevus", "Tuletis, rakendused", "Määramata integraal"] },
+        { "id": "math-control-work-02", "type": "kontrolltöö", "sequence": 2, "scheduled_at": "2026-11-09T12:15", "lecture_sequence": 11, "topics": ["Kontrolltöö nr 2 teemad"] },
+        { "id": "math-class-test-03", "type": "class_test", "sequence": 3, "candidate_dates": ["2026-11-17", "2026-11-18", "2026-11-19"], "practical_session": 23, "topics": ["Diferentsiaalvõrrandid", "Määratud integraal"] },
+        { "id": "math-graded-test-05", "type": "graded_test", "sequence": 5, "availability": { "opens_at": "2026-11-16T14:00", "closes_at": "2026-11-22T22:00" }, "platform": "Moodle", "grading": { "max_points": 2, "attempts": 10, "required": true }, "topics": ["Diferentsiaalvõrrandid", "Määratud integraal"] },
+        { "id": "math-graded-test-06", "type": "graded_test", "sequence": 6, "availability": { "opens_at": "2026-11-30T14:00", "closes_at": "2026-12-06T22:00" }, "platform": "Moodle", "grading": { "max_points": 2, "attempts": 10, "required": true }, "topics": ["Määratud integraali rakendused", "Päratud integraalid"] },
+        { "id": "math-class-test-04", "type": "class_test", "sequence": 4, "candidate_dates": ["2026-12-08", "2026-12-09", "2026-12-10"], "practical_session": 29, "topics": ["Päratud integraalid", "Maatriksid"] },
+        { "id": "math-control-work-03", "type": "kontrolltöö", "sequence": 3, "scheduled_at": "2026-12-14T12:00", "end_time": "14:00", "lecture_sequence": 16, "topics": ["Kontrolltöö nr 3 teemad"] },
+        { "id": "math-graded-test-07", "type": "graded_test", "sequence": 7, "availability": { "opens_at": "2026-12-14T14:00", "closes_at": "2026-12-20T22:00" }, "platform": "Moodle", "grading": { "max_points": 2, "attempts": 10, "required": true }, "topics": ["Maatriksid", "Determinandid", "Lineaarvõrrandisüsteemid"] }
+      ],
+      "assessment_sessions": [
+        { "id": "math-control-work-01-preparation", "kind": "practice_window", "assessment_ids": ["math-control-work-01"], "availability": { "opens_at": "2026-09-28T14:00", "closes_at": "2026-10-04T22:00" }, "platform": "Moodle" },
+        { "id": "math-retake-01", "kind": "retake", "assessment_ids": ["math-control-work-01"], "date": "2026-10-26", "start_time": "18:00", "end_time": "20:00", "registration": "ÕIS" },
+        { "id": "math-control-work-02-preparation", "kind": "practice_window", "assessment_ids": ["math-control-work-02"], "availability": { "opens_at": "2026-11-02T14:00", "closes_at": "2026-11-08T22:00" }, "platform": "Moodle" },
+        { "id": "math-retake-02", "kind": "retake", "assessment_ids": ["math-control-work-02"], "date": "2026-11-23", "start_time": "18:00", "end_time": "20:00", "registration": "ÕIS" },
+        { "id": "math-control-work-03-preparation", "kind": "practice_window", "assessment_ids": ["math-control-work-03"], "availability": { "opens_at": "2026-12-07T14:00", "closes_at": "2026-12-13T22:00" }, "platform": "Moodle", "attempts": 5 },
+        { "id": "math-additional-feedback", "kind": "feedback_window", "availability": { "opens_at": "2026-12-14T14:00", "closes_at": "2027-01-15T22:00" }, "platform": "Moodle", "grading": { "max_bonus_points": 2 } },
+        { "id": "math-retake-03", "kind": "retake", "assessment_ids": ["math-control-work-03"], "date": "2027-01-04", "registration": "ÕIS", "time_note": "Kellaaega PDF ei täpsusta." }
+      ]
+    }
+  ]
+}
