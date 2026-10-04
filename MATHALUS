@@ -1,8 +1,7 @@
-<div id="page-content" class="row  blocks-pre  ">
-            <div id="region-main-box" class="region-main">
+<div id="region-main-box" class="region-main">
                 <section id="region-main" class="region-main-content" aria-label="Sisu">
                     <span class="notifications" id="user-notifications"></span>
-                    <div role="main"><span id="maincontent"></span><div class="course-content"><div id="6ac22c472f7686ac22c46e439260-course-format" class="stateready">
+                    <div role="main"><span id="maincontent"></span><div class="course-content"><div id="6ac2341ca91386ac2341c70b3d60-course-format" class="stateready">
     <h2 class="accesshide">Matemaatika alused (MTMM.00.242) | TÜ Moodle</h2>
     <style type="text/css" media="screen">
     /* <![CDATA[ */
@@ -62,7 +61,7 @@
     }
 
     /* ]]> */
-</style><style class="darkreader darkreader--sync" media="screen"></style><ul class="ctopics"><li id="section-0" class="section course-section main clearfix" role="region" aria-labelledby="sectionid-68747-title" data-sectionid="0" data-for="section" data-id="68747" data-number="0" data-indexed="true">
+</style><ul class="ctopics"><li id="section-0" class="section course-section main clearfix" role="region" aria-labelledby="sectionid-68747-title" data-sectionid="0" data-for="section" data-id="68747" data-number="0" data-indexed="true">
     
     <div class="content">
             <h3 data-for="section_title" data-id="68747" data-number="0" id="sectionid-68747-title" class="section-title"><a href="https://moodle.ut.ee/course/view.php?id=5081#section-0">Hea üliõpilane!</a></h3>
@@ -95,8 +94,8 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><h3 style="text-align: left;"><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color=""><strong>Kontrolltöö nr 1&nbsp; </strong><span class="" style="color: rgb(0, 38, 128); --darkreader-inline-color: var(--darkreader-text-002680, #7fbcff);" data-darkreader-inline-color="">toimub 23. septembril Moodle'i testina. </span></span><span class="" style="color: rgb(0, 38, 128); --darkreader-inline-color: var(--darkreader-text-002680, #7fbcff);" data-darkreader-inline-color="">Kontrolltöö sooritamiseks on aega 3 tundi (ajavahemikus 16.00-23.59), sooritatuks loetakse tulemus vähemalt 50%, võimalikke katseid sellele tulemusele jõudmiseks on 3.</span></h3>
-<h3 style="text-align: left;"><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color=""><strong>Kontrolltöö nr 2 &nbsp;</strong></span><span class="" style="color: rgb(0, 38, 128); --darkreader-inline-color: var(--darkreader-text-002680, #7fbcff);" data-darkreader-inline-color="">toimub 23. oktoobril Moodle'i testina. </span><span class="" style="color: rgb(0, 38, 128); --darkreader-inline-color: var(--darkreader-text-002680, #7fbcff);" data-darkreader-inline-color="">Kontrolltöö sooritamiseks on aega 3 tundi (ajavahemikus 8.00-23.59), sooritatuks loetakse tulemus vähemalt 50%, võimalikke katseid sellele tulemusele jõudmiseks on 3.</span></h3></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><h3 style="text-align: left;"><span class="" style="color: #ff3366;"><strong>Kontrolltöö nr 1&nbsp; </strong><span class="" style="color: #002680;">toimub 23. septembril Moodle'i testina. </span></span><span class="" style="color: #002680;">Kontrolltöö sooritamiseks on aega 3 tundi (ajavahemikus 16.00-23.59), sooritatuks loetakse tulemus vähemalt 50%, võimalikke katseid sellele tulemusele jõudmiseks on 3.</span></h3>
+<h3 style="text-align: left;"><span class="" style="color: #ff3366;"><strong>Kontrolltöö nr 2 &nbsp;</strong></span><span class="" style="color: #002680;">toimub 23. oktoobril Moodle'i testina. </span><span class="" style="color: #002680;">Kontrolltöö sooritamiseks on aega 3 tundi (ajavahemikus 8.00-23.59), sooritatuks loetakse tulemus vähemalt 50%, võimalikke katseid sellele tulemusele jõudmiseks on 3.</span></h3></div></div>
                         </div>
                 
                 
@@ -123,7 +122,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><h3 style="text-align: left;"><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color=""><strong>Kontrolltöö nr 1.&nbsp;&nbsp;</strong><span class="" style="color: rgb(0, 38, 128); --darkreader-inline-color: var(--darkreader-text-002680, #7fbcff);" data-darkreader-inline-color="">Kontrolltööd saate teha alloleva lingi alt 23.09 kell 16.00-23.59. Kontrolltöö sooritamiseks on aega 3 tundi, sooritatuks loetakse tulemus vähemalt 50%, võimalikke katseid sellele tulemusele jõudmiseks on 3.&nbsp;<br></span></span><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color=""><span class="" style="color: rgb(0, 38, 128); --darkreader-inline-color: var(--darkreader-text-002680, #7fbcff);" data-darkreader-inline-color="">Edu!</span></span></h3></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><h3 style="text-align: left;"><span class="" style="color: #ff3366;"><strong>Kontrolltöö nr 1.&nbsp;&nbsp;</strong><span class="" style="color: #002680;">Kontrolltööd saate teha alloleva lingi alt 23.09 kell 16.00-23.59. Kontrolltöö sooritamiseks on aega 3 tundi, sooritatuks loetakse tulemus vähemalt 50%, võimalikke katseid sellele tulemusele jõudmiseks on 3.&nbsp;<br></span></span><span class="" style="color: #ff3366;"><span class="" style="color: #002680;">Edu!</span></span></h3></div></div>
                         </div>
                 
                 
@@ -587,7 +586,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color="">Enesekontrollitest:</span></strong></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102);">Enesekontrollitest:</span></strong></p></div></div>
                         </div>
                 
                 
@@ -628,11 +627,11 @@
                                     <div data-region="activity-information" data-activityname="Test nr 1. Arvuhulgad ja nende omadused" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Test nr 1. Arvuhulgad ja nende omadused jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c46e439234" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac22c46e439235" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2341c70b3d34" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac2341c70b3d35" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     Teha
                                                             </button>
-                                                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropwdownbutton_6ac22c46e439235" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropwdownbutton_6ac2341c70b3d35" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -686,7 +685,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><span style="color: rgb(45, 194, 107); --darkreader-inline-color: var(--darkreader-text-2dc26b, #4ed686);" data-darkreader-inline-color=""><strong><span class="">Väljakutsetest:</span></strong></span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><span style="color: #2dc26b;"><strong><span class="">Väljakutsetest:</span></strong></span></p></div></div>
                         </div>
                 
                 
@@ -893,7 +892,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color="">Enesekontrollitestid:</span></strong></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102);">Enesekontrollitestid:</span></strong></p></div></div>
                         </div>
                 
                 
@@ -934,11 +933,11 @@
                                     <div data-region="activity-information" data-activityname="Test nr 2. Arvu kordsed ja tegurid. SÜT ja VÜK" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Test nr 2. Arvu kordsed ja tegurid. SÜT ja VÜK jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c46e439236" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac22c46e439237" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2341c70b3d36" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac2341c70b3d37" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     Teha
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c46e439237" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2341c70b3d37" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -1006,11 +1005,11 @@
                                     <div data-region="activity-information" data-activityname="Test nr 3. Tehted murdudega" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Test nr 3. Tehted murdudega jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c46e439238" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac22c46e439239" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2341c70b3d38" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac2341c70b3d39" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     Teha
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c46e439239" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2341c70b3d39" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -1064,7 +1063,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><span style="color: rgb(45, 194, 107); --darkreader-inline-color: var(--darkreader-text-2dc26b, #4ed686);" data-darkreader-inline-color=""><strong><span class="">Väljakutsetest:</span></strong></span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><span style="color: #2dc26b;"><strong><span class="">Väljakutsetest:</span></strong></span></p></div></div>
                         </div>
                 
                 
@@ -1392,7 +1391,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color="">Enesekontrollitest:</span></strong></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102);">Enesekontrollitest:</span></strong></p></div></div>
                         </div>
                 
                 
@@ -1433,11 +1432,11 @@
                                     <div data-region="activity-information" data-activityname="Test nr 4. Tehted astmetega" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Test nr 4. Tehted astmetega jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c46e439240" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac22c46e439241" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2341c70b3d40" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac2341c70b3d41" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     Teha
                                                             </button>
-                                                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropwdownbutton_6ac22c46e439241" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropwdownbutton_6ac2341c70b3d41" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -1491,7 +1490,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><span style="color: rgb(45, 194, 107); --darkreader-inline-color: var(--darkreader-text-2dc26b, #4ed686);" data-darkreader-inline-color=""><strong><span class="">Väljakutsetest:</span></strong></span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><span style="color: #2dc26b;"><strong><span class="">Väljakutsetest:</span></strong></span></p></div></div>
                         </div>
                 
                 
@@ -1809,7 +1808,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color="">Enesekontrollitest:</span></strong></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102);">Enesekontrollitest:</span></strong></p></div></div>
                         </div>
                 
                 
@@ -1850,11 +1849,11 @@
                                     <div data-region="activity-information" data-activityname="Test nr 5. Protsendi mõiste, protsentülesanded" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Test nr 5. Protsendi mõiste, protsentülesanded jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c46e439242" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac22c46e439243" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2341c70b3d42" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac2341c70b3d43" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     Teha
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c46e439243" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2341c70b3d43" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -1908,7 +1907,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><span style="color: rgb(45, 194, 107); --darkreader-inline-color: var(--darkreader-text-2dc26b, #4ed686);" data-darkreader-inline-color=""><strong><span class="">Väljakutsetest:</span></strong></span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><span style="color: #2dc26b;"><strong><span class="">Väljakutsetest:</span></strong></span></p></div></div>
                         </div>
                 
                 
@@ -2320,7 +2319,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color="">Enesekontrollitest:</span></strong></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102);">Enesekontrollitest:</span></strong></p></div></div>
                         </div>
                 
                 
@@ -2361,11 +2360,11 @@
                                     <div data-region="activity-information" data-activityname="Test nr 6. Tuletised" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Test nr 6. Tuletised jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c46e439244" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac22c46e439245" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2341c70b3d44" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac2341c70b3d45" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     Teha
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c46e439245" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2341c70b3d45" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -2419,7 +2418,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><span style="color: rgb(45, 194, 107); --darkreader-inline-color: var(--darkreader-text-2dc26b, #4ed686);" data-darkreader-inline-color=""><strong><span class="">Väljakutsetest:</span></strong></span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><span style="color: #2dc26b;"><strong><span class="">Väljakutsetest:</span></strong></span></p></div></div>
                         </div>
                 
                 
@@ -2673,7 +2672,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color="">Enesekontrollitest:</span></strong></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102);">Enesekontrollitest:</span></strong></p></div></div>
                         </div>
                 
                 
@@ -2714,11 +2713,11 @@
                                     <div data-region="activity-information" data-activityname="Test nr 7. Integraalid" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Test nr 7. Integraalid jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c46e439246" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac22c46e439247" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2341c70b3d46" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac2341c70b3d47" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     Teha
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c46e439247" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2341c70b3d47" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -2805,7 +2804,7 @@
 </div>
                 <div id="toggledsection-7" class="sectionbody toggledsection">
             <div class="summary"><div class="no-overflow"><p>Kontrolltöö toimub Moodle'i testina, millele lingi leiate kursuse esilehelt.&nbsp;<br></p>
-<p><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color=""><strong>Auditoorset tundi sel korral (23.09.2026) ei toimu!</strong></span></p></div></div>
+<p><span class="" style="color: #ff3366;"><strong>Auditoorset tundi sel korral (23.09.2026) ei toimu!</strong></span></p></div></div>
             <ul class="section m-0 p-0 img-text" data-for="cmlist">
 </ul>
         </div>
@@ -3145,7 +3144,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color="">Enesekontrollitestid:</span></strong></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102);">Enesekontrollitestid:</span></strong></p></div></div>
                         </div>
                 
                 
@@ -3186,11 +3185,11 @@
                                     <div data-region="activity-information" data-activityname="Test nr 8. Ühe muutujaga võrrand" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Test nr 8. Ühe muutujaga võrrand jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c46e439248" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac22c46e439249" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2341c70b3d48" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac2341c70b3d49" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     Teha
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c46e439249" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2341c70b3d49" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -3258,11 +3257,11 @@
                                     <div data-region="activity-information" data-activityname="Test nr 9. Võrrandisüsteemid" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Test nr 9. Võrrandisüsteemid jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c46e439250" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac22c46e439251" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2341c70b3d50" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac2341c70b3d51" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     Teha
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c46e439251" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2341c70b3d51" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -3491,7 +3490,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color="">Enesekontrollitest:</span></strong></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102);">Enesekontrollitest:</span></strong></p></div></div>
                         </div>
                 
                 
@@ -3532,11 +3531,11 @@
                                     <div data-region="activity-information" data-activityname="Test nr 10. Võrratused" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Test nr 10. Võrratused jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c46e439252" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac22c46e439253" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2341c70b3d52" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac2341c70b3d53" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     Teha
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c46e439253" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2341c70b3d53" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -4198,7 +4197,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color="">Enesekontrollitest:</span></strong></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102);">Enesekontrollitest:</span></strong></p></div></div>
                         </div>
                 
                 
@@ -4239,11 +4238,11 @@
                                     <div data-region="activity-information" data-activityname="Test nr 11. Logaritm, logaritmvõrrand ja eksponentvõrrand" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Test nr 11. Logaritm, logaritmvõrrand ja eksponentvõrrand jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c46e439254" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac22c46e439255" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2341c70b3d54" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac2341c70b3d55" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     Teha
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c46e439255" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2341c70b3d55" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -4477,7 +4476,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color="">Enesekontrollitest:</span></strong></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102);">Enesekontrollitest:</span></strong></p></div></div>
                         </div>
                 
                 
@@ -4518,11 +4517,11 @@
                                     <div data-region="activity-information" data-activityname="Test nr 12. Trigonomeetria" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Test nr 12. Trigonomeetria jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c46e439256" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac22c46e439257" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2341c70b3d56" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac2341c70b3d57" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     Teha
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c46e439257" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2341c70b3d57" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -4756,7 +4755,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color="">Enesekontrollitest:</span></strong></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102);">Enesekontrollitest:</span></strong></p></div></div>
                         </div>
                 
                 
@@ -4958,7 +4957,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color="">Enesekontrollitest:</span></strong></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 51, 102);">Enesekontrollitest:</span></strong></p></div></div>
                         </div>
                 
                 
@@ -4999,11 +4998,11 @@
                                     <div data-region="activity-information" data-activityname="Test nr 14. Vektorid tasandil ja ruumis" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Test nr 14. Vektorid tasandil ja ruumis jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c46e439258" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac22c46e439259" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2341c70b3d58" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac2341c70b3d59" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     Teha
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c46e439259" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2341c70b3d59" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -5148,114 +5147,3 @@
                     
                 </section>
             </div>
-            <div class="columnleft blockcolumn  has-blocks ">
-                <section data-region="blocks-column" class="hidden-print" aria-label="Plokid">
-                    <aside id="block-region-side-pre" class="block-region" data-blockregion="side-pre" data-droptarget="1" aria-labelledby="side-pre-block-region-heading"><h2 class="sr-only" id="side-pre-block-region-heading">Plokid</h2><a href="#sb-1" class="sr-only sr-only-focusable">Jäta vahele Tegevused</a>
-
-<section id="inst1418919" class=" block_activity_modules block list_block  card mb-3" role="navigation" data-block="activity_modules" data-instance-id="1418919" aria-labelledby="instance-1418919-header">
-
-    <div class="card-body p-3">
-
-            <h3 id="instance-1418919-header" class="h5 card-title d-inline">Tegevused</h3>
-
-
-        <div class="card-text content mt-3">
-            <ul class="unlist"><li class="r0"><div class="column c1"><a href="https://moodle.ut.ee/mod/forum/index.php?id=5081"><img class="icon " alt="Foorum" title="Foorum" src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1790052085/monologo">Foorumid</a></div></li>
-<li class="r1"><div class="column c1"><a href="https://moodle.ut.ee/mod/hvp/index.php?id=5081"><img class="icon " alt="H5P" title="H5P" src="https://moodle.ut.ee/theme/image.php/classic_ut/hvp/1790052085/monologo">Interaktiivne sisu</a></div></li>
-<li class="r0"><div class="column c1"><a href="https://moodle.ut.ee/mod/zoom/index.php?id=5081"><img class="icon " alt="Zoomi ruum" title="Zoomi ruum" src="https://moodle.ut.ee/theme/image.php/classic_ut/zoom/1790052085/monologo">Zoomi ruumid</a></div></li>
-<li class="r1"><div class="column c1"><a href="https://moodle.ut.ee/mod/quiz/index.php?id=5081"><img class="icon " alt="Test" title="Test" src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo">Testid</a></div></li>
-<li class="r0"><div class="column c1"><a href="https://moodle.ut.ee/course/resources.php?id=5081"><img class="icon icon" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/mod_page/1790052085/monologo">Vahendid</a></div></li></ul>
-            <div class="footer"></div>
-            
-        </div>
-
-    </div>
-
-</section>
-
-  <span id="sb-1"></span><a href="#sb-2" class="sr-only sr-only-focusable">Jäta vahele Seadistused</a>
-
-<section id="inst39912" class=" block_settings block  card mb-3" role="navigation" data-block="settings" data-instance-id="39912" aria-labelledby="instance-39912-header">
-
-    <div class="card-body p-3">
-
-            <h3 id="instance-39912-header" class="h5 card-title d-inline">Seadistused</h3>
-
-
-        <div class="card-text content mt-3">
-            <div id="settingsnav" class="box py-3 block_tree_box"><ul class="block_tree list" role="tree" data-ajax-loader="block_navigation/site_admin_loader"><li class="type_course depth_1 contains_branch" tabindex="0" role="treeitem" aria-expanded="true" aria-owns="random6ac22c46e43921_group" aria-selected="true"><p class="tree_item root_node tree_item branch" tabindex="-1"><span tabindex="-1">Kursuse haldamine</span></p><ul id="random6ac22c46e43921_group" role="group" tabindex="-1"><li class="type_setting depth_2 item_with_icon" tabindex="-1" role="treeitem" aria-selected="false"><p class="tree_item hasicon tree_item leaf" tabindex="-1"><a href="https://moodle.ut.ee/grade/report/index.php?id=5081" tabindex="-1"><i class="icon fa fa-clipboard-check fa-fw navicon" aria-hidden="true" tabindex="-1"></i>Hinded</a></p></li></ul></li></ul></div>
-            <div class="footer"></div>
-            
-        </div>
-
-    </div>
-
-</section>
-
-  <span id="sb-2"></span><a href="#sb-3" class="sr-only sr-only-focusable">Jäta vahele Foorumite plokk</a>
-
-<section id="inst114356" class=" block_forum_block block  card mb-3" role="region" data-block="forum_block" data-instance-id="114356" aria-labelledby="instance-114356-header">
-
-    <div class="card-body p-3">
-
-            <h3 id="instance-114356-header" class="h5 card-title d-inline">Foorumite plokk</h3>
-
-
-        <div class="card-text content mt-3">
-            <ul class="unlist"><li class="forum_title"><a href="https://moodle.ut.ee/mod/forum/view.php?id=328289">Teated õppijatele (uudistefoorum)</a></li><li class="no_posts">(Postitused puuduvad)</li></ul>
-            <div class="footer"></div>
-            
-        </div>
-
-    </div>
-
-</section>
-
-  <span id="sb-3"></span><a href="#sb-4" class="sr-only sr-only-focusable">Jäta vahele Panopto</a>
-
-<section id="inst675632" class=" block_panopto block  card mb-3" role="region" data-block="panopto" data-instance-id="675632" aria-labelledby="instance-675632-header">
-
-    <div class="card-body p-3">
-
-            <h3 id="instance-675632-header" class="h5 card-title d-inline">Panopto</h3>
-
-
-        <div class="card-text content mt-3">
-            <div id="block_panopto_content" courseid="5081"><form name="SSO" method="post"><input type="hidden" name="instance" value="Moodle"></form><div><b>Otseülekanded</b></div><div class="listItem">Otseülekanded puuduvad</div><div class="sectionHeader"><b>Tehtud salvestused</b></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e4489599-47b0-4da7-9460-ac55011c5cef&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Matem. alused, 14. seminar. Neljapäev, 15. oktoober</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=359071f2-82f4-4af2-b8d6-ac5400da775f&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Matem. alused, 13. seminar. Kolmapäev, 14. oktoober 2020</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d4e51a56-e3ab-4787-8666-ac4e011c6eb5&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Matem. alused, 12. seminar. Neljapäev, 8. oktoober 2020</a></div><div id="hiddenLecturesDiv"><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c680b238-e035-4b20-97da-ac3f00daaee1&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Mat. alused, 7. seminar, kolmapäev, 23. september 2020</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cbc41aee-7350-40bf-bf44-ac3800da926e&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Mat. alused, 5. seminar. Kolmapäev, 16. september 2020</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e10d6089-56df-4447-bc1c-ac3100daf3b9&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Matem. alused 3. Kolmapäev, 9. september 2020</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7eaeaeb7-a5e0-46a9-81b6-ac2c00578543&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Mat. alused 2. seminar. Reede, 4. september 2020 at 8:15:20</a></div></div><div id="showAllDiv">[<a id="showAllToggle" href="javascript:panopto_toggleHiddenLectures()">Show all</a>]</div></div><script type="text/javascript">function panopto_launchNotes(url) {var notesWindow = window.open("", "PanoptoNotes", "width=500,height=800,resizable=1,scrollbars=0,status=0,location=0");document.SSO.action = url;document.SSO.target = "PanoptoNotes";document.SSO.submit();notesWindow.focus();}function panopto_startSSO(linkElem) {document.SSO.action = linkElem.href;document.SSO.target = "_blank";document.SSO.submit();return false;}function panopto_toggleHiddenLectures() {var showAllToggle = document.getElementById("showAllToggle");var hiddenLecturesDiv = document.getElementById("hiddenLecturesDiv");if (hiddenLecturesDiv.style.display == "block") {hiddenLecturesDiv.style.display = "none";showAllToggle.innerHTML = "Show all";} else {hiddenLecturesDiv.style.display = "block";showAllToggle.innerHTML = "Show less";}}</script>
-            <div class="footer"></div>
-            
-        </div>
-
-    </div>
-
-</section>
-
-  <span id="sb-4"></span><a href="#sb-5" class="sr-only sr-only-focusable">Jäta vahele Edenemise skaala</a>
-
-<section id="inst794082" class=" block_completion_progress block  card mb-3" role="region" data-block="completion_progress" data-instance-id="794082" aria-labelledby="instance-794082-header">
-
-    <div class="card-body p-3">
-
-            <h3 id="instance-794082-header" class="h5 card-title d-inline">Edenemise skaala</h3>
-
-
-        <div class="card-text content mt-3">
-            <div class="barContainer" data-instanceid="794082"><div class="barRow barModeSqueeze barWithNow" style=""><div class="barRowCells" style=""><div class="progressBarCell futureNotCompleted" data-info-ref="progressBarInfo794082-264340-761354" data-haslink="true"><div class="nowDiv firstNow"><img class="icon nowicon" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/left">PRAEGU</div></div><div class="progressBarCell futureNotCompleted" data-info-ref="progressBarInfo794082-264340-761465" data-haslink="true"></div><div class="progressBarCell futureNotCompleted" data-info-ref="progressBarInfo794082-264340-761697" data-haslink="true"></div><div class="progressBarCell futureNotCompleted" data-info-ref="progressBarInfo794082-264340-766811" data-haslink="true"></div><div class="progressBarCell futureNotCompleted" data-info-ref="progressBarInfo794082-264340-766538" data-haslink="true"></div><div class="progressBarCell futureNotCompleted" data-info-ref="progressBarInfo794082-264340-772834" data-haslink="true"></div><div class="progressBarCell futureNotCompleted" data-info-ref="progressBarInfo794082-264340-775549" data-haslink="true"></div><div class="progressBarCell futureNotCompleted" data-info-ref="progressBarInfo794082-264340-768828" data-haslink="true"></div><div class="progressBarCell futureNotCompleted" data-info-ref="progressBarInfo794082-264340-771000" data-haslink="true"></div><div class="progressBarCell futureNotCompleted" data-info-ref="progressBarInfo794082-264340-771876" data-haslink="true"></div><div class="progressBarCell futureNotCompleted" data-info-ref="progressBarInfo794082-264340-781153" data-haslink="true"></div><div class="progressBarCell futureNotCompleted" data-info-ref="progressBarInfo794082-264340-786480" data-haslink="true"></div><div class="progressBarCell futureNotCompleted" data-info-ref="progressBarInfo794082-264340-785313" data-haslink="true"></div></div></div></div><div class="progressEventInfo" id="progressBarInfo794082-264340-info">Info vaatamiseks liigu hiirega üle. <a class="accesshide progressShowAllInfo" href="#">Show all info</a></div><div class="progressEventInfo" id="progressBarInfo794082-264340-761354" style="display: none;"><a href="https://moodle.ut.ee/mod/quiz/view.php?id=761354" id="action_link6ac22c46e43923" class="action_link"><img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="moduleIcon" alt="" role="presentation">Test nr 1. Arvuhulgad ja nende omadused</a><br>Lõpetamata&nbsp;<img class="icon iconInInfo" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/cross"><br></div><div class="progressEventInfo" id="progressBarInfo794082-264340-761465" style="display: none;"><a href="https://moodle.ut.ee/mod/quiz/view.php?id=761465" id="action_link6ac22c46e43924" class="action_link"><img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="moduleIcon" alt="" role="presentation">Test nr 2. Arvu kordsed ja tegurid. SÜT ja VÜK</a><br>Lõpetamata&nbsp;<img class="icon iconInInfo" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/cross"><br></div><div class="progressEventInfo" id="progressBarInfo794082-264340-761697" style="display: none;"><a href="https://moodle.ut.ee/mod/quiz/view.php?id=761697" id="action_link6ac22c46e43925" class="action_link"><img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="moduleIcon" alt="" role="presentation">Test nr 3. Tehted murdudega</a><br>Lõpetamata&nbsp;<img class="icon iconInInfo" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/cross"><br></div><div class="progressEventInfo" id="progressBarInfo794082-264340-766811" style="display: none;"><a href="https://moodle.ut.ee/mod/quiz/view.php?id=766811" id="action_link6ac22c46e43926" class="action_link"><img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="moduleIcon" alt="" role="presentation">Test nr 4. Tehted astmetega</a><br>Lõpetamata&nbsp;<img class="icon iconInInfo" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/cross"><br></div><div class="progressEventInfo" id="progressBarInfo794082-264340-766538" style="display: none;"><a href="https://moodle.ut.ee/mod/quiz/view.php?id=766538" id="action_link6ac22c46e43927" class="action_link"><img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="moduleIcon" alt="" role="presentation">Test nr 5. Protsendi mõiste, protsentülesanded</a><br>Lõpetamata&nbsp;<img class="icon iconInInfo" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/cross"><br></div><div class="progressEventInfo" id="progressBarInfo794082-264340-772834" style="display: none;"><a href="https://moodle.ut.ee/mod/quiz/view.php?id=772834" id="action_link6ac22c46e43928" class="action_link"><img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="moduleIcon" alt="" role="presentation">Test nr 6. Tuletised</a><br>Lõpetamata&nbsp;<img class="icon iconInInfo" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/cross"><br></div><div class="progressEventInfo" id="progressBarInfo794082-264340-775549" style="display: none;"><a href="https://moodle.ut.ee/mod/quiz/view.php?id=775549" id="action_link6ac22c46e43929" class="action_link"><img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="moduleIcon" alt="" role="presentation">Test nr 7. Integraalid</a><br>Lõpetamata&nbsp;<img class="icon iconInInfo" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/cross"><br></div><div class="progressEventInfo" id="progressBarInfo794082-264340-768828" style="display: none;"><a href="https://moodle.ut.ee/mod/quiz/view.php?id=768828" id="action_link6ac22c46e439210" class="action_link"><img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="moduleIcon" alt="" role="presentation">Test nr 8. Ühe muutujaga võrrand</a><br>Lõpetamata&nbsp;<img class="icon iconInInfo" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/cross"><br></div><div class="progressEventInfo" id="progressBarInfo794082-264340-771000" style="display: none;"><a href="https://moodle.ut.ee/mod/quiz/view.php?id=771000" id="action_link6ac22c46e439211" class="action_link"><img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="moduleIcon" alt="" role="presentation">Test nr 9. Võrrandisüsteemid</a><br>Lõpetamata&nbsp;<img class="icon iconInInfo" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/cross"><br></div><div class="progressEventInfo" id="progressBarInfo794082-264340-771876" style="display: none;"><a href="https://moodle.ut.ee/mod/quiz/view.php?id=771876" id="action_link6ac22c46e439212" class="action_link"><img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="moduleIcon" alt="" role="presentation">Test nr 10. Võrratused</a><br>Lõpetamata&nbsp;<img class="icon iconInInfo" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/cross"><br></div><div class="progressEventInfo" id="progressBarInfo794082-264340-781153" style="display: none;"><a href="https://moodle.ut.ee/mod/quiz/view.php?id=781153" id="action_link6ac22c46e439213" class="action_link"><img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="moduleIcon" alt="" role="presentation">Test nr 11. Logaritm, logaritmvõrrand ja eksponentvõrrand</a><br>Lõpetamata&nbsp;<img class="icon iconInInfo" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/cross"><br></div><div class="progressEventInfo" id="progressBarInfo794082-264340-786480" style="display: none;"><a href="https://moodle.ut.ee/mod/quiz/view.php?id=786480" id="action_link6ac22c46e439214" class="action_link"><img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="moduleIcon" alt="" role="presentation">Test nr 12. Trigonomeetria</a><br>Lõpetamata&nbsp;<img class="icon iconInInfo" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/cross"><br></div><div class="progressEventInfo" id="progressBarInfo794082-264340-785313" style="display: none;"><a href="https://moodle.ut.ee/mod/quiz/view.php?id=785313" id="action_link6ac22c46e439215" class="action_link"><img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="moduleIcon" alt="" role="presentation">Test nr 14. Vektorid tasandil ja ruumis</a><br>Lõpetamata&nbsp;<img class="icon iconInInfo" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/cross"><br></div>
-            <div class="footer"></div>
-            
-        </div>
-
-    </div>
-
-</section>
-
-  <span id="sb-5"></span></aside>
-                </section>
-            </div>
-
-            <div class="columnright blockcolumn ">
-                <section data-region="blocks-column" class="hidden-print" aria-label="Plokid">
-                    <aside id="block-region-side-post" class="block-region" data-blockregion="side-post" data-droptarget="1" aria-labelledby="side-post-block-region-heading"><h2 class="sr-only" id="side-post-block-region-heading">Supplementary blocks</h2></aside>
-                </section>
-            </div>
-        </div>

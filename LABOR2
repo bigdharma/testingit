@@ -1,8 +1,7 @@
-<div id="page-content" class="row  blocks-pre   blocks-post ">
-            <div id="region-main-box" class="region-main">
+<div id="region-main-box" class="region-main">
                 <section id="region-main" class="region-main-content" aria-label="Sisu">
                     <span class="notifications" id="user-notifications"></span>
-                    <div role="main"><span id="maincontent"></span><div class="course-content"><div id="6ac22c46683416ac22c4640a0122-course-format" class="stateready">
+                    <div role="main"><span id="maincontent"></span><div class="course-content"><div id="6ac2340c5e99c6ac2340c2f1fb22-course-format" class="stateready">
     <h2 class="accesshide">Laboritöö praktikum (LTKT.01.002) | TÜ Moodle</h2>
     <style type="text/css" media="screen">
     /* <![CDATA[ */
@@ -62,7 +61,7 @@
     }
 
     /* ]]> */
-</style><style class="darkreader darkreader--sync" media="screen"></style><ul class="ctopics"><li id="section-0" class="section course-section main clearfix" role="region" aria-labelledby="sectionid-93054-title" data-sectionid="0" data-for="section" data-id="93054" data-number="0" data-indexed="true">
+</style><ul class="ctopics"><li id="section-0" class="section course-section main clearfix" role="region" aria-labelledby="sectionid-93054-title" data-sectionid="0" data-for="section" data-id="93054" data-number="0" data-indexed="true">
     
     <div class="content">
             <h3 data-for="section_title" data-id="93054" data-number="0" id="sectionid-93054-title" class="accesshide">General</h3>
@@ -71,13 +70,13 @@
             <div class="summary">
                 <div class="no-overflow"><div class="summary">
   <div class="no-overflow">
-    <h1 style="text-align: left;"><span style="color: rgb(0, 38, 128); --darkreader-inline-color: var(--darkreader-text-002680, #7fbcff);" class="" data-darkreader-inline-color="">Laboritöö praktikum</span></h1>
-    <p><span style="font-size: medium; color: rgb(73, 80, 87); --darkreader-inline-color: var(--darkreader-text-495057, #b5afa6);" class="" data-darkreader-inline-color=""><span class="" style="color: rgb(73, 80, 87); --darkreader-inline-color: var(--darkreader-text-495057, #b5afa6);" data-darkreader-inline-color=""><strong>Praktikumi eesmärgiks</strong></span> on keemialaboris kasutatavate esmaste töövõtete omandamine üldkeemia põhiteemasid&nbsp;käsitlevate
+    <h1 style="text-align: left;"><span style="color: rgb(0, 38, 128);" class="">Laboritöö praktikum</span></h1>
+    <p><span style="font-size: medium; color: rgb(73, 80, 87);" class=""><span class="" style="color: rgb(73, 80, 87);"><strong>Praktikumi eesmärgiks</strong></span> on keemialaboris kasutatavate esmaste töövõtete omandamine üldkeemia põhiteemasid&nbsp;käsitlevate
       praktiliste tööde ja nendega seotud arvutuste kaudu.</span>
     </p>
     <p></p>
     <p></p>
-    <div class="attostylesbox attostylesbox-solid attostylesbox-no style"><span><span style="font-size: medium; color: rgb(0, 128, 0); --darkreader-inline-color: var(--darkreader-text-008000, #72ff72);" data-darkreader-inline-color=""><span style="color: rgb(73, 80, 87); --darkreader-inline-color: var(--darkreader-text-495057, #b5afa6);" data-darkreader-inline-color=""><strong><span class="" style="font-size: medium;">Õpiväljundid</span>
+    <div class="attostylesbox attostylesbox-solid attostylesbox-no style"><span><span style="font-size: medium; color: rgb(0, 128, 0);"><span style="color: rgb(73, 80, 87);"><strong><span class="" style="font-size: medium;">Õpiväljundid</span>
       </strong>
       <br>
       <p style=""><span class="" style="font-size: medium;">Praktikumi läbinud tudeng:</span>
@@ -104,21 +103,21 @@
     <ol><span class="" style="font-size: medium;">
 </span>
     </ol>
-    <div class="attostylesbox attostylesbox-solid attostylesbox-no style"><span style="color: rgb(255, 255, 255); font-size: 0.9375rem; --darkreader-inline-color: var(--darkreader-text-ffffff, #e8e6e3);" data-darkreader-inline-color=""><span class="" style="color: rgb(73, 80, 87); font-size: large; --darkreader-inline-color: var(--darkreader-text-495057, #b5afa6);" data-darkreader-inline-color=""><strong><span class="" style="font-size: medium;">Hindamiskriteeriumid</span>
+    <div class="attostylesbox attostylesbox-solid attostylesbox-no style"><span style="color: rgb(255, 255, 255); font-size: 0.9375rem;"><span class="" style="color: rgb(73, 80, 87); font-size: large;"><strong><span class="" style="font-size: medium;">Hindamiskriteeriumid</span>
       </strong>
       <br>
       <p style=""></p>
       <ol>
-        <li><span style="color: rgb(255, 255, 255); font-size: 0.9375rem; --darkreader-inline-color: var(--darkreader-text-ffffff, #e8e6e3);" data-darkreader-inline-color=""><span class="" style="color: rgb(73, 80, 87); font-size: large; --darkreader-inline-color: var(--darkreader-text-495057, #b5afa6);" data-darkreader-inline-color=""><span style="font-size: medium;">Arvestuse saamiseks tuleb sooritada kõik 7 praktilist tööd.</span></span>
+        <li><span style="color: rgb(255, 255, 255); font-size: 0.9375rem;"><span class="" style="color: rgb(73, 80, 87); font-size: large;"><span style="font-size: medium;">Arvestuse saamiseks tuleb sooritada kõik 7 praktilist tööd.</span></span>
           </span>
         </li>
-        <li><span style="color: rgb(255, 255, 255); font-size: 0.9375rem; --darkreader-inline-color: var(--darkreader-text-ffffff, #e8e6e3);" data-darkreader-inline-color=""><span class="" style="color: rgb(73, 80, 87); font-size: large; --darkreader-inline-color: var(--darkreader-text-495057, #b5afa6);" data-darkreader-inline-color=""><span style="font-size: medium;">Iga praktilise töö kohta tuleb nõuetele kohaselt koostada ja esitada protokoll.&nbsp;</span></span>
+        <li><span style="color: rgb(255, 255, 255); font-size: 0.9375rem;"><span class="" style="color: rgb(73, 80, 87); font-size: large;"><span style="font-size: medium;">Iga praktilise töö kohta tuleb nõuetele kohaselt koostada ja esitada protokoll.&nbsp;</span></span>
           </span>
         </li>
-        <li><span style="color: rgb(255, 255, 255); font-size: 0.9375rem; --darkreader-inline-color: var(--darkreader-text-ffffff, #e8e6e3);" data-darkreader-inline-color=""><span class="" style="color: rgb(73, 80, 87); font-size: large; --darkreader-inline-color: var(--darkreader-text-495057, #b5afa6);" data-darkreader-inline-color=""><span style="font-size: medium;">Praktikum lõpeb kontrolltööga, mille lävend on 60% 100st.&nbsp;</span></span>
+        <li><span style="color: rgb(255, 255, 255); font-size: 0.9375rem;"><span class="" style="color: rgb(73, 80, 87); font-size: large;"><span style="font-size: medium;">Praktikum lõpeb kontrolltööga, mille lävend on 60% 100st.&nbsp;</span></span>
           </span>
         </li>
-        <li><span style="color: rgb(255, 255, 255); font-size: 0.9375rem; --darkreader-inline-color: var(--darkreader-text-ffffff, #e8e6e3);" data-darkreader-inline-color=""><span class="" style="color: rgb(73, 80, 87); font-size: large; --darkreader-inline-color: var(--darkreader-text-495057, #b5afa6);" data-darkreader-inline-color=""><span style="font-size: medium;">Protokolle ja kontrolltööd on võimalik uuesti sooritada semestri lõpus, tavaliselt 14. ja 15. õppenädalal.</span></span>
+        <li><span style="color: rgb(255, 255, 255); font-size: 0.9375rem;"><span class="" style="color: rgb(73, 80, 87); font-size: large;"><span style="font-size: medium;">Protokolle ja kontrolltööd on võimalik uuesti sooritada semestri lõpus, tavaliselt 14. ja 15. õppenädalal.</span></span>
           </span>
         </li>
       </ol>
@@ -193,7 +192,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="font-size: x-large; color: rgb(51, 102, 255); --darkreader-inline-color: var(--darkreader-text-3366ff, #3d96ff);" data-darkreader-inline-color="">Õppematerjalid</span></strong></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="font-size: x-large; color: rgb(51, 102, 255);">Õppematerjalid</span></strong></p></div></div>
                         </div>
                 
                 
@@ -600,7 +599,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><strong>Enne praktikumi loe :</strong>&nbsp;</span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: #003df5;"><strong>Enne praktikumi loe :</strong>&nbsp;</span></p></div></div>
                         </div>
                 
                 
@@ -755,7 +754,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><strong>Enne praktikumi loe :</strong>&nbsp;</span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: #003df5;"><strong>Enne praktikumi loe :</strong>&nbsp;</span></p></div></div>
                         </div>
                 
                 
@@ -893,8 +892,8 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: rgb(16, 131, 18); --darkreader-inline-color: var(--darkreader-text-108312, #76ee78);" data-darkreader-inline-color="">Näidisülesanne:</span></p>
-<p><span style="color: rgb(16, 131, 18); --darkreader-inline-color: var(--darkreader-text-108312, #76ee78);" data-darkreader-inline-color="">Mitu grammi CaCl<sub>2</sub>·6H<sub>2</sub>O ja mitu cm<sup>3</sup>&nbsp;vett tuleb võtta 2 dm<sup>3</sup>&nbsp;1.877 M CaCl<sub>2</sub>-lahuse (ρ=1.158 g/cm<sup>3</sup>) valmistamiseks?</span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: #108312;">Näidisülesanne:</span></p>
+<p><span style="color: #108312;">Mitu grammi CaCl<sub>2</sub>·6H<sub>2</sub>O ja mitu cm<sup>3</sup>&nbsp;vett tuleb võtta 2 dm<sup>3</sup>&nbsp;1.877 M CaCl<sub>2</sub>-lahuse (ρ=1.158 g/cm<sup>3</sup>) valmistamiseks?</span></p></div></div>
                         </div>
                 
                 
@@ -938,7 +937,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><strong>Enne praktikumi loe :</strong></span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: #003df5;"><strong>Enne praktikumi loe :</strong></span></p></div></div>
                         </div>
                 
                 
@@ -1113,8 +1112,8 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">Näidisülesanne:</span></p>
-<p><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">Reaktsiooni A + 2B = AB</span><sub><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">&nbsp;kiiruskonstant mingil temperatuuril on 2·10</span><sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">-2</span></sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">(dm</span><sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">3</span></sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">)</span><sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">2</span></sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">/mol</span><sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">2</span></sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">·s. Missugune on reaktsiooni kiirus a) lähtemomendil, kui cA&nbsp;= cB&nbsp;= 0,4 mol/dm</span><sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">3</span></sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">; b) ajamomendil t, kui selleks ajaks on tekkinud 0,1 mol/dm</span><sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">3</span></sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">&nbsp;ainet AB</span><sub><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">?</span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: #4c904e;">Näidisülesanne:</span></p>
+<p><span class="" style="color: #4c904e;">Reaktsiooni A + 2B = AB</span><sub><span class="" style="color: #4c904e;">2</span></sub><span class="" style="color: #4c904e;">&nbsp;kiiruskonstant mingil temperatuuril on 2·10</span><sup><span class="" style="color: #4c904e;">-2</span></sup><span class="" style="color: #4c904e;">(dm</span><sup><span class="" style="color: #4c904e;">3</span></sup><span class="" style="color: #4c904e;">)</span><sup><span class="" style="color: #4c904e;">2</span></sup><span class="" style="color: #4c904e;">/mol</span><sup><span class="" style="color: #4c904e;">2</span></sup><span class="" style="color: #4c904e;">·s. Missugune on reaktsiooni kiirus a) lähtemomendil, kui cA&nbsp;= cB&nbsp;= 0,4 mol/dm</span><sup><span class="" style="color: #4c904e;">3</span></sup><span class="" style="color: #4c904e;">; b) ajamomendil t, kui selleks ajaks on tekkinud 0,1 mol/dm</span><sup><span class="" style="color: #4c904e;">3</span></sup><span class="" style="color: #4c904e;">&nbsp;ainet AB</span><sub><span class="" style="color: #4c904e;">2</span></sub><span class="" style="color: #4c904e;">?</span></p></div></div>
                         </div>
                 
                 
@@ -1158,7 +1157,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><strong>Enne praktikumi loe :</strong></span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: #003df5;"><strong>Enne praktikumi loe :</strong></span></p></div></div>
                         </div>
                 
                 
@@ -1333,8 +1332,8 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color="">Näidisülesanne:</span></p>
-<p><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color="">Mitu cm</span><sup><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color="">3</span></sup><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color=""> HNO</span><sub><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color="">3</span></sub><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color="">-lahust, mille tihedus on 1,149 g/cm</span><sup><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color="">3</span></sup><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color="">, on tarvis 200 cm</span><sup><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color="">3</span></sup><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color=""> 0,9 M lahuse valmistamiseks?</span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: #30883b;">Näidisülesanne:</span></p>
+<p><span class="" style="color: #30883b;">Mitu cm</span><sup><span class="" style="color: #30883b;">3</span></sup><span class="" style="color: #30883b;"> HNO</span><sub><span class="" style="color: #30883b;">3</span></sub><span class="" style="color: #30883b;">-lahust, mille tihedus on 1,149 g/cm</span><sup><span class="" style="color: #30883b;">3</span></sup><span class="" style="color: #30883b;">, on tarvis 200 cm</span><sup><span class="" style="color: #30883b;">3</span></sup><span class="" style="color: #30883b;"> 0,9 M lahuse valmistamiseks?</span></p></div></div>
                         </div>
                 
                 
@@ -1378,7 +1377,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><strong>Enne praktikumi loe :</strong></span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: #003df5;"><strong>Enne praktikumi loe :</strong></span></p></div></div>
                         </div>
                 
                 
@@ -1553,9 +1552,9 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">Näidisülesanded:</span></p>
-<p><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">Mitu cm</span><sup><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">3</span></sup><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color=""> H</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">O tuleb lisada 10 cm</span><sup><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">3</span></sup><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color=""> 0,4%-lisele NaOH lahusele, et saada lahust, mille pH = 12,3 (α = 1,0;&nbsp;ρ = 1,0)?</span></p>
-<p><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">Millised antud ühenditest hüdrolüüsuvad: a) K</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">CO</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">3</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">; b) Na</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">SO</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">4</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">; c) FeCl</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">3</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">; d) Al</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">S</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">3</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">; e) LiNO</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">3</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">; f) BaSO</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">4</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">; g) CaCl</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">. Kirjutada hüdrolüüsivõrrandid ioonsel kujul ja märkida lahuse pH (&lt;; &gt;; ≈ 7).</span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: #458748;">Näidisülesanded:</span></p>
+<p><span class="" style="color: #458748;">Mitu cm</span><sup><span class="" style="color: #458748;">3</span></sup><span class="" style="color: #458748;"> H</span><sub><span class="" style="color: #458748;">2</span></sub><span class="" style="color: #458748;">O tuleb lisada 10 cm</span><sup><span class="" style="color: #458748;">3</span></sup><span class="" style="color: #458748;"> 0,4%-lisele NaOH lahusele, et saada lahust, mille pH = 12,3 (α = 1,0;&nbsp;ρ = 1,0)?</span></p>
+<p><span class="" style="color: #458748;">Millised antud ühenditest hüdrolüüsuvad: a) K</span><sub><span class="" style="color: #458748;">2</span></sub><span class="" style="color: #458748;">CO</span><sub><span class="" style="color: #458748;">3</span></sub><span class="" style="color: #458748;">; b) Na</span><sub><span class="" style="color: #458748;">2</span></sub><span class="" style="color: #458748;">SO</span><sub><span class="" style="color: #458748;">4</span></sub><span class="" style="color: #458748;">; c) FeCl</span><sub><span class="" style="color: #458748;">3</span></sub><span class="" style="color: #458748;">; d) Al</span><sub><span class="" style="color: #458748;">2</span></sub><span class="" style="color: #458748;">S</span><sub><span class="" style="color: #458748;">3</span></sub><span class="" style="color: #458748;">; e) LiNO</span><sub><span class="" style="color: #458748;">3</span></sub><span class="" style="color: #458748;">; f) BaSO</span><sub><span class="" style="color: #458748;">4</span></sub><span class="" style="color: #458748;">; g) CaCl</span><sub><span class="" style="color: #458748;">2</span></sub><span class="" style="color: #458748;">. Kirjutada hüdrolüüsivõrrandid ioonsel kujul ja märkida lahuse pH (&lt;; &gt;; ≈ 7).</span></p></div></div>
                         </div>
                 
                 
@@ -1599,7 +1598,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><strong>Enne praktikumi loe :</strong></span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: #003df5;"><strong>Enne praktikumi loe :</strong></span></p></div></div>
                         </div>
                 
                 
@@ -1737,10 +1736,10 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">Näidisülesanne:</span></p>
-<p><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">Tasakaalustada järgmised reaktsioonivõrrandid:</span></p>
-<p><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">FeCl</span><sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">3</span></sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color=""> + KOH + Br</span><sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color=""> → K</span><sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">FeO</span><sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">4</span></sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color=""> + KBr + KCl</span></p>
-<p><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">KClO</span><sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">3</span></sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color=""> + KNO</span><sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color=""> → KCl + KNO</span><sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">3</span></sub></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: #408746;">Näidisülesanne:</span></p>
+<p><span class="" style="color: #408746;">Tasakaalustada järgmised reaktsioonivõrrandid:</span></p>
+<p><span class="" style="color: #408746;">FeCl</span><sub><span class="" style="color: #408746;">3</span></sub><span class="" style="color: #408746;"> + KOH + Br</span><sub><span class="" style="color: #408746;">2</span></sub><span class="" style="color: #408746;"> → K</span><sub><span class="" style="color: #408746;">2</span></sub><span class="" style="color: #408746;">FeO</span><sub><span class="" style="color: #408746;">4</span></sub><span class="" style="color: #408746;"> + KBr + KCl</span></p>
+<p><span class="" style="color: #408746;">KClO</span><sub><span class="" style="color: #408746;">3</span></sub><span class="" style="color: #408746;"> + KNO</span><sub><span class="" style="color: #408746;">2</span></sub><span class="" style="color: #408746;"> → KCl + KNO</span><sub><span class="" style="color: #408746;">3</span></sub></p></div></div>
                         </div>
                 
                 
@@ -1784,7 +1783,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><strong>Enne praktikumi loe :</strong></span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: #003df5;"><strong>Enne praktikumi loe :</strong></span></p></div></div>
                         </div>
                 
                 
@@ -1917,7 +1916,7 @@
         <div class="section_availability">
 </div>
                 <div id="toggledsection-9" class="sectionbody toggledsection">
-            <div class="summary"><div class="no-overflow"><p><span style="color: rgb(0, 0, 128); --darkreader-inline-color: var(--darkreader-text-000080, #7faeff);" data-darkreader-inline-color=""><br></span></p></div></div>
+            <div class="summary"><div class="no-overflow"><p><span style="color: #000080;"><br></span></p></div></div>
             <ul class="section m-0 p-0 img-text d-block" data-for="cmlist">
             
             
@@ -1976,7 +1975,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><strong>Enne praktikumi loe :</strong></span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: #003df5;"><strong>Enne praktikumi loe :</strong></span></p></div></div>
                         </div>
                 
                 
@@ -2109,9 +2108,9 @@
         <div class="section_availability">
 </div>
                 <div id="toggledsection-10" class="sectionbody toggledsection">
-            <div class="summary"><div class="no-overflow"><p><span style="color: rgb(0, 0, 128); --darkreader-inline-color: var(--darkreader-text-000080, #7faeff);" data-darkreader-inline-color="">Lahendatakse probleeme praktikumi protokollides.</span></p>
-<p><span style="color: rgb(0, 0, 128); --darkreader-inline-color: var(--darkreader-text-000080, #7faeff);" data-darkreader-inline-color="">Targutatakse teemadel, mis eelmiste aastate arvestustöödes nihu läks.</span></p>
-<p><span style="color: rgb(0, 0, 128); --darkreader-inline-color: var(--darkreader-text-000080, #7faeff);" data-darkreader-inline-color="">Lõpetuseks tehakse huvitavaid õppejõu poolt väljapakutud või ka tudengite poolt soovitud näidiskatseid.</span></p>
+            <div class="summary"><div class="no-overflow"><p><span style="color: #000080;">Lahendatakse probleeme praktikumi protokollides.</span></p>
+<p><span style="color: #000080;">Targutatakse teemadel, mis eelmiste aastate arvestustöödes nihu läks.</span></p>
+<p><span style="color: #000080;">Lõpetuseks tehakse huvitavaid õppejõu poolt väljapakutud või ka tudengite poolt soovitud näidiskatseid.</span></p>
 <p></p></div></div>
             <ul class="section m-0 p-0 img-text" data-for="cmlist">
 </ul>
@@ -2129,9 +2128,9 @@
         <div class="section_availability">
 </div>
                 <div id="toggledsection-11" class="sectionbody toggledsection">
-            <div class="summary"><div class="no-overflow"><p><span style="color: rgb(0, 0, 128); --darkreader-inline-color: var(--darkreader-text-000080, #7faeff);" data-darkreader-inline-color="">Arvestustööle pääsemiseks peavad kõik praktikumide protokollid olema arvestatud. </span></p>
-<p><span style="color: rgb(0, 0, 128); --darkreader-inline-color: var(--darkreader-text-000080, #7faeff);" data-darkreader-inline-color="">Arvestustöös esitatavad teoreetilised küsimused ja ülesanded on seotud läbitud praktikumidega.</span></p>
-<p><span style="color: rgb(0, 0, 128); --darkreader-inline-color: var(--darkreader-text-000080, #7faeff);" data-darkreader-inline-color=""> </span></p></div></div>
+            <div class="summary"><div class="no-overflow"><p><span style="color: #000080;">Arvestustööle pääsemiseks peavad kõik praktikumide protokollid olema arvestatud. </span></p>
+<p><span style="color: #000080;">Arvestustöös esitatavad teoreetilised küsimused ja ülesanded on seotud läbitud praktikumidega.</span></p>
+<p><span style="color: #000080;"> </span></p></div></div>
             <ul class="section m-0 p-0 img-text" data-for="cmlist">
 </ul>
         </div>
@@ -2143,510 +2142,3 @@
                     
                 </section>
             </div>
-            <div class="columnleft blockcolumn  has-blocks ">
-                <section data-region="blocks-column" class="hidden-print" aria-label="Plokid">
-                    <aside id="block-region-side-pre" class="block-region" data-blockregion="side-pre" data-droptarget="1" aria-labelledby="side-pre-block-region-heading"><h2 class="sr-only" id="side-pre-block-region-heading">Plokid</h2><a href="#sb-1" class="sr-only sr-only-focusable">Jäta vahele Tegevused</a>
-
-<section id="inst1418919" class=" block_activity_modules block list_block  card mb-3" role="navigation" data-block="activity_modules" data-instance-id="1418919" aria-labelledby="instance-1418919-header">
-
-    <div class="card-body p-3">
-
-            <h3 id="instance-1418919-header" class="h5 card-title d-inline">Tegevused</h3>
-
-
-        <div class="card-text content mt-3">
-            <ul class="unlist"><li class="r0"><div class="column c1"><a href="https://moodle.ut.ee/mod/forum/index.php?id=6453"><img class="icon " alt="Foorum" title="Foorum" src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1790052085/monologo">Foorumid</a></div></li>
-<li class="r1"><div class="column c1"><a href="https://moodle.ut.ee/course/resources.php?id=6453"><img class="icon icon" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/mod_page/1790052085/monologo">Vahendid</a></div></li>
-<li class="r0"><div class="column c1"><a href="https://moodle.ut.ee/mod/assign/index.php?id=6453"><img class="icon " alt="Ülesanne" title="Ülesanne" src="https://moodle.ut.ee/theme/image.php/classic_ut/assign/1790052085/monologo">Ülesanded</a></div></li></ul>
-            <div class="footer"></div>
-            
-        </div>
-
-    </div>
-
-</section>
-
-  <span id="sb-1"></span><a href="#sb-2" class="sr-only sr-only-focusable">Jäta vahele Seadistused</a>
-
-<section id="inst39912" class=" block_settings block  card mb-3" role="navigation" data-block="settings" data-instance-id="39912" aria-labelledby="instance-39912-header">
-
-    <div class="card-body p-3">
-
-            <h3 id="instance-39912-header" class="h5 card-title d-inline">Seadistused</h3>
-
-
-        <div class="card-text content mt-3">
-            <div id="settingsnav" class="box py-3 block_tree_box"><ul class="block_tree list" role="tree" data-ajax-loader="block_navigation/site_admin_loader"><li class="type_course depth_1 contains_branch" tabindex="0" role="treeitem" aria-expanded="true" aria-owns="random6ac22c4640a011_group" aria-selected="true"><p class="tree_item root_node tree_item branch" tabindex="-1"><span tabindex="-1">Kursuse haldamine</span></p><ul id="random6ac22c4640a011_group" role="group" tabindex="-1"><li class="type_setting depth_2 item_with_icon" tabindex="-1" role="treeitem" aria-selected="false"><p class="tree_item hasicon tree_item leaf" tabindex="-1"><a href="https://moodle.ut.ee/grade/report/index.php?id=6453" tabindex="-1"><i class="icon fa fa-clipboard-check fa-fw navicon" aria-hidden="true" tabindex="-1"></i>Hinded</a></p></li></ul></li></ul></div>
-            <div class="footer"></div>
-            
-        </div>
-
-    </div>
-
-</section>
-
-  <span id="sb-2"></span><a href="#sb-3" class="sr-only sr-only-focusable">Jäta vahele Foorumite plokk</a>
-
-<section id="inst311673" class=" block_forum_block block  card mb-3" role="region" data-block="forum_block" data-instance-id="311673" aria-labelledby="instance-311673-header">
-
-    <div class="card-body p-3">
-
-            <h3 id="instance-311673-header" class="h5 card-title d-inline">Foorumite plokk</h3>
-
-
-        <div class="card-text content mt-3">
-            <ul class="unlist"><li class="forum_title"><a href="https://moodle.ut.ee/mod/forum/view.php?id=428873">Teated õppijatele (uudistefoorum)</a></li><li class="no_posts">(Postitused puuduvad)</li></ul>
-            <div class="footer"></div>
-            
-        </div>
-
-    </div>
-
-</section>
-
-  <span id="sb-3"></span><a href="#sb-4" class="sr-only sr-only-focusable">Jäta vahele Sisenenud kasutajad</a>
-
-<section id="inst736897" class=" block_online_users block  card mb-3" role="region" data-block="online_users" data-instance-id="736897" aria-labelledby="instance-736897-header">
-
-    <div class="card-body p-3">
-
-            <h3 id="instance-736897-header" class="h5 card-title d-inline">Sisenenud kasutajad</h3>
-
-
-        <div class="card-text content mt-3">
-            <div class="info">1 sisenenud kasutaja (Viimased 10 minutit)</div><ul class="list">
-<li class="listentry"><div class="user"><a href="https://moodle.ut.ee/user/view.php?id=264340&amp;course=6453" title="Praegu"><span class="userinitials size-30" title="Grete Rahi" aria-label="Grete Rahi" role="img">GR</span>Grete Rahi</a></div><div class="uservisibility"><a title="Peida mu võrgusolemise staatus teiste eest" data-action="hide" data-userid="264340" id="change-user-visibility" href=""><i class="icon fa-regular fa-eye fa-fw " title="Peida mu võrgusolemise staatus teiste eest" role="img" aria-label="Peida mu võrgusolemise staatus teiste eest"></i></a></div></li>
-</ul><div class="clearer"><!-- --></div>
-            <div class="footer"></div>
-            
-        </div>
-
-    </div>
-
-</section>
-
-  <span id="sb-4"></span></aside>
-                </section>
-            </div>
-
-            <div class="columnright blockcolumn  has-blocks ">
-                <section data-region="blocks-column" class="hidden-print" aria-label="Plokid">
-                    <aside id="block-region-side-post" class="block-region" data-blockregion="side-post" data-droptarget="1" aria-labelledby="side-post-block-region-heading"><h2 class="sr-only" id="side-post-block-region-heading">Supplementary blocks</h2><a href="#sb-6" class="sr-only sr-only-focusable">Jäta vahele Kalender</a>
-
-<section id="inst327009" class=" block_calendar_month block  card mb-3" role="region" data-block="calendar_month" data-instance-id="327009" aria-labelledby="instance-327009-header">
-
-    <div class="card-body p-3">
-
-            <h3 id="instance-327009-header" class="h5 card-title d-inline">Kalender</h3>
-
-
-        <div class="card-text content mt-3">
-            <div data-region="calendar" class="maincalendar"><div id="calendar-month-6ac22c464aa396ac22c4640a013-1" data-template="core_calendar/month_detailed">
-    <div class="calendarwrapper" data-courseid="6453" data-categoryid="138" data-context-id="857976" data-month="10" data-year="2026" data-view="monthblock">
-
-
-    <div id="month-navigation-1-1" class="controls">
-        <div class="calendar-controls">
-            <a href="https://moodle.ut.ee/calendar/view.php?view=month&amp;time=1788210000&amp;course=6453" class="arrow_link previous" title="Previous month: september" data-year="2026" data-month="9" data-drop-zone="nav-link" aria-label="Previous month: september">
-                <span class="arrow" aria-hidden="true">◀︎</span>
-                &nbsp;
-                <span class="arrow_text">september</span>
-            </a>
-            <span class="hide"> | </span>
-                <h4 class="current">oktoober 2026</h4>
-            <span class="hide"> | </span>
-            <a href="https://moodle.ut.ee/calendar/view.php?view=month&amp;time=1793484000&amp;course=6453" class="arrow_link next" title="Next month: november" data-year="2026" data-month="11" data-drop-zone="nav-link" aria-label="Next month: november">
-                <span class="arrow_text">november</span>
-                &nbsp;
-                <span class="arrow" aria-hidden="true">▶︎</span>
-            </a>
-        </div>
-    </div>
-
-
-    <span class="overlay-icon-container hidden" data-region="overlay-icon-container">
-
-
-        <span class="loading-icon icon-no-margin"><i class="icon fa fa-spinner fa-spin fa-fw " title="Laadimine" role="img" aria-label="Laadimine"></i></span>
-    </span>
-    <table id="month-detailed-1-1" class="calendarmonth calendartable mb-0">
-        <thead>
-            <tr>
-                <th class="header text-xs-center">
-                    <span class="sr-only">Esmaspäev</span>
-                    <span aria-hidden="true">E</span>
-                </th>
-                <th class="header text-xs-center">
-                    <span class="sr-only">Teisipäev</span>
-                    <span aria-hidden="true">T</span>
-                </th>
-                <th class="header text-xs-center">
-                    <span class="sr-only">Kolmapäev</span>
-                    <span aria-hidden="true">K</span>
-                </th>
-                <th class="header text-xs-center">
-                    <span class="sr-only">Neljapäev</span>
-                    <span aria-hidden="true">N</span>
-                </th>
-                <th class="header text-xs-center">
-                    <span class="sr-only">Reede</span>
-                    <span aria-hidden="true">R</span>
-                </th>
-                <th class="header text-xs-center">
-                    <span class="sr-only">Laupäev</span>
-                    <span aria-hidden="true">L</span>
-                </th>
-                <th class="header text-xs-center">
-                    <span class="sr-only">Pühapäev</span>
-                    <span aria-hidden="true">P</span>
-                </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr data-region="month-view-week">
-                    <td class="dayblank">&nbsp;</td>
-                    <td class="dayblank">&nbsp;</td>
-                    <td class="dayblank">&nbsp;</td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="1" data-day-timestamp="1790802000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1790851015">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 1. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">1</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 1. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">1</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="2" data-day-timestamp="1790888400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1790937415">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Reede, 2. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">2</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Reede, 2. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">2</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start weekend clickable" data-day="3" data-day-timestamp="1790974800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791023815">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 3. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">3</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 3. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">3</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start today weekend clickable" data-day="4" data-day-timestamp="1791061200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791110215" title="Täna">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 4. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">4</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 4. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">4</span></span></span>
-                        </div>
-                    </td>
-            </tr>
-            <tr data-region="month-view-week">
-                    <td class="day text-sm-center text-md-start clickable" data-day="5" data-day-timestamp="1791147600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791196615">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Esmaspäev, 5. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">5</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Esmaspäev, 5. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">5</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="6" data-day-timestamp="1791234000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791283015">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Teisipäev, 6. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">6</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Teisipäev, 6. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">6</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="7" data-day-timestamp="1791320400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791369415">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 7. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">7</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 7. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">7</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="8" data-day-timestamp="1791406800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791455815">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 8. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">8</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 8. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">8</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="9" data-day-timestamp="1791493200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791542215">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Reede, 9. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">9</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Reede, 9. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">9</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start weekend clickable" data-day="10" data-day-timestamp="1791579600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791628615">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 10. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">10</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 10. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">10</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start weekend clickable" data-day="11" data-day-timestamp="1791666000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791715015">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 11. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">11</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 11. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">11</span></span></span>
-                        </div>
-                    </td>
-            </tr>
-            <tr data-region="month-view-week">
-                    <td class="day text-sm-center text-md-start clickable" data-day="12" data-day-timestamp="1791752400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791801415">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Esmaspäev, 12. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">12</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Esmaspäev, 12. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">12</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="13" data-day-timestamp="1791838800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791887815">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Teisipäev, 13. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">13</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Teisipäev, 13. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">13</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="14" data-day-timestamp="1791925200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791974215">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 14. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">14</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 14. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">14</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="15" data-day-timestamp="1792011600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792060615">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 15. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">15</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 15. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">15</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="16" data-day-timestamp="1792098000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792147015">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Reede, 16. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">16</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Reede, 16. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">16</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start weekend clickable" data-day="17" data-day-timestamp="1792184400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792233415">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 17. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">17</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 17. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">17</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start weekend clickable" data-day="18" data-day-timestamp="1792270800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792319815">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 18. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">18</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 18. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">18</span></span></span>
-                        </div>
-                    </td>
-            </tr>
-            <tr data-region="month-view-week">
-                    <td class="day text-sm-center text-md-start clickable" data-day="19" data-day-timestamp="1792357200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792406215">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Esmaspäev, 19. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">19</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Esmaspäev, 19. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">19</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="20" data-day-timestamp="1792443600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792492615">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Teisipäev, 20. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">20</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Teisipäev, 20. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">20</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="21" data-day-timestamp="1792530000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792579015">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 21. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">21</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 21. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">21</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="22" data-day-timestamp="1792616400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792665415">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 22. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">22</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 22. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">22</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="23" data-day-timestamp="1792702800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792751815">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Reede, 23. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">23</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Reede, 23. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">23</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start weekend clickable" data-day="24" data-day-timestamp="1792789200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792838215">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 24. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">24</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 24. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">24</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start weekend clickable" data-day="25" data-day-timestamp="1792875600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792928215">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 25. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">25</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 25. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">25</span></span></span>
-                        </div>
-                    </td>
-            </tr>
-            <tr data-region="month-view-week">
-                    <td class="day text-sm-center text-md-start clickable" data-day="26" data-day-timestamp="1792965600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793014615">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Esmaspäev, 26. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">26</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Esmaspäev, 26. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">26</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="27" data-day-timestamp="1793052000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793101015">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Teisipäev, 27. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">27</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Teisipäev, 27. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">27</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="28" data-day-timestamp="1793138400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793187415">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 28. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">28</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 28. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">28</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="29" data-day-timestamp="1793224800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793273815">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 29. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">29</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 29. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">29</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="30" data-day-timestamp="1793311200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793360215">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Reede, 30. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">30</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Reede, 30. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">30</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start weekend clickable" data-day="31" data-day-timestamp="1793397600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793446615">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 31. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">31</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 31. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">31</span></span></span>
-                        </div>
-                    </td>
-                    <td class="dayblank">&nbsp;</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-</div></div>
-            <div class="footer"><div class="bottom">
-        <span class="footer-link">
-            <a href="https://moodle.ut.ee/calendar/view.php?view=month&amp;time=1791110214&amp;course=6453">Kursuse kalender</a>
-        </span>
-        <span class="footer-link">
-            <a href="https://moodle.ut.ee/calendar/managesubscriptions.php?course=6453">Halda tellimusi</a>
-        </span>
-</div></div>
-            
-        </div>
-
-    </div>
-
-</section>
-
-  <span id="sb-6"></span></aside>
-                </section>
-            </div>
-        </div>

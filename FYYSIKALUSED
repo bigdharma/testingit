@@ -1,7 +1,10 @@
-<div role="main" id="yui_3_18_1_1_1791110216638_416"><span id="maincontent"></span><div class="course-content" id="yui_3_18_1_1_1791110216638_415"><div id="course-format-6ac22c486b8d16ac22c4856a8322">
+<div id="region-main-box" class="region-main">
+                <section id="region-main" class="region-main-content" aria-label="Sisu">
+                    <span class="notifications" id="user-notifications"></span>
+                    <div role="main"><span id="maincontent"></span><div class="course-content"><div id="course-format-6ac23436220116ac234360f37722">
     <h2 class="accesshide">Section outline</h2>
     
-    <ul class="topics" data-for="course_sectionlist" id="yui_3_18_1_1_1791110216638_414">
+    <ul class="topics" data-for="course_sectionlist">
                 <li id="section-0" class="section course-section main  clearfix
                              
                             " data-sectionid="0" data-sectionreturnnum="" data-for="section" data-id="35520" data-number="0" data-sectionname="Kursuse üldosa" data-indexed="true">
@@ -283,35 +286,36 @@
                 </li>
                 <li id="section-1" class="section course-section main  clearfix
                              
-                            " data-sectionid="1" data-sectionreturnnum="" data-for="section" data-id="35521" data-number="1" data-sectionname="Iseseisvad tööd" data-indexed="true" data-locked="false" aria-busy="false">
-                    <div class="section-item" id="yui_3_18_1_1_1791110216638_413">
-                            <div class="course-section-header d-flex" data-for="section_title" data-id="35521" data-number="1" id="yui_3_18_1_1_1791110216638_412">
+                            " data-sectionid="1" data-sectionreturnnum="" data-for="section" data-id="35521" data-number="1" data-sectionname="Iseseisvad tööd" data-indexed="true">
+                    <div class="section-item">
+                            <div class="course-section-header d-flex" data-for="section_title" data-id="35521" data-number="1">
                                             <div class="bulkselect align-self-center d-none" data-for="sectionBulkSelect">
                                                 <input id="sectionCheckbox35521" type="checkbox" data-id="35521" data-action="toggleSelectionSection" data-bulkcheckbox="1">
                                                 <label class="sr-only" for="sectionCheckbox35521">
                                                      Vali jaotis Iseseisvad tööd 
                                                 </label>
                                             </div>
-                                                    <div class="d-flex align-items-center position-relative" id="yui_3_18_1_1_1791110216638_411">
-                                                        <a role="button" data-toggle="collapse" data-for="sectiontoggler" href="#coursecontentcollapseid35521" id="collapsesectionid35521" aria-expanded="true" aria-controls="coursecontentcollapseid35521" class="btn btn-icon me-1 icons-collapse-expand justify-content-center" aria-label="Iseseisvad tööd">
-                                                        <span class="expanded-icon icon-no-margin p-2" title="Ahenda" id="yui_3_18_1_1_1791110216638_410">
+                                                    <div class="d-flex align-items-center position-relative">
+                                                        <a role="button" data-toggle="collapse" data-for="sectiontoggler" href="#coursecontentcollapseid35521" id="collapsesectionid35521" aria-expanded="true" aria-controls="coursecontentcollapseid35521" class="btn btn-icon me-1 icons-collapse-expand justify-content-center
+                                                                " aria-label="Iseseisvad tööd">
+                                                        <span class="expanded-icon icon-no-margin p-2" title="Ahenda">
                                                             <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
                                                             <span class="sr-only">Ahenda</span>
                                                         </span>
-                                                        <span class="collapsed-icon icon-no-margin p-2" title="Laienda" id="yui_3_18_1_1_1791110216638_419">
-                                                            <span class="dir-rtl-hide" id="yui_3_18_1_1_1791110216638_418"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                        <span class="collapsed-icon icon-no-margin p-2" title="Laienda">
+                                                            <span class="dir-rtl-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
                                                             <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
                                                             <span class="sr-only">Laienda</span>
                                                         </span>
                                                         </a>
-                                                        <h3 class="h4 sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-35521-title" data-for="section_title" data-id="35521" data-number="1" data-target="#coursecontentcollapseid35521" data-toggle="collapse" role="button" aria-expanded="true">
+                                                        <h3 class="h4 sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-35521-title" data-for="section_title" data-id="35521" data-number="1" data-target="#coursecontentcollapseid35521" data-toggle="collapse" role="button">
                                                             Iseseisvad tööd
                                                         </h3>
                                                     </div>
                                 <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
                                 </div>
                             </div>
-                            <div id="coursecontentcollapseid35521" class="content course-content-item-content collapse show" style="">
+                            <div id="coursecontentcollapseid35521" class="content course-content-item-content collapse show">
                                 <div class=" my-3" data-for="sectioninfo">
                                             <div class="section_availability">
                                             </div>
@@ -325,3 +329,7 @@
                 </li>
     </ul>
 </div></div></div>
+                    
+                    
+                </section>
+            </div>

@@ -1,7 +1,7 @@
 <div id="region-main-box" class="region-main">
                 <section id="region-main" class="region-main-content" aria-label="Sisu">
                     <span class="notifications" id="user-notifications"></span>
-                    <div role="main"><span id="maincontent"></span><div class="course-content"><div id="course-format-6ac22c444cfd96ac22c442bc0721">
+                    <div role="main"><span id="maincontent"></span><div class="course-content"><div id="course-format-6ac23365135796ac23364e902221">
     <h2 class="accesshide">Section outline</h2>
     
     <ul class="topics" data-for="course_sectionlist">

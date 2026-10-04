@@ -1,8 +1,7 @@
-<div id="page-content" class="row  blocks-pre   blocks-post ">
-            <div id="region-main-box" class="region-main">
+<div id="region-main-box" class="region-main">
                 <section id="region-main" class="region-main-content" aria-label="Sisu">
                     <span class="notifications" id="user-notifications"></span>
-                    <div role="main"><span id="maincontent"></span><div class="course-content"><div id="6ac22c456d7da6ac22c44ebd3337-course-format" class="stateready">
+                    <div role="main"><span id="maincontent"></span><div class="course-content"><div id="6ac2336e4fb686ac2336dc523937-course-format" class="stateready">
     <h2 class="accesshide">Kõrgem matemaatika I (MTMM.00.340) | TÜ Moodle</h2>
     <style type="text/css" media="screen">
     /* <![CDATA[ */
@@ -62,7 +61,7 @@
     }
 
     /* ]]> */
-</style><style class="darkreader darkreader--sync" media="screen"></style><ul class="ctopics"><li id="section-0" class="section course-section main clearfix" role="region" aria-labelledby="sectionid-36266-title" data-sectionid="0" data-for="section" data-id="36266" data-number="0" data-indexed="true">
+</style><ul class="ctopics"><li id="section-0" class="section course-section main clearfix" role="region" aria-labelledby="sectionid-36266-title" data-sectionid="0" data-for="section" data-id="36266" data-number="0" data-indexed="true">
     
     <div class="content">
             <h3 data-for="section_title" data-id="36266" data-number="0" id="sectionid-36266-title" class="section-title"><a href="https://moodle.ut.ee/course/view.php?id=2880#section-0">Kõrgema matemaatika kursused (MTMM.00.340 ja LTMS.00.081)</a></h3>
@@ -95,7 +94,7 @@
                 
                         <div class="activity-altcontent text-break ">
                             <div class="no-overflow"><div class="no-overflow"><p>-------------------------------------------------------</p>
-<p><strong><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color="">Sündmused</span></strong></p>
+<p><strong><span class="" style="color: #003df5;">Sündmused</span></strong></p>
 <p>Esimene loeng toimub teisipäeval,<strong> 01.09 kell 8.15 W. Ostwaldi 1-A106</strong> ruumis ühiselt ainetele MTMM.00.340 ja LTMS.00.081.</p>
 <p>Praktikumid algavad esimesel nädalal tunniplaani järgselt.</p>
 <p>FKM liitrühma (FKM1, FKM2, FKM3 ja FKM4) esimene praktikum toimub kolmapäeval, 02.09 kell 16.15 W. Ostwaldi 1-A106.</p></div></div>
@@ -324,11 +323,11 @@
                                     <div data-region="activity-information" data-activityname="Eeltest matemaatikas (avatud 01.09 10.00 kuni 13.09 22.00)" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Eeltest matemaatikas (avatud 01.09 10.00 kuni 13.09 22.00) jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c44ebd3325" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac22c44ebd3326" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2336dc523925" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac2336dc523926" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     Teha
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c44ebd3326" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2336dc523926" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -988,7 +987,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span style="background-color: rgb(255, 255, 255); color: rgb(153, 51, 0); --darkreader-inline-bgcolor: var(--darkreader-background-ffffff, #181a1b); --darkreader-inline-color: var(--darkreader-text-993300, #ff9661);" data-darkreader-inline-bgcolor="" data-darkreader-inline-color=""><strong>Kontrolltööde materjalid</strong></span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span style="background-color: #ffffff; color: #993300;"><strong>Kontrolltööde materjalid</strong></span></p></div></div>
                         </div>
                 
                 
@@ -1267,7 +1266,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span style="background-color: rgb(255, 255, 255); color: rgb(153, 51, 0); --darkreader-inline-bgcolor: var(--darkreader-background-ffffff, #181a1b); --darkreader-inline-color: var(--darkreader-text-993300, #ff9661);" data-darkreader-inline-bgcolor="" data-darkreader-inline-color=""><strong>Eksami materjalid</strong></span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span style="background-color: #ffffff; color: #993300;"><strong>Eksami materjalid</strong></span></p></div></div>
                         </div>
                 
                 
@@ -1627,7 +1626,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><strong style="font-size: 0.9375rem;"><span class="" style="color: rgb(0, 0, 0); --darkreader-inline-color: var(--darkreader-text-000000, #e8e6e3);" data-darkreader-inline-color=""><strong><span><strong><span><strong><span><strong><span>MTMM.00.340&nbsp;</span></strong>Kõrgem matemaatika I (6 EAP)</span></strong><br></span></strong></span></strong></span></strong></p><p><strong style="font-size: 0.9375rem;"><span class="" style="color: rgb(0, 0, 0); --darkreader-inline-color: var(--darkreader-text-000000, #e8e6e3);" data-darkreader-inline-color=""><strong><span><strong><span>LTMS.00.081&nbsp;</span></strong>Kõrgem matemaatika I arvutitehnikutele (6 EAP)</span></strong></span></strong><br></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><strong style="font-size: 0.9375rem;"><span class="" style="color: rgb(0, 0, 0);"><strong><span><strong><span><strong><span><strong><span>MTMM.00.340&nbsp;</span></strong>Kõrgem matemaatika I (6 EAP)</span></strong><br></span></strong></span></strong></span></strong></p><p><strong style="font-size: 0.9375rem;"><span class="" style="color: rgb(0, 0, 0);"><strong><span><strong><span>LTMS.00.081&nbsp;</span></strong>Kõrgem matemaatika I arvutitehnikutele (6 EAP)</span></strong></span></strong><br></p></div></div>
                         </div>
                 
                 
@@ -1733,7 +1732,7 @@
         <div class="section_availability">
 </div>
                 <div id="toggledsection-5" class="sectionbody toggledsection">
-            <div class="summary"><div class="no-overflow"><p><span style="color: rgb(57, 45, 224); --darkreader-inline-color: var(--darkreader-text-392de0, #4077e3);" data-darkreader-inline-color=""><strong>Esimesed tööd</strong></span> (lingid asuvad kursuse esimeses osas):</p>
+            <div class="summary"><div class="no-overflow"><p><span style="color: #392de0;"><strong>Esimesed tööd</strong></span> (lingid asuvad kursuse esimeses osas):</p>
 <p>Avaldiste sisestamise harjutustest (avatud semestri lõpuni) avaldiste sisestamise harjutamiseks, et arvestuslikes testides sisestusvigu vältida.</p>
 <p>Eeltest matemaatikas (avatud 02.09 kell 10.00 kuni 14.09 kell 22.00) gümnaasiumiteadmiste kontrolliks, annab kuni 1 lisapunkti.</p></div></div>
             <ul class="section m-0 p-0 img-text d-block" data-for="cmlist">
@@ -1759,7 +1758,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: rgb(0, 0, 255); --darkreader-inline-color: var(--darkreader-text-0000ff, #337dff);" data-darkreader-inline-color=""><strong>Loengumaterjalid</strong></span></p>
+                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: #0000ff;"><strong>Loengumaterjalid</strong></span></p>
 <p></p></div></div>
                         </div>
                 
@@ -2555,7 +2554,7 @@
         <div class="section_availability">
 </div>
                 <div id="toggledsection-6" class="sectionbody toggledsection">
-            <div class="summary"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 0, 0); --darkreader-inline-color: var(--darkreader-text-ff0000, #ff1a1a);" data-darkreader-inline-color="">Hindelised tööd</span></strong></p></div></div>
+            <div class="summary"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="color: rgb(255, 0, 0);">Hindelised tööd</span></strong></p></div></div>
             <ul class="section m-0 p-0 img-text d-block" data-for="cmlist">
             
             
@@ -2591,11 +2590,11 @@
                                     <div data-region="activity-information" data-activityname="Arvestuslik test 1. Vektorid, sirged, tasandid  (avaneb 14.09 kell 14.00, sulgub 20.09 kell 22.00)" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Arvestuslik test 1. Vektorid, sirged, tasandid  (avaneb 14.09 kell 14.00, sulgub 20.09 kell 22.00) jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c44ebd3327" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin btn-success   " type="button" id="dropwdownbutton_6ac22c44ebd3328" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2336dc523927" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin btn-success   " type="button" id="dropwdownbutton_6ac2336dc523928" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     <i class="icon fa fa-check fa-fw " aria-hidden="true"></i> Tehtud
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c44ebd3328" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2336dc523928" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -2649,7 +2648,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: rgb(0, 0, 255); --darkreader-inline-color: var(--darkreader-text-0000ff, #337dff);" data-darkreader-inline-color=""><strong>Loengumaterjalid</strong></span></p>
+                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: #0000ff;"><strong>Loengumaterjalid</strong></span></p>
 <p></p></div></div>
                         </div>
                 
@@ -3534,7 +3533,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: rgb(255, 0, 0); --darkreader-inline-color: var(--darkreader-text-ff0000, #ff1a1a);" data-darkreader-inline-color=""><strong>Hindelised tööd</strong></span></p><div class="editor-indent" style="margin-left: 30px;"><p><span style="color: rgb(0, 0, 0); --darkreader-inline-color: var(--darkreader-text-000000, #e8e6e3);" data-darkreader-inline-color=""><strong></strong></span></p></div><div class="editor-indent" style="margin-left: 30px;"><p><span style="color: rgb(0, 0, 0); --darkreader-inline-color: var(--darkreader-text-000000, #e8e6e3);" data-darkreader-inline-color=""><strong></strong></span></p></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: #ff0000;"><strong>Hindelised tööd</strong></span></p><div class="editor-indent" style="margin-left: 30px;"><p><span style="color: #000000;"><strong></strong></span></p></div><div class="editor-indent" style="margin-left: 30px;"><p><span style="color: #000000;"><strong></strong></span></p></div>
 <p></p></div></div>
                         </div>
                 
@@ -3576,11 +3575,11 @@
                                     <div data-region="activity-information" data-activityname="Arvestuslik test 2. Kompleksarvud (avaneb 21.09 kell 14.00 ja sulgub 27.09 kell 22.00)" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Arvestuslik test 2. Kompleksarvud (avaneb 21.09 kell 14.00 ja sulgub 27.09 kell 22.00) jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c44ebd3329" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin btn-success   " type="button" id="dropwdownbutton_6ac22c44ebd3330" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2336dc523929" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin btn-success   " type="button" id="dropwdownbutton_6ac2336dc523930" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     <i class="icon fa fa-check fa-fw " aria-hidden="true"></i> Tehtud
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c44ebd3330" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2336dc523930" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -3678,7 +3677,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: rgb(0, 0, 255); --darkreader-inline-color: var(--darkreader-text-0000ff, #337dff);" data-darkreader-inline-color=""><strong>Loengumaterjalid</strong></span></p>
+                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: #0000ff;"><strong>Loengumaterjalid</strong></span></p>
 <p></p></div></div>
                         </div>
                 
@@ -4569,7 +4568,7 @@
         <div class="section_availability">
 </div>
                 <div id="toggledsection-8" class="sectionbody toggledsection">
-            <div class="summary"><div class="no-overflow"><div style="text-align: left;"><strong><span class="" style="color: rgb(255, 0, 0); --darkreader-inline-color: var(--darkreader-text-ff0000, #ff1a1a);" data-darkreader-inline-color="">Hindelised tööd</span></strong></div>
+            <div class="summary"><div class="no-overflow"><div style="text-align: left;"><strong><span class="" style="color: #ff0000;">Hindelised tööd</span></strong></div>
 <p dir="ltr" style="text-align: left;"><br></p>
 <div class="attostylesbox attostylesbox-solid attostylesbox-solid-red"><strong>Tunnikontroll nr 1&nbsp; &nbsp;</strong>toimub&nbsp; 7. praktikumi ajal (22.09, 23.09 või 24.09, <strong>kuni 15 minutit, kalkulaator on keelatud</strong>)&nbsp;</div>
 <div class="attostylesbox attostylesbox-outline attostylesbox-outline-red">Tunnikontrolli saab teha ainult üks kord ja sisaldab teooria osa kordamisküsimustes küsitud teemadel, kõigile küsimustele võivad lisanduda näited</div>
@@ -4637,7 +4636,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: rgb(0, 0, 255); --darkreader-inline-color: var(--darkreader-text-0000ff, #337dff);" data-darkreader-inline-color=""><strong>Loengumaterjalid</strong></span></p></div></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: #0000ff;"><strong>Loengumaterjalid</strong></span></p></div></div>
                         </div>
                 
                 
@@ -5662,7 +5661,7 @@
                 <div id="toggledsection-9" class="sectionbody toggledsection sectionopen">
             <div class="summary"><div class="no-overflow"><p><em>"The only way of finding the limits of the possible is by going beyond them into the impossible."</em></p>
 <p></p>
-<p><strong><span class="" style="color: rgb(255, 51, 102); --darkreader-inline-color: var(--darkreader-text-ff3366, #ff3d6e);" data-darkreader-inline-color="">Hindelised tööd</span></strong></p></div></div>
+<p><strong><span class="" style="color: rgb(255, 51, 102);">Hindelised tööd</span></strong></p></div></div>
             <ul class="section m-0 p-0 img-text d-block" data-for="cmlist">
             
             
@@ -5698,11 +5697,11 @@
                                     <div data-region="activity-information" data-activityname="Kontrolltöö nr 1 harjutustest (avaneb 28.09 kell 14.00, sulgub 04.10 kell 22.00)" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Kontrolltöö nr 1 harjutustest (avaneb 28.09 kell 14.00, sulgub 04.10 kell 22.00) jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c44ebd3331" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin btn-success   " type="button" id="dropwdownbutton_6ac22c44ebd3332" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2336dc523931" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin btn-success   " type="button" id="dropwdownbutton_6ac2336dc523932" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     <i class="icon fa fa-check fa-fw " aria-hidden="true"></i> Tehtud
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c44ebd3332" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2336dc523932" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -5842,7 +5841,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: rgb(0, 0, 255); --darkreader-inline-color: var(--darkreader-text-0000ff, #337dff);" data-darkreader-inline-color=""><strong>Loengumaterjalid</strong></span></p>
+                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: #0000ff;"><strong>Loengumaterjalid</strong></span></p>
 <p></p></div></div>
                         </div>
                 
@@ -7240,10 +7239,10 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: rgb(255, 0, 0); --darkreader-inline-color: var(--darkreader-text-ff0000, #ff1a1a);" data-darkreader-inline-color=""><strong>Hindelised tööd</strong></span><span style="color: rgb(136, 136, 136); --darkreader-inline-color: var(--darkreader-text-888888, #9d9488);" data-darkreader-inline-color=""><br></span></p>
-<div class="attostylesbox attostylesbox-solid attostylesbox-solid-red"><span style="color: rgb(255, 0, 0); --darkreader-inline-color: var(--darkreader-text-ff0000, #ff1a1a);" data-darkreader-inline-color=""><strong>Kontrolltöö nr 1&nbsp; </strong><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color="">toimub 05.10 loengu ajal ja toimumise kohas Vanemuise 46-225 <span style="color: rgb(0, 0, 0); --darkreader-inline-color: var(--darkreader-text-000000, #e8e6e3);" data-darkreader-inline-color="">(</span><span class="" style="color: rgb(0, 0, 0); --darkreader-inline-color: var(--darkreader-text-000000, #e8e6e3);" data-darkreader-inline-color="">eraldi registreerima Õppeinfosüsteemiis ei pea).&nbsp;</span></span></span></div>
-<div class="attostylesbox attostylesbox-solid attostylesbox-solid-red"><span style="color: rgb(255, 0, 0); --darkreader-inline-color: var(--darkreader-text-ff0000, #ff1a1a);" data-darkreader-inline-color=""><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><span class="" style="color: rgb(0, 0, 0); --darkreader-inline-color: var(--darkreader-text-000000, #e8e6e3);" data-darkreader-inline-color=""><strong>Isikut tõendav dokument </strong>võtke kaasa. Tohib kasutada kalkulaatorit, mis on riigieksamil lubatud. <strong>Kõik nutiseadmed on keelatud, omavaheline suhtlemine on keelatud.</strong></span></span></span></div>
-<div class="attostylesbox attostylesbox-outline attostylesbox-outline-red"><span style="color: rgb(255, 0, 0); --darkreader-inline-color: var(--darkreader-text-ff0000, #ff1a1a);" data-darkreader-inline-color=""><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><span class="" style="color: rgb(0, 0, 0); --darkreader-inline-color: var(--darkreader-text-000000, #e8e6e3);" data-darkreader-inline-color=""><strong>Lisapraktikum </strong>kontrolltöö ülesannete kordamiseks (info Õppeinfosüsteemis)</span></span></span></div>
+                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: #ff0000;"><strong>Hindelised tööd</strong></span><span style="color: #888888;"><br></span></p>
+<div class="attostylesbox attostylesbox-solid attostylesbox-solid-red"><span style="color: #ff0000;"><strong>Kontrolltöö nr 1&nbsp; </strong><span class="" style="color: #003df5;">toimub 05.10 loengu ajal ja toimumise kohas Vanemuise 46-225 <span style="color: #000000;">(</span><span class="" style="color: #000000;">eraldi registreerima Õppeinfosüsteemiis ei pea).&nbsp;</span></span></span></div>
+<div class="attostylesbox attostylesbox-solid attostylesbox-solid-red"><span style="color: #ff0000;"><span class="" style="color: #003df5;"><span class="" style="color: #000000;"><strong>Isikut tõendav dokument </strong>võtke kaasa. Tohib kasutada kalkulaatorit, mis on riigieksamil lubatud. <strong>Kõik nutiseadmed on keelatud, omavaheline suhtlemine on keelatud.</strong></span></span></span></div>
+<div class="attostylesbox attostylesbox-outline attostylesbox-outline-red"><span style="color: #ff0000;"><span class="" style="color: #003df5;"><span class="" style="color: #000000;"><strong>Lisapraktikum </strong>kontrolltöö ülesannete kordamiseks (info Õppeinfosüsteemis)</span></span></span></div>
 <p><br></p></div></div>
                         </div>
                 
@@ -7285,11 +7284,11 @@
                                     <div data-region="activity-information" data-activityname="Arvestuslik test nr 3. Funktsioonid, piirväärtus (avaneb 05.10 kell 14.00, sulgub 11.10 kell 22.00)" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Arvestuslik test nr 3. Funktsioonid, piirväärtus (avaneb 05.10 kell 14.00, sulgub 11.10 kell 22.00) jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c44ebd3333" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac22c44ebd3334" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2336dc523933" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac2336dc523934" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     Teha
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c44ebd3334" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2336dc523934" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -7547,11 +7546,11 @@
                                     <div data-region="activity-information" data-activityname="Kontrolltöö nr 1 harjutustesti koopia (lisapunkte ei anna, järelharjutamiseks)" class="activity-information">
                                             <div data-region="completion-info">
                                                     <div data-region="completionrequirements" aria-label="Lõpetamise tingimused Kontrolltöö nr 1 harjutustesti koopia (lisapunkte ei anna, järelharjutamiseks) jaoks">
-                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac22c44ebd3335" data-dropdown-dialog-initialized="true">
-                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac22c44ebd3336" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
+                                                        <div class="dropdown     completion-dropdown   " id="dropdownDialog_6ac2336dc523935" data-dropdown-dialog-initialized="true">
+                                                            <button class="     btn btn-sm dropdown-toggle icon-no-margin    " type="button" id="dropwdownbutton_6ac2336dc523936" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-for="dropdowndialog_button">
                                                                     Teha
                                                             </button>
-                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac22c44ebd3336" data-for="dropdowndialog_dialog">
+                                                            <div class="dropdown-menu   dropdown-menu-right       " aria-labelledby="dropwdownbutton_6ac2336dc523936" data-for="dropdowndialog_dialog">
                                                                 <div class="p-2" data-for="dropdowndialog_content">
                                                                         <div class="completion-dialog px-2">
             <strong>Sa pead</strong>
@@ -7607,7 +7606,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: rgb(0, 0, 255); --darkreader-inline-color: var(--darkreader-text-0000ff, #337dff);" data-darkreader-inline-color=""><strong>Loengumaterjalid</strong></span></p>
+                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: #0000ff;"><strong>Loengumaterjalid</strong></span></p>
 <p></p></div></div>
                         </div>
                 
@@ -8832,7 +8831,7 @@
                 
                 
                         <div class="activity-altcontent text-break ">
-                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: rgb(0, 0, 255); --darkreader-inline-color: var(--darkreader-text-0000ff, #337dff);" data-darkreader-inline-color=""><strong>Loengumaterjalid</strong></span></p>
+                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: #0000ff;"><strong>Loengumaterjalid</strong></span></p>
 <p></p></div></div>
                         </div>
                 
@@ -10226,965 +10225,3 @@
                     
                 </section>
             </div>
-            <div class="columnleft blockcolumn  has-blocks ">
-                <section data-region="blocks-column" class="hidden-print" aria-label="Plokid">
-                    <aside id="block-region-side-pre" class="block-region" data-blockregion="side-pre" data-droptarget="1" aria-labelledby="side-pre-block-region-heading"><h2 class="sr-only" id="side-pre-block-region-heading">Plokid</h2><a href="#sb-1" class="sr-only sr-only-focusable">Jäta vahele Tegevused</a>
-
-<section id="inst1418919" class=" block_activity_modules block list_block  card mb-3" role="navigation" data-block="activity_modules" data-instance-id="1418919" aria-labelledby="instance-1418919-header">
-
-    <div class="card-body p-3">
-
-            <h3 id="instance-1418919-header" class="h5 card-title d-inline">Tegevused</h3>
-
-
-        <div class="card-text content mt-3">
-            <ul class="unlist"><li class="r0"><div class="column c1"><a href="https://moodle.ut.ee/mod/forum/index.php?id=2880"><img class="icon " alt="Foorum" title="Foorum" src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1790052085/monologo">Foorumid</a></div></li>
-<li class="r1"><div class="column c1"><a href="https://moodle.ut.ee/mod/attendance/index.php?id=2880"><img class="icon " alt="Osalemine" title="Osalemine" src="https://moodle.ut.ee/theme/image.php/classic_ut/attendance/1790052085/monologo">Osalemised</a></div></li>
-<li class="r0"><div class="column c1"><a href="https://moodle.ut.ee/mod/quiz/index.php?id=2880"><img class="icon " alt="Test" title="Test" src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo">Testid</a></div></li>
-<li class="r1"><div class="column c1"><a href="https://moodle.ut.ee/course/resources.php?id=2880"><img class="icon icon" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/mod_page/1790052085/monologo">Vahendid</a></div></li></ul>
-            <div class="footer"></div>
-            
-        </div>
-
-    </div>
-
-</section>
-
-  <span id="sb-1"></span><a href="#sb-2" class="sr-only sr-only-focusable">Jäta vahele Seadistused</a>
-
-<section id="inst39912" class=" block_settings block  card mb-3" role="navigation" data-block="settings" data-instance-id="39912" aria-labelledby="instance-39912-header">
-
-    <div class="card-body p-3">
-
-            <h3 id="instance-39912-header" class="h5 card-title d-inline">Seadistused</h3>
-
-
-        <div class="card-text content mt-3">
-            <div id="settingsnav" class="box py-3 block_tree_box"><ul class="block_tree list" role="tree" data-ajax-loader="block_navigation/site_admin_loader"><li class="type_course depth_1 contains_branch" tabindex="0" role="treeitem" aria-expanded="true" aria-owns="random6ac22c44ebd331_group" aria-selected="true"><p class="tree_item root_node tree_item branch" tabindex="-1"><span tabindex="-1">Kursuse haldamine</span></p><ul id="random6ac22c44ebd331_group" role="group" tabindex="-1"><li class="type_setting depth_2 item_with_icon" tabindex="-1" role="treeitem" aria-selected="false"><p class="tree_item hasicon tree_item leaf" tabindex="-1"><a href="https://moodle.ut.ee/grade/report/index.php?id=2880" tabindex="-1"><i class="icon fa fa-clipboard-check fa-fw navicon" aria-hidden="true" tabindex="-1"></i>Hinded</a></p></li></ul></li></ul></div>
-            <div class="footer"></div>
-            
-        </div>
-
-    </div>
-
-</section>
-
-  <span id="sb-2"></span><a href="#sb-3" class="sr-only sr-only-focusable">Jäta vahele Foorumite plokk</a>
-
-<section id="inst52585" class=" block_forum_block block  card mb-3" role="region" data-block="forum_block" data-instance-id="52585" aria-labelledby="instance-52585-header">
-
-    <div class="card-body p-3">
-
-            <h3 id="instance-52585-header" class="h5 card-title d-inline">Foorumite plokk</h3>
-
-
-        <div class="card-text content mt-3">
-            <ul class="unlist"><li class="forum_title"><a href="https://moodle.ut.ee/mod/forum/view.php?id=198536">Arutelu foorum</a></li><li class="post"><div class="head"><div class="subject">Vastus: Üldine korraldus ja osalemine</div><div class="userpic"><a href="https://moodle.ut.ee/user/view.php?id=168651&amp;course=2880" class="d-inline-block aabtn"><span class="userinitials size-21" title="Johanna Charlotte Jeltsch" aria-label="Johanna Charlotte Jeltsch" role="img">JJ</span></a></div><div class="name">Johanna Charlotte Jeltsch</div><div class="date">Posted: 31. aug, 20:35:51</div></div><div>Tere!
-Üldiselt ükski loeng ega praktikum ei ole rangelt kohustuslik. Loengute k <a class="postreadmore" href="https://moodle.ut.ee/mod/forum/discuss.php?d=1147682#p2874236">rohkem...</a></div></li><li class="post"><div class="head"><div class="subject">Üldine korraldus ja osalemine</div><div class="userpic"><a href="https://moodle.ut.ee/user/view.php?id=245090&amp;course=2880" class="d-inline-block aabtn"><span class="userinitials size-21" title="Aivar Hinrikus" aria-label="Aivar Hinrikus" role="img">AH</span></a></div><div class="name">Aivar Hinrikus</div><div class="date">Posted: 31. aug, 19:41:05</div></div><div>Tere!
-Kas KÕIGIST loengutest, seminaridest praktikumidest osavõtt on hädavajali <a class="postreadmore" href="https://moodle.ut.ee/mod/forum/discuss.php?d=1147682#p2874229">rohkem...</a></div></li></ul>
-            <div class="footer"></div>
-            
-        </div>
-
-    </div>
-
-</section>
-
-  <span id="sb-3"></span><a href="#sb-4" class="sr-only sr-only-focusable">Jäta vahele Panopto</a>
-
-<section id="inst63112" class=" block_panopto block  card mb-3" role="region" data-block="panopto" data-instance-id="63112" aria-labelledby="instance-63112-header">
-
-    <div class="card-body p-3">
-
-            <h3 id="instance-63112-header" class="h5 card-title d-inline">Panopto</h3>
-
-
-        <div class="card-text content mt-3">
-            <div id="block_panopto_content" courseid="2880"><form name="SSO" method="post"><input type="hidden" name="instance" value="Moodle"></form><div><b>Otseülekanded</b></div><div class="listItem">Otseülekanded puuduvad</div><div class="sectionHeader"><b>Tehtud salvestused</b></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=670a7664-872c-4fa4-9361-b25d0088076b&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Eksami konsultatsioon, 6.01.2025</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8acd2186-eb90-413b-95af-b24401095216&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Lisapraktikum, 12.12.2024</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d5983349-ea37-47cc-b8af-b22101084f9d&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Lisapraktikum kontrolltöö 2 teemade kordamine, 7.11.2024</a></div><div id="hiddenLecturesDiv"><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=37e14471-9c08-4050-9089-b1fe00f7df81&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Lisapraktikum, 3. oktoober 2024</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1da4c042-c3cb-4ecd-baba-b1e00056d7d4&amp;instance=Moodle" onclick="return panopto_startSSO(this)">1. loeng Kõrgema matemaatika I ainetes (03.09.2024)</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7645ec75-6392-4f70-9448-b0ee00877e84&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Konsultatsioon eksami teemadel, 05.01.2024 (KM I)</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=66d49392-5c58-4cdd-92f8-b0d8010c892f&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Lisapraktikumi salvestus. Kontrolltöö 3 ülesanded (14.12.2023)</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9c1ba065-ac92-4b25-9135-b0d500a9597d&amp;instance=Moodle" onclick="return panopto_startSSO(this)">15. loengu salvestus. Determinandid. Pöördmaatriks (11.12.2023)</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dbbf23ca-2f08-4091-a7d8-b0ce00a8afd0&amp;instance=Moodle" onclick="return panopto_startSSO(this)">14. loengu salvestus. Päratud integraalid. Maatriksid (4.12.2023)</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=56cb8c02-d907-45b6-a82e-b0c700a9acd7&amp;instance=Moodle" onclick="return panopto_startSSO(this)">13. loengu salvestus. Trigonomeetriliste ja irratsionaalfunktsioonide integreerimine. Päratud integraalid (27.11.2023)</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b81a60d1-5c1d-4c22-ae3c-b0c000a9621c&amp;instance=Moodle" onclick="return panopto_startSSO(this)">12. loengu salvestus. Määratud integraali rakendused (20.11.2023)</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6bfcc796-cf93-4202-ab4d-b0b5010c59cd&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Lisapraktikumi salvestus kontrolltöö 2 ülesannete kordamiseks (9.11.2023)</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=02d8ab2b-c55c-48d1-9ce8-b0b200a8bd60&amp;instance=Moodle" onclick="return panopto_startSSO(this)">10. loengu salvestus, Riemanni summad, määratud integraal (6.11.2023)</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=13ff5762-fb20-4497-b80b-b0ab00a8bbeb&amp;instance=Moodle" onclick="return panopto_startSSO(this)">9. loeng. Diferentsiaalvõrrandid (30.10.2023)</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8a14f2d8-ff43-4356-84b3-b0a40099120b&amp;instance=Moodle" onclick="return panopto_startSSO(this)">8. loengu salvestus. Ositi integreerimine, diferentsiaalvõrrandid  (23.10.2023)</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f7254702-2cc9-4471-b81f-b09d009849a7&amp;instance=Moodle" onclick="return panopto_startSSO(this)">7. loengu salvestus. Funktsiooni uurimine. Määramata integraal (16.10.2023)</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=799dd418-db4f-407a-944f-b09200fc4989&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Lisapraktikum enne 1. kontrolltööd. 05.10.2023</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=27c51cd5-e58b-4e55-903b-b08f00985383&amp;instance=Moodle" onclick="return panopto_startSSO(this)">5. loengu salvestus. Piirväärtus ja pidevus (KM1 ja epsilon-delta, 02.10.2023)</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c70fb3d4-f16b-4e2d-98c8-b088009825ac&amp;instance=Moodle" onclick="return panopto_startSSO(this)">4. loengu salvestus. Funktsioonid (25.09.2023)</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=af952d94-a486-403e-a978-b0810097ef26&amp;instance=Moodle" onclick="return panopto_startSSO(this)">3. loengu salvestus. Kompleksarvud. Kõrgem matemaatika I (18. 09.2023)</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d7da071e-15cf-4774-9ff4-af8500a89e5a&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Eksami konsultatsioon 2, 9.01.2023</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=882fcc00-5762-4e8f-8738-af7e00a8cfe9&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Eksami konsultatsioon, 2. jaanuar 2023</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d48a57ad-c3fb-4796-a5b1-af6200a93027&amp;instance=Moodle" onclick="return panopto_startSSO(this)">15. loeng. Trigonomeetriliste ja irratsionaalfunktsioonide integreerimine, 5.12.2022</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6c652f6e-595d-4a42-8b94-af5b00a90f84&amp;instance=Moodle" onclick="return panopto_startSSO(this)">14. loeng. Määratud integraali geomeetrilised ja füüsikalised rakendused, 28.11.2022</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=90493af9-80c1-4430-8698-af5400a96efd&amp;instance=Moodle" onclick="return panopto_startSSO(this)">13. loeng. Määratud integraal, 21.11.2022</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e1dd1b43-e751-4ab0-85d8-af4600a89112&amp;instance=Moodle" onclick="return panopto_startSSO(this)">11. loeng. Maatriksi astak. Lineaarvõrrandisüsteemid, 07.11.2022</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=358d1b4f-96b7-43f1-a76e-af460067a6df&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Lisapraktikum 2 kontrolltöö 2 ülesannete kordamiseks. Diferentsiaalvõrrandid. Maatriksid. Determinandid, 7.11.2022</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6195df85-c965-45e0-954f-af3f00a9d449&amp;instance=Moodle" onclick="return panopto_startSSO(this)">10. loeng aines Kõrgem matemaatika I ja epsilon-delta, 31. oktoober 2022</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2bc8965e-c4bb-4657-a4c5-af3f0067d521&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Lisapraktikum kontrolltöö 2 ülesannete kordamiseks, 31.10 .2022</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=42cece10-793a-43eb-ba65-af2a0098ee62&amp;instance=Moodle" onclick="return panopto_startSSO(this)">7. loeng ainetes Kõrgem matemaatika I ja epsilon-delta esmaspäev, 10. oktoober 2022</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=49f36f37-0bb1-44e5-92e5-b09200a1e401&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Lisapraktikumi salvestus. Funktsioonid, piirväärtus ja pidevus (10.10.2022)</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=57a08b39-3c6f-47a7-801e-af2a0057c8fe&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Lisapraktikum, 10. oktoober 2022</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=efae8617-3a78-4f59-8b46-af230099552e&amp;instance=Moodle" onclick="return panopto_startSSO(this)">6. loeng aines Kõrgem matemaatika I ja epsilon-delta, 3. oktoober 2022</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=07a2eea3-b333-4c77-81c8-af230056cdd7&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Lisapraktikumi salvestus. Vektorid, sirged, tasandid, kompleksarvud (Kõrgem matemaatika I, 03.10.2022)</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5abc5e8a-e03d-43ea-8abc-af15009cb98a&amp;instance=Moodle" onclick="return panopto_startSSO(this)">4. loengu salvestus ainetes Kõrgem matemaatika I ja epsilon-delta, 19. september 2022</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8c6f45d9-58b2-4b92-be9b-af070097e21a&amp;instance=Moodle" onclick="return panopto_startSSO(this)">2. loeng aines Kõrgem matemaatika I, 5. september 2022</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bc1cdc45-af46-4f50-910e-af0200fac720&amp;instance=Moodle" onclick="return panopto_startSSO(this)">1. loeng aines Kõrgem matemaatika I, kolmapäev, 31. august 2022</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b0315e75-8387-46b1-8c03-af2400aa86d7&amp;instance=Moodle" onclick="return panopto_startSSO(this)">Lisapraktikumi salvestus, 20. september 2021 Funktsioonid</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5a1ca927-0162-42b2-9e50-aa6748f4859e&amp;instance=Moodle" onclick="return panopto_startSSO(this)">KM1 26. september 2016. a. at 12:03:52</a></div><div class="listItem listItemAlt"><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fba05345-c000-445e-84c6-e7521964bed4&amp;instance=Moodle" onclick="return panopto_startSSO(this)">KM1 19. september 2016. a. at 12:07:52</a></div><div class="listItem "><a href="https://ut.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fb5f43ea-e15c-4b00-aa33-3a5b76cd748c&amp;instance=Moodle" onclick="return panopto_startSSO(this)">12. september 2016. a. at 12:06:09</a></div></div><div id="showAllDiv">[<a id="showAllToggle" href="javascript:panopto_toggleHiddenLectures()">Show all</a>]</div></div><script type="text/javascript">function panopto_launchNotes(url) {var notesWindow = window.open("", "PanoptoNotes", "width=500,height=800,resizable=1,scrollbars=0,status=0,location=0");document.SSO.action = url;document.SSO.target = "PanoptoNotes";document.SSO.submit();notesWindow.focus();}function panopto_startSSO(linkElem) {document.SSO.action = linkElem.href;document.SSO.target = "_blank";document.SSO.submit();return false;}function panopto_toggleHiddenLectures() {var showAllToggle = document.getElementById("showAllToggle");var hiddenLecturesDiv = document.getElementById("hiddenLecturesDiv");if (hiddenLecturesDiv.style.display == "block") {hiddenLecturesDiv.style.display = "none";showAllToggle.innerHTML = "Show all";} else {hiddenLecturesDiv.style.display = "block";showAllToggle.innerHTML = "Show less";}}</script>
-            <div class="footer"></div>
-            
-        </div>
-
-    </div>
-
-</section>
-
-  <span id="sb-4"></span></aside>
-                </section>
-            </div>
-
-            <div class="columnright blockcolumn  has-blocks ">
-                <section data-region="blocks-column" class="hidden-print" aria-label="Plokid">
-                    <aside id="block-region-side-post" class="block-region" data-blockregion="side-post" data-droptarget="1" aria-labelledby="side-post-block-region-heading"><h2 class="sr-only" id="side-post-block-region-heading">Supplementary blocks</h2><a href="#sb-5" class="sr-only sr-only-focusable">Jäta vahele Arvestuslikud testid</a>
-
-<section id="inst557244" class=" block_completion_progress block  card mb-3" role="region" data-block="completion_progress" data-instance-id="557244" aria-labelledby="instance-557244-header">
-
-    <div class="card-body p-3">
-
-            <h3 id="instance-557244-header" class="h5 card-title d-inline">Arvestuslikud testid</h3>
-
-
-        <div class="card-text content mt-3">
-            <div class="barContainer" data-instanceid="557244"><div class="barRow barModeSqueeze barWithNow" style=""><div class="barRowCells" style=""><div class="progressBarCell completed" data-info-ref="progressBarInfo557244-264340-275026" data-haslink="true"><div class="nowDiv firstNow"><img class="icon nowicon" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/left">PRAEGU</div></div><div class="progressBarCell completed" data-info-ref="progressBarInfo557244-264340-199785" data-haslink="true"></div><div class="progressBarCell futureNotCompleted" data-info-ref="progressBarInfo557244-264340-199882" data-haslink="true"></div></div></div></div><div class="progressPercentage">Progress: 67%</div><div class="progressEventInfo" id="progressBarInfo557244-264340-info">Info vaatamiseks liigu hiirega üle. <a class="accesshide progressShowAllInfo" href="#">Show all info</a></div><div class="progressEventInfo" id="progressBarInfo557244-264340-275026" style="display: none;"><a href="https://moodle.ut.ee/mod/quiz/view.php?id=275026" id="action_link6ac22c44ebd333" class="action_link"><img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="moduleIcon" alt="" role="presentation">Arvestuslik test 1. Vektorid, sirged, tasandid  (avaneb 14.09 kell 14.00, sulgub 20.09 kell 22.00)</a><br>Lõpetatud&nbsp;<img class="icon iconInInfo" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/tick"><br></div><div class="progressEventInfo" id="progressBarInfo557244-264340-199785" style="display: none;"><a href="https://moodle.ut.ee/mod/quiz/view.php?id=199785" id="action_link6ac22c44ebd334" class="action_link"><img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="moduleIcon" alt="" role="presentation">Arvestuslik test 2. Kompleksarvud (avaneb 21.09 kell 14.00 ja sulgub 27.09 kell 22.00)</a><br>Lõpetatud&nbsp;<img class="icon iconInInfo" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/tick"><br></div><div class="progressEventInfo" id="progressBarInfo557244-264340-199882" style="display: none;"><a href="https://moodle.ut.ee/mod/quiz/view.php?id=199882" id="action_link6ac22c44ebd335" class="action_link"><img src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="moduleIcon" alt="" role="presentation">Arvestuslik test nr 3. Funktsioonid, piirväärtus (avaneb 05.10 kell 14.00, sulgub 11.10 kell 22.00)</a><br>Lõpetamata&nbsp;<img class="icon iconInInfo" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/block_completion_progress/1790052085/cross"><br></div>
-            <div class="footer"></div>
-            
-        </div>
-
-    </div>
-
-</section>
-
-  <span id="sb-5"></span><a href="#sb-7" class="sr-only sr-only-focusable">Jäta vahele Kalender</a>
-
-<section id="inst53904" class=" block_calendar_month block  card mb-3" role="region" data-block="calendar_month" data-instance-id="53904" aria-labelledby="instance-53904-header">
-
-    <div class="card-body p-3">
-
-            <h3 id="instance-53904-header" class="h5 card-title d-inline">Kalender</h3>
-
-
-        <div class="card-text content mt-3">
-            <div data-region="calendar" class="maincalendar"><div id="calendar-month-6ac22c450e7b26ac22c44ebd336-1" data-template="core_calendar/month_detailed">
-    <div class="calendarwrapper" data-courseid="2880" data-categoryid="143" data-context-id="269594" data-month="10" data-year="2026" data-view="monthblock">
-
-
-    <div id="month-navigation-1-1" class="controls">
-        <div class="calendar-controls">
-            <a href="https://moodle.ut.ee/calendar/view.php?view=month&amp;time=1788210000&amp;course=2880" class="arrow_link previous" title="Previous month: september" data-year="2026" data-month="9" data-drop-zone="nav-link" aria-label="Previous month: september">
-                <span class="arrow" aria-hidden="true">◀︎</span>
-                &nbsp;
-                <span class="arrow_text">september</span>
-            </a>
-            <span class="hide"> | </span>
-                <h4 class="current">oktoober 2026</h4>
-            <span class="hide"> | </span>
-            <a href="https://moodle.ut.ee/calendar/view.php?view=month&amp;time=1793484000&amp;course=2880" class="arrow_link next" title="Next month: november" data-year="2026" data-month="11" data-drop-zone="nav-link" aria-label="Next month: november">
-                <span class="arrow_text">november</span>
-                &nbsp;
-                <span class="arrow" aria-hidden="true">▶︎</span>
-            </a>
-        </div>
-    </div>
-
-
-    <span class="overlay-icon-container hidden" data-region="overlay-icon-container">
-
-
-        <span class="loading-icon icon-no-margin"><i class="icon fa fa-spinner fa-spin fa-fw " title="Laadimine" role="img" aria-label="Laadimine"></i></span>
-    </span>
-    <table id="month-detailed-1-1" class="calendarmonth calendartable mb-0">
-        <thead>
-            <tr>
-                <th class="header text-xs-center">
-                    <span class="sr-only">Esmaspäev</span>
-                    <span aria-hidden="true">E</span>
-                </th>
-                <th class="header text-xs-center">
-                    <span class="sr-only">Teisipäev</span>
-                    <span aria-hidden="true">T</span>
-                </th>
-                <th class="header text-xs-center">
-                    <span class="sr-only">Kolmapäev</span>
-                    <span aria-hidden="true">K</span>
-                </th>
-                <th class="header text-xs-center">
-                    <span class="sr-only">Neljapäev</span>
-                    <span aria-hidden="true">N</span>
-                </th>
-                <th class="header text-xs-center">
-                    <span class="sr-only">Reede</span>
-                    <span aria-hidden="true">R</span>
-                </th>
-                <th class="header text-xs-center">
-                    <span class="sr-only">Laupäev</span>
-                    <span aria-hidden="true">L</span>
-                </th>
-                <th class="header text-xs-center">
-                    <span class="sr-only">Pühapäev</span>
-                    <span aria-hidden="true">P</span>
-                </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr data-region="month-view-week">
-                    <td class="dayblank">&nbsp;</td>
-                    <td class="dayblank">&nbsp;</td>
-                    <td class="dayblank">&nbsp;</td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="1" data-day-timestamp="1790802000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1790851014">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 1. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">1</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 1. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">1</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable hasevent" data-day="2" data-day-timestamp="1790888400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1790937414" data-title="Reede, 2. oktoober sündmused">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">1 sündmus, Reede, 2. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Reede, 2. oktoober sündmused" data-year="2026" data-month="10" data-day="2" data-courseid="2880" data-categoryid="143" data-timestamp="1790888400"><span class="day-number-circle"><span class="day-number">2</span></span></a>
-                                <div data-region="day-content">
-                                    <ul>
-                                            <li data-region="event-item" data-event-component="mod_attendance" data-event-eventtype="attendance" data-event-folded="false" data-eventtype-course="1">
-
-                                                <a data-action="view-event" data-event-id="1112504" href="https://moodle.ut.ee/mod/attendance/view.php?id=757969" title="Osalemine (Rühm FKM4 26/27 S PÕ)">
-                                                    <span class="calendar-circle calendar_event_course">
-                                                        &nbsp;
-                                                    </span>
-                                                    <span class="eventname">Osalemine (Rühm FKM4 26/27 S PÕ)</span>
-                                                </a>
-                                            </li>
-                                        <li data-action="view-more-events" style="display: none">
-                                            <strong>
-                                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Reede, 2. oktoober sündmused" data-year="2026" data-month="10" data-day="2" data-courseid="2880" data-categoryid="143" data-timestamp="1790888400">
-                                                    more
-                                                </a>
-                                            </strong>
-                                        </li>
-                                    </ul>
-                                    <div class="hidden">
-                                            <div data-popover-eventtype-course="1">
-
-
-                                                           <img alt="Tegevus" title="Tegevus" src="https://moodle.ut.ee/theme/image.php/classic_ut/attendance/1790052085/monologo?filtericon=1" class="icon ">
-                                                Osalemine (Rühm FKM4 26/27 S PÕ)
-                                            </div>
-                                    </div>
-                                </div>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">1 sündmus, Reede, 2. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="day aalink" aria-label="Reede, 2. oktoober sündmused" data-year="2026" data-month="10" data-day="2" data-courseid="2880" data-categoryid="143" data-timestamp="1790888400"><span class="day-number-circle"><span class="day-number">2</span></span></a>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start weekend clickable" data-day="3" data-day-timestamp="1790974800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791023814">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 3. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">3</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 3. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">3</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start today weekend clickable hasevent" data-day="4" data-day-timestamp="1791061200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791110214" title="Täna" data-title="Täna Pühapäev, 4. oktoober">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">1 sündmus, Pühapäev, 4. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Täna Pühapäev, 4. oktoober" data-year="2026" data-month="10" data-day="4" data-courseid="2880" data-categoryid="143" data-timestamp="1791061200"><span class="day-number-circle"><span class="day-number">4</span></span></a>
-                                <div data-region="day-content">
-                                    <ul>
-                                            <li data-region="event-item" data-event-component="mod_quiz" data-event-eventtype="close" data-event-folded="false" data-eventtype-course="1">
-
-                                                <a data-action="view-event" data-event-id="1084596" href="https://moodle.ut.ee/mod/quiz/view.php?id=1072894" title="Kontrolltöö nr 1 harjutustest (avaneb 28.09 kell 14.00, sulgub 04.10 kell 22.00) suletakse">
-                                                    <span class="calendar-circle calendar_event_course">
-                                                        &nbsp;
-                                                    </span>
-                                                    <span class="eventname">Kontrolltöö nr 1 harjutustest (avaneb 28.09 kell 14.00, sulgub 04.10 kell 22.00) suletakse</span>
-                                                </a>
-                                            </li>
-                                        <li data-action="view-more-events" style="display: none">
-                                            <strong>
-                                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Täna Pühapäev, 4. oktoober" data-year="2026" data-month="10" data-day="4" data-courseid="2880" data-categoryid="143" data-timestamp="1791061200">
-                                                    more
-                                                </a>
-                                            </strong>
-                                        </li>
-                                    </ul>
-                                    <div class="hidden">
-                                            <div data-popover-eventtype-course="1">
-
-
-                                                           <img alt="Sulge aken" title="Sulge aken" src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="icon ">
-                                                Kontrolltöö nr 1 harjutustest (avaneb 28.09 kell 14.00, sulgub 04.10 kell 22.00) suletakse
-                                            </div>
-                                    </div>
-                                </div>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">1 sündmus, Pühapäev, 4. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="day aalink" aria-label="Täna Pühapäev, 4. oktoober" data-year="2026" data-month="10" data-day="4" data-courseid="2880" data-categoryid="143" data-timestamp="1791061200"><span class="day-number-circle"><span class="day-number">4</span></span></a>
-                        </div>
-                    </td>
-            </tr>
-            <tr data-region="month-view-week">
-                    <td class="day text-sm-center text-md-start clickable hasevent" data-day="5" data-day-timestamp="1791147600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791196614" data-title="Esmaspäev, 5. oktoober sündmused">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">2 sündmused, Esmaspäev, 5. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Esmaspäev, 5. oktoober sündmused" data-year="2026" data-month="10" data-day="5" data-courseid="2880" data-categoryid="143" data-timestamp="1791147600"><span class="day-number-circle"><span class="day-number">5</span></span></a>
-                                <div data-region="day-content">
-                                    <ul>
-                                            <li data-region="event-item" data-event-component="mod_attendance" data-event-eventtype="attendance" data-event-folded="false" data-eventtype-course="1">
-
-                                                <a data-action="view-event" data-event-id="1114806" href="https://moodle.ut.ee/mod/attendance/view.php?id=757969" title="Osalemine">
-                                                    <span class="calendar-circle calendar_event_course">
-                                                        &nbsp;
-                                                    </span>
-                                                    <span class="eventname">Osalemine</span>
-                                                </a>
-                                            </li>
-                                            <li data-region="event-item" data-event-component="mod_quiz" data-event-eventtype="open" data-event-folded="false" data-eventtype-course="1">
-
-                                                <a data-action="view-event" data-event-id="961712" href="https://moodle.ut.ee/mod/quiz/view.php?id=199882" title="Arvestuslik test nr 3. Funktsioonid, piirväärtus (avaneb 05.10 kell 14.00, sulgub 11.10 kell 22.00) avatakse">
-                                                    <span class="calendar-circle calendar_event_course">
-                                                        &nbsp;
-                                                    </span>
-                                                    <span class="eventname">Arvestuslik test nr 3. Funktsioonid, piirväärtus (avaneb 05.10 kell 14.00, sulgub 11.10 kell 22.00) avatakse</span>
-                                                </a>
-                                            </li>
-                                        <li data-action="view-more-events" style="display: none">
-                                            <strong>
-                                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Esmaspäev, 5. oktoober sündmused" data-year="2026" data-month="10" data-day="5" data-courseid="2880" data-categoryid="143" data-timestamp="1791147600">
-                                                    more
-                                                </a>
-                                            </strong>
-                                        </li>
-                                    </ul>
-                                    <div class="hidden">
-                                            <div data-popover-eventtype-course="1">
-
-
-                                                           <img alt="Tegevus" title="Tegevus" src="https://moodle.ut.ee/theme/image.php/classic_ut/attendance/1790052085/monologo?filtericon=1" class="icon ">
-                                                Osalemine
-                                            </div>
-                                            <div data-popover-eventtype-course="1">
-
-
-                                                           <img alt="Pole vastatud" title="Pole vastatud" src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="icon ">
-                                                Arvestuslik test nr 3. Funktsioonid, piirväärtus (avaneb 05.10 kell 14.00, sulgub 11.10 kell 22.00) avatakse
-                                            </div>
-                                    </div>
-                                </div>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">2 sündmused, Esmaspäev, 5. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="day aalink" aria-label="Esmaspäev, 5. oktoober sündmused" data-year="2026" data-month="10" data-day="5" data-courseid="2880" data-categoryid="143" data-timestamp="1791147600"><span class="day-number-circle"><span class="day-number">5</span></span></a>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable hasevent" data-day="6" data-day-timestamp="1791234000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791283014" data-title="Teisipäev, 6. oktoober sündmused">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">1 sündmus, Teisipäev, 6. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Teisipäev, 6. oktoober sündmused" data-year="2026" data-month="10" data-day="6" data-courseid="2880" data-categoryid="143" data-timestamp="1791234000"><span class="day-number-circle"><span class="day-number">6</span></span></a>
-                                <div data-region="day-content">
-                                    <ul>
-                                            <li data-region="event-item" data-event-component="mod_attendance" data-event-eventtype="attendance" data-event-folded="false" data-eventtype-course="1">
-
-                                                <a data-action="view-event" data-event-id="1112605" href="https://moodle.ut.ee/mod/attendance/view.php?id=757969" title="Osalemine (Rühm FKM4 26/27 S PÕ)">
-                                                    <span class="calendar-circle calendar_event_course">
-                                                        &nbsp;
-                                                    </span>
-                                                    <span class="eventname">Osalemine (Rühm FKM4 26/27 S PÕ)</span>
-                                                </a>
-                                            </li>
-                                        <li data-action="view-more-events" style="display: none">
-                                            <strong>
-                                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Teisipäev, 6. oktoober sündmused" data-year="2026" data-month="10" data-day="6" data-courseid="2880" data-categoryid="143" data-timestamp="1791234000">
-                                                    more
-                                                </a>
-                                            </strong>
-                                        </li>
-                                    </ul>
-                                    <div class="hidden">
-                                            <div data-popover-eventtype-course="1">
-
-
-                                                           <img alt="Tegevus" title="Tegevus" src="https://moodle.ut.ee/theme/image.php/classic_ut/attendance/1790052085/monologo?filtericon=1" class="icon ">
-                                                Osalemine (Rühm FKM4 26/27 S PÕ)
-                                            </div>
-                                    </div>
-                                </div>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">1 sündmus, Teisipäev, 6. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="day aalink" aria-label="Teisipäev, 6. oktoober sündmused" data-year="2026" data-month="10" data-day="6" data-courseid="2880" data-categoryid="143" data-timestamp="1791234000"><span class="day-number-circle"><span class="day-number">6</span></span></a>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="7" data-day-timestamp="1791320400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791369414">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 7. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">7</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 7. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">7</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="8" data-day-timestamp="1791406800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791455814">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 8. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">8</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 8. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">8</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable hasevent" data-day="9" data-day-timestamp="1791493200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791542214" data-title="Reede, 9. oktoober sündmused">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">1 sündmus, Reede, 9. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Reede, 9. oktoober sündmused" data-year="2026" data-month="10" data-day="9" data-courseid="2880" data-categoryid="143" data-timestamp="1791493200"><span class="day-number-circle"><span class="day-number">9</span></span></a>
-                                <div data-region="day-content">
-                                    <ul>
-                                            <li data-region="event-item" data-event-component="mod_attendance" data-event-eventtype="attendance" data-event-folded="false" data-eventtype-course="1">
-
-                                                <a data-action="view-event" data-event-id="1112505" href="https://moodle.ut.ee/mod/attendance/view.php?id=757969" title="Osalemine (Rühm FKM4 26/27 S PÕ)">
-                                                    <span class="calendar-circle calendar_event_course">
-                                                        &nbsp;
-                                                    </span>
-                                                    <span class="eventname">Osalemine (Rühm FKM4 26/27 S PÕ)</span>
-                                                </a>
-                                            </li>
-                                        <li data-action="view-more-events" style="display: none">
-                                            <strong>
-                                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Reede, 9. oktoober sündmused" data-year="2026" data-month="10" data-day="9" data-courseid="2880" data-categoryid="143" data-timestamp="1791493200">
-                                                    more
-                                                </a>
-                                            </strong>
-                                        </li>
-                                    </ul>
-                                    <div class="hidden">
-                                            <div data-popover-eventtype-course="1">
-
-
-                                                           <img alt="Tegevus" title="Tegevus" src="https://moodle.ut.ee/theme/image.php/classic_ut/attendance/1790052085/monologo?filtericon=1" class="icon ">
-                                                Osalemine (Rühm FKM4 26/27 S PÕ)
-                                            </div>
-                                    </div>
-                                </div>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">1 sündmus, Reede, 9. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="day aalink" aria-label="Reede, 9. oktoober sündmused" data-year="2026" data-month="10" data-day="9" data-courseid="2880" data-categoryid="143" data-timestamp="1791493200"><span class="day-number-circle"><span class="day-number">9</span></span></a>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start weekend clickable" data-day="10" data-day-timestamp="1791579600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791628614">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 10. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">10</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 10. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">10</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start weekend clickable hasevent" data-day="11" data-day-timestamp="1791666000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791715014" data-title="Pühapäev, 11. oktoober sündmused">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">1 sündmus, Pühapäev, 11. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Pühapäev, 11. oktoober sündmused" data-year="2026" data-month="10" data-day="11" data-courseid="2880" data-categoryid="143" data-timestamp="1791666000"><span class="day-number-circle"><span class="day-number">11</span></span></a>
-                                <div data-region="day-content">
-                                    <ul>
-                                            <li data-region="event-item" data-event-component="mod_quiz" data-event-eventtype="close" data-event-folded="false" data-eventtype-course="1">
-
-                                                <a data-action="view-event" data-event-id="961713" href="https://moodle.ut.ee/mod/quiz/view.php?id=199882" title="Arvestuslik test nr 3. Funktsioonid, piirväärtus (avaneb 05.10 kell 14.00, sulgub 11.10 kell 22.00) suletakse">
-                                                    <span class="calendar-circle calendar_event_course">
-                                                        &nbsp;
-                                                    </span>
-                                                    <span class="eventname">Arvestuslik test nr 3. Funktsioonid, piirväärtus (avaneb 05.10 kell 14.00, sulgub 11.10 kell 22.00) suletakse</span>
-                                                </a>
-                                            </li>
-                                        <li data-action="view-more-events" style="display: none">
-                                            <strong>
-                                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Pühapäev, 11. oktoober sündmused" data-year="2026" data-month="10" data-day="11" data-courseid="2880" data-categoryid="143" data-timestamp="1791666000">
-                                                    more
-                                                </a>
-                                            </strong>
-                                        </li>
-                                    </ul>
-                                    <div class="hidden">
-                                            <div data-popover-eventtype-course="1">
-
-
-                                                           <img alt="Sulge aken" title="Sulge aken" src="https://moodle.ut.ee/theme/image.php/classic_ut/quiz/1790052085/monologo?filtericon=1" class="icon ">
-                                                Arvestuslik test nr 3. Funktsioonid, piirväärtus (avaneb 05.10 kell 14.00, sulgub 11.10 kell 22.00) suletakse
-                                            </div>
-                                    </div>
-                                </div>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">1 sündmus, Pühapäev, 11. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="day aalink" aria-label="Pühapäev, 11. oktoober sündmused" data-year="2026" data-month="10" data-day="11" data-courseid="2880" data-categoryid="143" data-timestamp="1791666000"><span class="day-number-circle"><span class="day-number">11</span></span></a>
-                        </div>
-                    </td>
-            </tr>
-            <tr data-region="month-view-week">
-                    <td class="day text-sm-center text-md-start clickable hasevent" data-day="12" data-day-timestamp="1791752400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791801414" data-title="Esmaspäev, 12. oktoober sündmused">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">1 sündmus, Esmaspäev, 12. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Esmaspäev, 12. oktoober sündmused" data-year="2026" data-month="10" data-day="12" data-courseid="2880" data-categoryid="143" data-timestamp="1791752400"><span class="day-number-circle"><span class="day-number">12</span></span></a>
-                                <div data-region="day-content">
-                                    <ul>
-                                            <li data-region="event-item" data-event-component="mod_attendance" data-event-eventtype="attendance" data-event-folded="false" data-eventtype-course="1">
-
-                                                <a data-action="view-event" data-event-id="1114807" href="https://moodle.ut.ee/mod/attendance/view.php?id=757969" title="Osalemine">
-                                                    <span class="calendar-circle calendar_event_course">
-                                                        &nbsp;
-                                                    </span>
-                                                    <span class="eventname">Osalemine</span>
-                                                </a>
-                                            </li>
-                                        <li data-action="view-more-events" style="display: none">
-                                            <strong>
-                                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Esmaspäev, 12. oktoober sündmused" data-year="2026" data-month="10" data-day="12" data-courseid="2880" data-categoryid="143" data-timestamp="1791752400">
-                                                    more
-                                                </a>
-                                            </strong>
-                                        </li>
-                                    </ul>
-                                    <div class="hidden">
-                                            <div data-popover-eventtype-course="1">
-
-
-                                                           <img alt="Tegevus" title="Tegevus" src="https://moodle.ut.ee/theme/image.php/classic_ut/attendance/1790052085/monologo?filtericon=1" class="icon ">
-                                                Osalemine
-                                            </div>
-                                    </div>
-                                </div>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">1 sündmus, Esmaspäev, 12. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="day aalink" aria-label="Esmaspäev, 12. oktoober sündmused" data-year="2026" data-month="10" data-day="12" data-courseid="2880" data-categoryid="143" data-timestamp="1791752400"><span class="day-number-circle"><span class="day-number">12</span></span></a>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable hasevent" data-day="13" data-day-timestamp="1791838800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791887814" data-title="Teisipäev, 13. oktoober sündmused">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">1 sündmus, Teisipäev, 13. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Teisipäev, 13. oktoober sündmused" data-year="2026" data-month="10" data-day="13" data-courseid="2880" data-categoryid="143" data-timestamp="1791838800"><span class="day-number-circle"><span class="day-number">13</span></span></a>
-                                <div data-region="day-content">
-                                    <ul>
-                                            <li data-region="event-item" data-event-component="mod_attendance" data-event-eventtype="attendance" data-event-folded="false" data-eventtype-course="1">
-
-                                                <a data-action="view-event" data-event-id="1112609" href="https://moodle.ut.ee/mod/attendance/view.php?id=757969" title="Osalemine (Rühm FKM4 26/27 S PÕ)">
-                                                    <span class="calendar-circle calendar_event_course">
-                                                        &nbsp;
-                                                    </span>
-                                                    <span class="eventname">Osalemine (Rühm FKM4 26/27 S PÕ)</span>
-                                                </a>
-                                            </li>
-                                        <li data-action="view-more-events" style="display: none">
-                                            <strong>
-                                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Teisipäev, 13. oktoober sündmused" data-year="2026" data-month="10" data-day="13" data-courseid="2880" data-categoryid="143" data-timestamp="1791838800">
-                                                    more
-                                                </a>
-                                            </strong>
-                                        </li>
-                                    </ul>
-                                    <div class="hidden">
-                                            <div data-popover-eventtype-course="1">
-
-
-                                                           <img alt="Tegevus" title="Tegevus" src="https://moodle.ut.ee/theme/image.php/classic_ut/attendance/1790052085/monologo?filtericon=1" class="icon ">
-                                                Osalemine (Rühm FKM4 26/27 S PÕ)
-                                            </div>
-                                    </div>
-                                </div>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">1 sündmus, Teisipäev, 13. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="day aalink" aria-label="Teisipäev, 13. oktoober sündmused" data-year="2026" data-month="10" data-day="13" data-courseid="2880" data-categoryid="143" data-timestamp="1791838800"><span class="day-number-circle"><span class="day-number">13</span></span></a>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="14" data-day-timestamp="1791925200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791974214">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 14. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">14</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 14. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">14</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="15" data-day-timestamp="1792011600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792060614">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 15. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">15</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 15. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">15</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable hasevent" data-day="16" data-day-timestamp="1792098000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792147014" data-title="Reede, 16. oktoober sündmused">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">1 sündmus, Reede, 16. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Reede, 16. oktoober sündmused" data-year="2026" data-month="10" data-day="16" data-courseid="2880" data-categoryid="143" data-timestamp="1792098000"><span class="day-number-circle"><span class="day-number">16</span></span></a>
-                                <div data-region="day-content">
-                                    <ul>
-                                            <li data-region="event-item" data-event-component="mod_attendance" data-event-eventtype="attendance" data-event-folded="false" data-eventtype-course="1">
-
-                                                <a data-action="view-event" data-event-id="1112506" href="https://moodle.ut.ee/mod/attendance/view.php?id=757969" title="Osalemine (Rühm FKM4 26/27 S PÕ)">
-                                                    <span class="calendar-circle calendar_event_course">
-                                                        &nbsp;
-                                                    </span>
-                                                    <span class="eventname">Osalemine (Rühm FKM4 26/27 S PÕ)</span>
-                                                </a>
-                                            </li>
-                                        <li data-action="view-more-events" style="display: none">
-                                            <strong>
-                                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Reede, 16. oktoober sündmused" data-year="2026" data-month="10" data-day="16" data-courseid="2880" data-categoryid="143" data-timestamp="1792098000">
-                                                    more
-                                                </a>
-                                            </strong>
-                                        </li>
-                                    </ul>
-                                    <div class="hidden">
-                                            <div data-popover-eventtype-course="1">
-
-
-                                                           <img alt="Tegevus" title="Tegevus" src="https://moodle.ut.ee/theme/image.php/classic_ut/attendance/1790052085/monologo?filtericon=1" class="icon ">
-                                                Osalemine (Rühm FKM4 26/27 S PÕ)
-                                            </div>
-                                    </div>
-                                </div>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">1 sündmus, Reede, 16. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="day aalink" aria-label="Reede, 16. oktoober sündmused" data-year="2026" data-month="10" data-day="16" data-courseid="2880" data-categoryid="143" data-timestamp="1792098000"><span class="day-number-circle"><span class="day-number">16</span></span></a>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start weekend clickable" data-day="17" data-day-timestamp="1792184400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792233414">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 17. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">17</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 17. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">17</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start weekend clickable" data-day="18" data-day-timestamp="1792270800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792319814">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 18. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">18</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 18. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">18</span></span></span>
-                        </div>
-                    </td>
-            </tr>
-            <tr data-region="month-view-week">
-                    <td class="day text-sm-center text-md-start clickable hasevent" data-day="19" data-day-timestamp="1792357200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792406214" data-title="Esmaspäev, 19. oktoober sündmused">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">1 sündmus, Esmaspäev, 19. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Esmaspäev, 19. oktoober sündmused" data-year="2026" data-month="10" data-day="19" data-courseid="2880" data-categoryid="143" data-timestamp="1792357200"><span class="day-number-circle"><span class="day-number">19</span></span></a>
-                                <div data-region="day-content">
-                                    <ul>
-                                            <li data-region="event-item" data-event-component="mod_attendance" data-event-eventtype="attendance" data-event-folded="false" data-eventtype-course="1">
-
-                                                <a data-action="view-event" data-event-id="1114808" href="https://moodle.ut.ee/mod/attendance/view.php?id=757969" title="Osalemine">
-                                                    <span class="calendar-circle calendar_event_course">
-                                                        &nbsp;
-                                                    </span>
-                                                    <span class="eventname">Osalemine</span>
-                                                </a>
-                                            </li>
-                                        <li data-action="view-more-events" style="display: none">
-                                            <strong>
-                                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Esmaspäev, 19. oktoober sündmused" data-year="2026" data-month="10" data-day="19" data-courseid="2880" data-categoryid="143" data-timestamp="1792357200">
-                                                    more
-                                                </a>
-                                            </strong>
-                                        </li>
-                                    </ul>
-                                    <div class="hidden">
-                                            <div data-popover-eventtype-course="1">
-
-
-                                                           <img alt="Tegevus" title="Tegevus" src="https://moodle.ut.ee/theme/image.php/classic_ut/attendance/1790052085/monologo?filtericon=1" class="icon ">
-                                                Osalemine
-                                            </div>
-                                    </div>
-                                </div>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">1 sündmus, Esmaspäev, 19. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="day aalink" aria-label="Esmaspäev, 19. oktoober sündmused" data-year="2026" data-month="10" data-day="19" data-courseid="2880" data-categoryid="143" data-timestamp="1792357200"><span class="day-number-circle"><span class="day-number">19</span></span></a>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable hasevent" data-day="20" data-day-timestamp="1792443600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792492614" data-title="Teisipäev, 20. oktoober sündmused">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">1 sündmus, Teisipäev, 20. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Teisipäev, 20. oktoober sündmused" data-year="2026" data-month="10" data-day="20" data-courseid="2880" data-categoryid="143" data-timestamp="1792443600"><span class="day-number-circle"><span class="day-number">20</span></span></a>
-                                <div data-region="day-content">
-                                    <ul>
-                                            <li data-region="event-item" data-event-component="mod_attendance" data-event-eventtype="attendance" data-event-folded="false" data-eventtype-course="1">
-
-                                                <a data-action="view-event" data-event-id="1112613" href="https://moodle.ut.ee/mod/attendance/view.php?id=757969" title="Osalemine (Rühm FKM4 26/27 S PÕ)">
-                                                    <span class="calendar-circle calendar_event_course">
-                                                        &nbsp;
-                                                    </span>
-                                                    <span class="eventname">Osalemine (Rühm FKM4 26/27 S PÕ)</span>
-                                                </a>
-                                            </li>
-                                        <li data-action="view-more-events" style="display: none">
-                                            <strong>
-                                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Teisipäev, 20. oktoober sündmused" data-year="2026" data-month="10" data-day="20" data-courseid="2880" data-categoryid="143" data-timestamp="1792443600">
-                                                    more
-                                                </a>
-                                            </strong>
-                                        </li>
-                                    </ul>
-                                    <div class="hidden">
-                                            <div data-popover-eventtype-course="1">
-
-
-                                                           <img alt="Tegevus" title="Tegevus" src="https://moodle.ut.ee/theme/image.php/classic_ut/attendance/1790052085/monologo?filtericon=1" class="icon ">
-                                                Osalemine (Rühm FKM4 26/27 S PÕ)
-                                            </div>
-                                    </div>
-                                </div>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">1 sündmus, Teisipäev, 20. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="day aalink" aria-label="Teisipäev, 20. oktoober sündmused" data-year="2026" data-month="10" data-day="20" data-courseid="2880" data-categoryid="143" data-timestamp="1792443600"><span class="day-number-circle"><span class="day-number">20</span></span></a>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="21" data-day-timestamp="1792530000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792579014">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 21. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">21</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 21. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">21</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="22" data-day-timestamp="1792616400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792665414">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 22. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">22</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 22. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">22</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable hasevent" data-day="23" data-day-timestamp="1792702800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792751814" data-title="Reede, 23. oktoober sündmused">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">1 sündmus, Reede, 23. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Reede, 23. oktoober sündmused" data-year="2026" data-month="10" data-day="23" data-courseid="2880" data-categoryid="143" data-timestamp="1792702800"><span class="day-number-circle"><span class="day-number">23</span></span></a>
-                                <div data-region="day-content">
-                                    <ul>
-                                            <li data-region="event-item" data-event-component="mod_attendance" data-event-eventtype="attendance" data-event-folded="false" data-eventtype-course="1">
-
-                                                <a data-action="view-event" data-event-id="1112507" href="https://moodle.ut.ee/mod/attendance/view.php?id=757969" title="Osalemine (Rühm FKM4 26/27 S PÕ)">
-                                                    <span class="calendar-circle calendar_event_course">
-                                                        &nbsp;
-                                                    </span>
-                                                    <span class="eventname">Osalemine (Rühm FKM4 26/27 S PÕ)</span>
-                                                </a>
-                                            </li>
-                                        <li data-action="view-more-events" style="display: none">
-                                            <strong>
-                                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Reede, 23. oktoober sündmused" data-year="2026" data-month="10" data-day="23" data-courseid="2880" data-categoryid="143" data-timestamp="1792702800">
-                                                    more
-                                                </a>
-                                            </strong>
-                                        </li>
-                                    </ul>
-                                    <div class="hidden">
-                                            <div data-popover-eventtype-course="1">
-
-
-                                                           <img alt="Tegevus" title="Tegevus" src="https://moodle.ut.ee/theme/image.php/classic_ut/attendance/1790052085/monologo?filtericon=1" class="icon ">
-                                                Osalemine (Rühm FKM4 26/27 S PÕ)
-                                            </div>
-                                    </div>
-                                </div>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">1 sündmus, Reede, 23. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="day aalink" aria-label="Reede, 23. oktoober sündmused" data-year="2026" data-month="10" data-day="23" data-courseid="2880" data-categoryid="143" data-timestamp="1792702800"><span class="day-number-circle"><span class="day-number">23</span></span></a>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start weekend clickable" data-day="24" data-day-timestamp="1792789200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792838214">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 24. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">24</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 24. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">24</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start weekend clickable" data-day="25" data-day-timestamp="1792875600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792928214">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 25. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">25</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 25. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">25</span></span></span>
-                        </div>
-                    </td>
-            </tr>
-            <tr data-region="month-view-week">
-                    <td class="day text-sm-center text-md-start clickable hasevent" data-day="26" data-day-timestamp="1792965600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793014614" data-title="Esmaspäev, 26. oktoober sündmused">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">1 sündmus, Esmaspäev, 26. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Esmaspäev, 26. oktoober sündmused" data-year="2026" data-month="10" data-day="26" data-courseid="2880" data-categoryid="143" data-timestamp="1792965600"><span class="day-number-circle"><span class="day-number">26</span></span></a>
-                                <div data-region="day-content">
-                                    <ul>
-                                            <li data-region="event-item" data-event-component="mod_attendance" data-event-eventtype="attendance" data-event-folded="false" data-eventtype-course="1">
-
-                                                <a data-action="view-event" data-event-id="1114809" href="https://moodle.ut.ee/mod/attendance/view.php?id=757969" title="Osalemine">
-                                                    <span class="calendar-circle calendar_event_course">
-                                                        &nbsp;
-                                                    </span>
-                                                    <span class="eventname">Osalemine</span>
-                                                </a>
-                                            </li>
-                                        <li data-action="view-more-events" style="display: none">
-                                            <strong>
-                                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Esmaspäev, 26. oktoober sündmused" data-year="2026" data-month="10" data-day="26" data-courseid="2880" data-categoryid="143" data-timestamp="1792965600">
-                                                    more
-                                                </a>
-                                            </strong>
-                                        </li>
-                                    </ul>
-                                    <div class="hidden">
-                                            <div data-popover-eventtype-course="1">
-
-
-                                                           <img alt="Tegevus" title="Tegevus" src="https://moodle.ut.ee/theme/image.php/classic_ut/attendance/1790052085/monologo?filtericon=1" class="icon ">
-                                                Osalemine
-                                            </div>
-                                    </div>
-                                </div>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">1 sündmus, Esmaspäev, 26. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="day aalink" aria-label="Esmaspäev, 26. oktoober sündmused" data-year="2026" data-month="10" data-day="26" data-courseid="2880" data-categoryid="143" data-timestamp="1792965600"><span class="day-number-circle"><span class="day-number">26</span></span></a>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable hasevent" data-day="27" data-day-timestamp="1793052000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793101014" data-title="Teisipäev, 27. oktoober sündmused">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">1 sündmus, Teisipäev, 27. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Teisipäev, 27. oktoober sündmused" data-year="2026" data-month="10" data-day="27" data-courseid="2880" data-categoryid="143" data-timestamp="1793052000"><span class="day-number-circle"><span class="day-number">27</span></span></a>
-                                <div data-region="day-content">
-                                    <ul>
-                                            <li data-region="event-item" data-event-component="mod_attendance" data-event-eventtype="attendance" data-event-folded="false" data-eventtype-course="1">
-
-                                                <a data-action="view-event" data-event-id="1112617" href="https://moodle.ut.ee/mod/attendance/view.php?id=757969" title="Osalemine (Rühm FKM4 26/27 S PÕ)">
-                                                    <span class="calendar-circle calendar_event_course">
-                                                        &nbsp;
-                                                    </span>
-                                                    <span class="eventname">Osalemine (Rühm FKM4 26/27 S PÕ)</span>
-                                                </a>
-                                            </li>
-                                        <li data-action="view-more-events" style="display: none">
-                                            <strong>
-                                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Teisipäev, 27. oktoober sündmused" data-year="2026" data-month="10" data-day="27" data-courseid="2880" data-categoryid="143" data-timestamp="1793052000">
-                                                    more
-                                                </a>
-                                            </strong>
-                                        </li>
-                                    </ul>
-                                    <div class="hidden">
-                                            <div data-popover-eventtype-course="1">
-
-
-                                                           <img alt="Tegevus" title="Tegevus" src="https://moodle.ut.ee/theme/image.php/classic_ut/attendance/1790052085/monologo?filtericon=1" class="icon ">
-                                                Osalemine (Rühm FKM4 26/27 S PÕ)
-                                            </div>
-                                    </div>
-                                </div>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">1 sündmus, Teisipäev, 27. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="day aalink" aria-label="Teisipäev, 27. oktoober sündmused" data-year="2026" data-month="10" data-day="27" data-courseid="2880" data-categoryid="143" data-timestamp="1793052000"><span class="day-number-circle"><span class="day-number">27</span></span></a>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="28" data-day-timestamp="1793138400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793187414">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 28. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">28</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 28. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">28</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable" data-day="29" data-day-timestamp="1793224800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793273814">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 29. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">29</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 29. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">29</span></span></span>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start clickable hasevent" data-day="30" data-day-timestamp="1793311200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793360214" data-title="Reede, 30. oktoober sündmused">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">1 sündmus, Reede, 30. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Reede, 30. oktoober sündmused" data-year="2026" data-month="10" data-day="30" data-courseid="2880" data-categoryid="143" data-timestamp="1793311200"><span class="day-number-circle"><span class="day-number">30</span></span></a>
-                                <div data-region="day-content">
-                                    <ul>
-                                            <li data-region="event-item" data-event-component="mod_attendance" data-event-eventtype="attendance" data-event-folded="false" data-eventtype-course="1">
-
-                                                <a data-action="view-event" data-event-id="1112508" href="https://moodle.ut.ee/mod/attendance/view.php?id=757969" title="Osalemine (Rühm FKM4 26/27 S PÕ)">
-                                                    <span class="calendar-circle calendar_event_course">
-                                                        &nbsp;
-                                                    </span>
-                                                    <span class="eventname">Osalemine (Rühm FKM4 26/27 S PÕ)</span>
-                                                </a>
-                                            </li>
-                                        <li data-action="view-more-events" style="display: none">
-                                            <strong>
-                                                <a data-action="view-day-link" href="#" class="aalink day" aria-label="Reede, 30. oktoober sündmused" data-year="2026" data-month="10" data-day="30" data-courseid="2880" data-categoryid="143" data-timestamp="1793311200">
-                                                    more
-                                                </a>
-                                            </strong>
-                                        </li>
-                                    </ul>
-                                    <div class="hidden">
-                                            <div data-popover-eventtype-course="1">
-
-
-                                                           <img alt="Tegevus" title="Tegevus" src="https://moodle.ut.ee/theme/image.php/classic_ut/attendance/1790052085/monologo?filtericon=1" class="icon ">
-                                                Osalemine (Rühm FKM4 26/27 S PÕ)
-                                            </div>
-                                    </div>
-                                </div>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">1 sündmus, Reede, 30. oktoober</span>
-                                <a data-action="view-day-link" href="#" class="day aalink" aria-label="Reede, 30. oktoober sündmused" data-year="2026" data-month="10" data-day="30" data-courseid="2880" data-categoryid="143" data-timestamp="1793311200"><span class="day-number-circle"><span class="day-number">30</span></span></a>
-                        </div>
-                    </td>
-                    <td class="day text-sm-center text-md-start weekend clickable" data-day="31" data-day-timestamp="1793397600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793446614">
-                        <div class="d-none d-md-block hidden-phone text-xs-center">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 31. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">31</span></span></span>
-                        </div>
-                        <div class="d-md-none hidden-desktop hidden-tablet">
-                            <span class="sr-only">Sündmsued puuduvad Laupäev, 31. oktoober</span>
-                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">31</span></span></span>
-                        </div>
-                    </td>
-                    <td class="dayblank">&nbsp;</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-</div></div>
-            <div class="footer"><div class="bottom">
-        <span class="footer-link">
-            <a href="https://moodle.ut.ee/calendar/view.php?view=month&amp;time=1791110213&amp;course=2880">Kursuse kalender</a>
-        </span>
-        <span class="footer-link">
-            <a href="https://moodle.ut.ee/calendar/managesubscriptions.php?course=2880">Halda tellimusi</a>
-        </span>
-</div></div>
-            
-        </div>
-
-    </div>
-
-</section>
-
-  <span id="sb-7"></span></aside>
-                </section>
-            </div>
-        </div>
