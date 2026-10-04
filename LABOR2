@@ -1,0 +1,2652 @@
+<div id="page-content" class="row  blocks-pre   blocks-post ">
+            <div id="region-main-box" class="region-main">
+                <section id="region-main" class="region-main-content" aria-label="Sisu">
+                    <span class="notifications" id="user-notifications"></span>
+                    <div role="main"><span id="maincontent"></span><div class="course-content"><div id="6ac22c46683416ac22c4640a0122-course-format" class="stateready">
+    <h2 class="accesshide">Laboritöö praktikum (LTKT.01.002) | TÜ Moodle</h2>
+    <style type="text/css" media="screen">
+    /* <![CDATA[ */
+
+    /* -- Toggle -- */
+    .course-content ul.ctopics li.section .content .toggle {
+        background-color: rgba(248, 248, 248, 1.0);
+    }
+    /* -- Toggle text -- */
+    .course-content ul.ctopics li.section .content .toggle .the_toggle,
+    .course-content ul.ctopics li.section .content.sectionhidden .toggle .no_toggle {
+        color: rgba(0, 0, 0, 1.0);
+    }
+    .course-content ul.ctopics li.section .content .toggle .the_toggle {
+        text-align: left;
+    }
+    .course-content ul.ctopics li.section .content.sectionhidden .toggle .no_toggle {
+        text-align: left;
+    }
+    /* Toggle icon position. */
+    .course-content ul.ctopics li.section .content .toggle .the_toggle,
+    #toggle-all .content .toggle-all {
+        background-position: left center;
+    }
+    /* -- What happens when a toggle is hovered over -- */
+    .course-content ul.ctopics li.section .content .toggle:hover .the_toggle,
+    .course-content ul.ctopics li.section .content.sectionhidden .toggle:hover .the_toggle,
+    .course-content ul.ctopics li.section .content .toggle:focus .the_toggle,
+    .course-content ul.ctopics li.section .content.sectionhidden .toggle:focus .the_toggle {
+        color: rgba(0, 0, 0, 1.0);
+    }
+    .course-content ul.ctopics li.section .content .toggle:hover,
+    .course-content ul.ctopics li.section .content .toggle:focus {
+        background-color: rgba(218, 218, 218, 1.0);
+    }
+    .course-content ul.ctopics li.section.main > .content,
+    .course-content ul.ctopics li.tcsection > .content {
+        margin: 0 28px;
+    }
+    .course-content ul.ctopics li.section.main .side,
+    .course-content ul.ctopics li.tcsection .side {
+        width: 28px;
+    }
+    .course-content ul.ctopics li.section {
+        display: inline-block;
+        vertical-align: top;
+    }
+    .course-content ul.ctopics li.section.hidden {
+        display: inline-block !important; /* Only using '!important' because of Bootstrap 3. */
+    }
+    .course-content ul.ctopics li.section .content .toggle,
+    .course-content ul.ctopics li.section .content.sectionhidden .no_toggle {
+        border-top-left-radius: 0.7em;
+        border-top-right-radius: 0.7em;
+        border-bottom-right-radius: 0.7em;
+        border-bottom-left-radius: 0.7em;
+    }
+
+    /* ]]> */
+</style><style class="darkreader darkreader--sync" media="screen"></style><ul class="ctopics"><li id="section-0" class="section course-section main clearfix" role="region" aria-labelledby="sectionid-93054-title" data-sectionid="0" data-for="section" data-id="93054" data-number="0" data-indexed="true">
+    
+    <div class="content">
+            <h3 data-for="section_title" data-id="93054" data-number="0" id="sectionid-93054-title" class="accesshide">General</h3>
+            <div class="section_availability">
+</div>
+            <div class="summary">
+                <div class="no-overflow"><div class="summary">
+  <div class="no-overflow">
+    <h1 style="text-align: left;"><span style="color: rgb(0, 38, 128); --darkreader-inline-color: var(--darkreader-text-002680, #7fbcff);" class="" data-darkreader-inline-color="">Laboritöö praktikum</span></h1>
+    <p><span style="font-size: medium; color: rgb(73, 80, 87); --darkreader-inline-color: var(--darkreader-text-495057, #b5afa6);" class="" data-darkreader-inline-color=""><span class="" style="color: rgb(73, 80, 87); --darkreader-inline-color: var(--darkreader-text-495057, #b5afa6);" data-darkreader-inline-color=""><strong>Praktikumi eesmärgiks</strong></span> on keemialaboris kasutatavate esmaste töövõtete omandamine üldkeemia põhiteemasid&nbsp;käsitlevate
+      praktiliste tööde ja nendega seotud arvutuste kaudu.</span>
+    </p>
+    <p></p>
+    <p></p>
+    <div class="attostylesbox attostylesbox-solid attostylesbox-no style"><span><span style="font-size: medium; color: rgb(0, 128, 0); --darkreader-inline-color: var(--darkreader-text-008000, #72ff72);" data-darkreader-inline-color=""><span style="color: rgb(73, 80, 87); --darkreader-inline-color: var(--darkreader-text-495057, #b5afa6);" data-darkreader-inline-color=""><strong><span class="" style="font-size: medium;">Õpiväljundid</span>
+      </strong>
+      <br>
+      <p style=""><span class="" style="font-size: medium;">Praktikumi läbinud tudeng:</span>
+        <br>
+      </p>
+      <ol style="">
+        <li><span class="" style="font-size: medium;">Oskab ohutult ja korrektselt keemialaboris tegutseda.</span>
+        </li>
+        <li style=""><span class="" style="font-size: medium;">On omandanud esmased praktilised oskused keemialaboris töötamiseks (kaalumine, ruumalade mõõtmine, kuumutamine, filtrimine, lahuste valmistamine, tiitrimine jne).</span>
+        </li>
+        <li style=""><span class="" style="font-size: medium;">Oskab vastavalt juhendile korrektselt läbi viia üldise keemia põhiteemadega seotud kvalitatiivseid ja kvantitatiivseid eksperimentaalseid töid. Mõistab praktiliste tööde teoreetilist tagapõhja.</span>
+        </li>
+        <li style=""><span class="" style="font-size: medium;">Oskab vormistada praktiliste tööde protokolle, koostada graafikuid, teha vajalikke arvutusi ning järeldusi.</span>
+        </li>
+        <li style=""><span style="font-size: medium;">Oskab lahendada praktikumi töödega seotud lihtsamaid arvutusülesandeid.</span>
+        </li>
+      </ol>
+      </span>
+      </span>
+      </span>
+    </div>
+    <p></p>
+    <p></p>
+    <ol><span class="" style="font-size: medium;">
+</span>
+    </ol>
+    <div class="attostylesbox attostylesbox-solid attostylesbox-no style"><span style="color: rgb(255, 255, 255); font-size: 0.9375rem; --darkreader-inline-color: var(--darkreader-text-ffffff, #e8e6e3);" data-darkreader-inline-color=""><span class="" style="color: rgb(73, 80, 87); font-size: large; --darkreader-inline-color: var(--darkreader-text-495057, #b5afa6);" data-darkreader-inline-color=""><strong><span class="" style="font-size: medium;">Hindamiskriteeriumid</span>
+      </strong>
+      <br>
+      <p style=""></p>
+      <ol>
+        <li><span style="color: rgb(255, 255, 255); font-size: 0.9375rem; --darkreader-inline-color: var(--darkreader-text-ffffff, #e8e6e3);" data-darkreader-inline-color=""><span class="" style="color: rgb(73, 80, 87); font-size: large; --darkreader-inline-color: var(--darkreader-text-495057, #b5afa6);" data-darkreader-inline-color=""><span style="font-size: medium;">Arvestuse saamiseks tuleb sooritada kõik 7 praktilist tööd.</span></span>
+          </span>
+        </li>
+        <li><span style="color: rgb(255, 255, 255); font-size: 0.9375rem; --darkreader-inline-color: var(--darkreader-text-ffffff, #e8e6e3);" data-darkreader-inline-color=""><span class="" style="color: rgb(73, 80, 87); font-size: large; --darkreader-inline-color: var(--darkreader-text-495057, #b5afa6);" data-darkreader-inline-color=""><span style="font-size: medium;">Iga praktilise töö kohta tuleb nõuetele kohaselt koostada ja esitada protokoll.&nbsp;</span></span>
+          </span>
+        </li>
+        <li><span style="color: rgb(255, 255, 255); font-size: 0.9375rem; --darkreader-inline-color: var(--darkreader-text-ffffff, #e8e6e3);" data-darkreader-inline-color=""><span class="" style="color: rgb(73, 80, 87); font-size: large; --darkreader-inline-color: var(--darkreader-text-495057, #b5afa6);" data-darkreader-inline-color=""><span style="font-size: medium;">Praktikum lõpeb kontrolltööga, mille lävend on 60% 100st.&nbsp;</span></span>
+          </span>
+        </li>
+        <li><span style="color: rgb(255, 255, 255); font-size: 0.9375rem; --darkreader-inline-color: var(--darkreader-text-ffffff, #e8e6e3);" data-darkreader-inline-color=""><span class="" style="color: rgb(73, 80, 87); font-size: large; --darkreader-inline-color: var(--darkreader-text-495057, #b5afa6);" data-darkreader-inline-color=""><span style="font-size: medium;">Protokolle ja kontrolltööd on võimalik uuesti sooritada semestri lõpus, tavaliselt 14. ja 15. õppenädalal.</span></span>
+          </span>
+        </li>
+      </ol>
+      <p></p>
+      </span>
+      </span>
+    </div>
+  </div>
+</div></div>
+                
+            </div>
+            <ul class="section m-0 p-0 img-text d-block" data-for="cmlist">
+            
+            
+            <li class="activity activity-wrapper forum modtype_forum   " id="module-428873" data-for="cmitem" data-id="428873" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Teated õppijatele (uudistefoorum)">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox428873" type="checkbox" data-id="428873" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox428873">
+                            Vali tegevus Teated õppijatele (uudistefoorum)
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller collaboration forum  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="428873" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_forum position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/forum/view.php?id=428873" class=" aalink stretched-link" onclick="">        <span class="instancename">Teated õppijatele (uudistefoorum) </span>    </a>
+                                                        
+                                                        <span class="ms-1">
+                                                            <span class="activitybadge badge rounded-pill ">
+                                                                    
+                                                            </span>
+                                                        </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper label modtype_label   " id="module-1348933" data-for="cmitem" data-id="1348933" data-indexed="true">
+        <div class="activity-item focus-control activityinline" data-activityname="Õppematerjalid">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1348933" type="checkbox" data-id="1348933" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1348933">
+                            Vali tegevus Õppematerjalid
+                        </label>
+                    </div>
+
+                <div class="activity-grid noname-grid">
+                
+                
+                
+                
+                
+                
+                
+                        <div class="activity-altcontent text-break ">
+                            <div class="no-overflow"><div class="no-overflow"><p dir="ltr" style="text-align: left;"><strong><span class="" style="font-size: x-large; color: rgb(51, 102, 255); --darkreader-inline-color: var(--darkreader-text-3366ff, #3d96ff);" data-darkreader-inline-color="">Õppematerjalid</span></strong></p></div></div>
+                        </div>
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper resource modtype_resource   " id="module-451328" data-for="cmitem" data-id="451328" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Keemia alused. Laboritöö praktikumid. L. Tamm ja E. Jüriado (õppevahend uus)">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox451328" type="checkbox" data-id="451328" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox451328">
+                            Vali tegevus Keemia alused. Laboritöö praktikumid. L. Tamm ja E. Jüriado (õppevahend uus)
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1790052085/f/pdf?filtericon=1" class="activityicon " data-region="activity-icon" data-id="451328" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/resource/view.php?id=451328" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=451328&amp;redirect=1', '', 'width=900,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Keemia alused. Laboritöö praktikumid. L. Tamm ja E. Jüriado (õppevahend uus) <span class="accesshide "> Fail</span></span>    </a>
+                                                        
+                                                        <span class="ms-1">
+                                                            <span class="activitybadge badge rounded-pill ">
+                                                                    
+                                                            </span>
+                                                        </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper resource modtype_resource   " id="module-451329" data-for="cmitem" data-id="451329" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Laboris töötamise ohutusjuhend ">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox451329" type="checkbox" data-id="451329" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox451329">
+                            Vali tegevus Laboris töötamise ohutusjuhend 
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1790052085/f/pdf?filtericon=1" class="activityicon " data-region="activity-icon" data-id="451329" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/resource/view.php?id=451329" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=451329&amp;redirect=1', '', 'width=900,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Laboris töötamise ohutusjuhend  <span class="accesshide "> Fail</span></span>    </a>
+                                                        
+                                                        <span class="ms-1">
+                                                            <span class="activitybadge badge rounded-pill ">
+                                                                    
+                                                            </span>
+                                                        </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper resource modtype_resource   " id="module-451332" data-for="cmitem" data-id="451332" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Lahused  jm  näidisülesanded j">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox451332" type="checkbox" data-id="451332" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox451332">
+                            Vali tegevus Lahused  jm  näidisülesanded j
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1790052085/f/pdf?filtericon=1" class="activityicon " data-region="activity-icon" data-id="451332" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/resource/view.php?id=451332" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=451332&amp;redirect=1', '', 'width=900,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Lahused  jm  näidisülesanded j <span class="accesshide "> Fail</span></span>    </a>
+                                                        
+                                                        <span class="ms-1">
+                                                            <span class="activitybadge badge rounded-pill ">
+                                                                    
+                                                            </span>
+                                                        </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper resource modtype_resource   " id="module-1451831" data-for="cmitem" data-id="1451831" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Teemad kontrolltööks kordamisel">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1451831" type="checkbox" data-id="1451831" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1451831">
+                            Vali tegevus Teemad kontrolltööks kordamisel
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1790052085/f/pdf?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1451831" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/resource/view.php?id=1451831" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=1451831&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Teemad kontrolltööks kordamisel <span class="accesshide "> Fail</span></span>    </a>
+                                                        
+                                                        <span class="ms-1">
+                                                            <span class="activitybadge badge rounded-pill ">
+                                                                    
+                                                            </span>
+                                                        </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1416974" data-for="cmitem" data-id="1416974" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Õppeaine versiooni info LTKT.01.002 (25/26 S PÕ)">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1416974" type="checkbox" data-id="1416974" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1416974">
+                            Vali tegevus Õppeaine versiooni info LTKT.01.002 (25/26 S PÕ)
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1416974" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1416974" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1416974&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Õppeaine versiooni info LTKT.01.002 (25/26 S PÕ) <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1529151" data-for="cmitem" data-id="1529151" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Õppeaine versiooni info LTKT.01.002 (26/27 S PÕ)">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1529151" type="checkbox" data-id="1529151" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1529151">
+                            Vali tegevus Õppeaine versiooni info LTKT.01.002 (26/27 S PÕ)
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1529151" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1529151" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1529151&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Õppeaine versiooni info LTKT.01.002 (26/27 S PÕ) <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+</ul>
+    </div>
+    
+</li><li id="toggle-all" class="tcsection main clearfix">
+    <div class="left side"><img class="icon spacer" width="1" height="1" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1790052085/spacer"></div>
+    <div class="content">
+        <div class="sectionbody toggle-all-content toggle-arrow toggle-arrow-hover toggleiconposition-start">
+            <span id="toggles-all-opened" class="toggle-all on tc-small" role="button" title="Open all teemad" tabindex="0" aria-controls="toggledsection-1 toggledsection-2 toggledsection-3 toggledsection-4 toggledsection-5 toggledsection-6 toggledsection-7 toggledsection-8 toggledsection-9 toggledsection-10 toggledsection-11">
+                <h4 class="toggle-all-header">Ava kõik</h4>
+            </span>
+            <span id="toggles-all-closed" class="toggle-all off tc-small" role="button" title="Close all teemad" tabindex="0" aria-controls="toggledsection-1 toggledsection-2 toggledsection-3 toggledsection-4 toggledsection-5 toggledsection-6 toggledsection-7 toggledsection-8 toggledsection-9 toggledsection-10 toggledsection-11">
+                <h4 class="toggle-all-header">Sulge kõik</h4>
+            </span>
+        </div>
+    </div>
+    <div class="right side"><img class="icon spacer" width="1" height="1" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1790052085/spacer"></div>
+</li><li id="topcoll-display-instructions" class="tcsection main clearfix">
+    <div class="left side"><img class="icon spacer" width="1" height="1" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1790052085/spacer"></div>
+    <div class="content">
+        <div class="sectionbody">
+            <p>Sektsiooni nimel klõpsamine avab/peidab sektsiooni.</p>
+        </div>
+    </div>
+    <div class="right side"><img class="icon spacer" width="1" height="1" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1790052085/spacer"></div>
+</li></ul><ul style="width: 100%; padding-left: 0px; padding-right: 0px;" class="ctopics ctoggled topics ctlayout"><li id="section-1" class="section course-section main clearfix" style="width: 100%;" role="region" aria-labelledby="sectionid-195532-title" data-sectionid="1" data-for="section" data-id="195532" data-number="1" data-indexed="true">
+    
+    <div class="content" aria-live="polite">
+
+        <div id="toggle-1" class="sectionhead toggle toggle-arrow" role="button" aria-expanded="true" aria-controls="toggledsection-1" tabindex="0">
+            <span class="the_toggle toggle_open tc-small"><h3 data-for="section_title" data-id="195532" data-number="1" id="sectionid-195532-title" class="sectionname">Ajakava 2026</h3></span>
+        </div>
+        
+        <div class="section_availability">
+</div>
+                <div id="toggledsection-1" class="sectionbody toggledsection sectionopen">
+            
+            <ul class="section m-0 p-0 img-text d-block" data-for="cmlist">
+            
+            
+            <li class="activity activity-wrapper resource modtype_resource   " id="module-606280" data-for="cmitem" data-id="606280" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Rühmad 1,2,3,4 praktilised tööd ja ajakava 2026">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox606280" type="checkbox" data-id="606280" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox606280">
+                            Vali tegevus Rühmad 1,2,3,4 praktilised tööd ja ajakava 2026
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1790052085/f/pdf?filtericon=1" class="activityicon " data-region="activity-icon" data-id="606280" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/resource/view.php?id=606280" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=606280&amp;redirect=1', '', 'width=900,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Rühmad 1,2,3,4 praktilised tööd ja ajakava 2026 <span class="accesshide "> Fail</span></span>    </a>
+                                                        
+                                                        <span class="ms-1">
+                                                            <span class="activitybadge badge rounded-pill ">
+                                                                    
+                                                            </span>
+                                                        </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper resource modtype_resource   " id="module-1411146" data-for="cmitem" data-id="1411146" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Rühmad 5,6,7,8,9 praktilised tööd ja ajakava 2026">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1411146" type="checkbox" data-id="1411146" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1411146">
+                            Vali tegevus Rühmad 5,6,7,8,9 praktilised tööd ja ajakava 2026
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1790052085/f/pdf?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1411146" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/resource/view.php?id=1411146" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=1411146&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Rühmad 5,6,7,8,9 praktilised tööd ja ajakava 2026 <span class="accesshide "> Fail</span></span>    </a>
+                                                        
+                                                        <span class="ms-1">
+                                                            <span class="activitybadge badge rounded-pill ">
+                                                                    
+                                                            </span>
+                                                        </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+</ul>
+        </div>
+    </div>
+    
+</li><li id="section-2" class="section course-section main clearfix" style="width: 100%;" role="region" aria-labelledby="sectionid-93149-title" data-sectionid="2" data-for="section" data-id="93149" data-number="2" data-indexed="true">
+    
+    <div class="content" aria-live="polite">
+
+        <div id="toggle-2" class="sectionhead toggle toggle-arrow" role="button" aria-expanded="false" aria-controls="toggledsection-2" tabindex="0">
+            <span class="the_toggle toggle_closed tc-small"><h3 data-for="section_title" data-id="93149" data-number="2" id="sectionid-93149-title" class="sectionname">Ohutusnõuded, laboritehnika, kaalumine, vedelike ruumalade mõõtmine, lahuste valmistamine</h3></span>
+        </div>
+        
+        <div class="section_availability">
+</div>
+                <div id="toggledsection-2" class="sectionbody toggledsection">
+            
+            <ul class="section m-0 p-0 img-text d-block" data-for="cmlist">
+            
+            
+            <li class="activity activity-wrapper label modtype_label   " id="module-1412392" data-for="cmitem" data-id="1412392" data-indexed="true">
+        <div class="activity-item focus-control activityinline" data-activityname="Enne praktikumi loe">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1412392" type="checkbox" data-id="1412392" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1412392">
+                            Vali tegevus Enne praktikumi loe
+                        </label>
+                    </div>
+
+                <div class="activity-grid noname-grid">
+                
+                
+                
+                
+                
+                
+                
+                        <div class="activity-altcontent text-break ">
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><strong>Enne praktikumi loe :</strong>&nbsp;</span></p></div></div>
+                        </div>
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1412397" data-for="cmitem" data-id="1412397" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Laboris töötamise ohutusjuhend">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1412397" type="checkbox" data-id="1412397" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1412397">
+                            Vali tegevus Laboris töötamise ohutusjuhend
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1412397" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1412397" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1412397&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Laboris töötamise ohutusjuhend <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1412401" data-for="cmitem" data-id="1412401" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Laboris töötamise üldine kord">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1412401" type="checkbox" data-id="1412401" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1412401">
+                            Vali tegevus Laboris töötamise üldine kord
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1412401" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1412401" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1412401&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Laboris töötamise üldine kord <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1412402" data-for="cmitem" data-id="1412402" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Tutvu ka laboris kasutatavate nõude kirjeldustega">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1412402" type="checkbox" data-id="1412402" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1412402">
+                            Vali tegevus Tutvu ka laboris kasutatavate nõude kirjeldustega
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1412402" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1412402" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1412402&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Tutvu ka laboris kasutatavate nõude kirjeldustega <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+</ul>
+        </div>
+    </div>
+    
+</li><li id="section-3" class="section course-section main clearfix" style="width: 100%;" role="region" aria-labelledby="sectionid-93152-title" data-sectionid="3" data-for="section" data-id="93152" data-number="3" data-indexed="true">
+    
+    <div class="content" aria-live="polite">
+
+        <div id="toggle-3" class="sectionhead toggle toggle-arrow" role="button" aria-expanded="false" aria-controls="toggledsection-3" tabindex="0">
+            <span class="the_toggle toggle_closed tc-small"><h3 data-for="section_title" data-id="93152" data-number="3" id="sectionid-93152-title" class="sectionname">Vaskhüdroksiidkarbonaadi süntees</h3></span>
+        </div>
+        
+        <div class="section_availability">
+</div>
+                <div id="toggledsection-3" class="sectionbody toggledsection">
+            
+            <ul class="section m-0 p-0 img-text d-block" data-for="cmlist">
+            
+            
+            <li class="activity activity-wrapper label modtype_label   " id="module-1412406" data-for="cmitem" data-id="1412406" data-indexed="true">
+        <div class="activity-item focus-control activityinline" data-activityname="Enne praktikumi loe :">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1412406" type="checkbox" data-id="1412406" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1412406">
+                            Vali tegevus Enne praktikumi loe :
+                        </label>
+                    </div>
+
+                <div class="activity-grid noname-grid">
+                
+                
+                
+                
+                
+                
+                
+                        <div class="activity-altcontent text-break ">
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><strong>Enne praktikumi loe :</strong>&nbsp;</span></p></div></div>
+                        </div>
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1348917" data-for="cmitem" data-id="1348917" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Ainete puhastamine">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1348917" type="checkbox" data-id="1348917" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1348917">
+                            Vali tegevus Ainete puhastamine
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1348917" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1348917" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1348917&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Ainete puhastamine <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1414729" data-for="cmitem" data-id="1414729" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Vask(II)hüdroksiidkarbonaadi süntees. Tööjuhend.">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1414729" type="checkbox" data-id="1414729" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1414729">
+                            Vali tegevus Vask(II)hüdroksiidkarbonaadi süntees. Tööjuhend.
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1414729" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1414729" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1414729&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Vask(II)hüdroksiidkarbonaadi süntees. Tööjuhend. <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1414744" data-for="cmitem" data-id="1414744" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Vask(II)hüdroksiidkarbonaadi sünteesi protokoll">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1414744" type="checkbox" data-id="1414744" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1414744">
+                            Vali tegevus Vask(II)hüdroksiidkarbonaadi sünteesi protokoll
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1414744" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1414744" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1414744&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Vask(II)hüdroksiidkarbonaadi sünteesi protokoll <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper label modtype_label   " id="module-1412337" data-for="cmitem" data-id="1412337" data-indexed="true">
+        <div class="activity-item focus-control activityinline" data-activityname="Näidisülesanne: Mitu grammi CaCl2·6H2O ja mitu cm3...">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1412337" type="checkbox" data-id="1412337" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1412337">
+                            Vali tegevus Näidisülesanne: Mitu grammi CaCl2·6H2O ja mitu cm3...
+                        </label>
+                    </div>
+
+                <div class="activity-grid noname-grid">
+                
+                
+                
+                
+                
+                
+                
+                        <div class="activity-altcontent text-break ">
+                            <div class="no-overflow"><div class="no-overflow"><p><span style="color: rgb(16, 131, 18); --darkreader-inline-color: var(--darkreader-text-108312, #76ee78);" data-darkreader-inline-color="">Näidisülesanne:</span></p>
+<p><span style="color: rgb(16, 131, 18); --darkreader-inline-color: var(--darkreader-text-108312, #76ee78);" data-darkreader-inline-color="">Mitu grammi CaCl<sub>2</sub>·6H<sub>2</sub>O ja mitu cm<sup>3</sup>&nbsp;vett tuleb võtta 2 dm<sup>3</sup>&nbsp;1.877 M CaCl<sub>2</sub>-lahuse (ρ=1.158 g/cm<sup>3</sup>) valmistamiseks?</span></p></div></div>
+                        </div>
+                
+                
+                </div>
+        </div>
+            </li>
+</ul>
+        </div>
+    </div>
+    
+</li><li id="section-4" class="section course-section main clearfix" style="width: 100%;" role="region" aria-labelledby="sectionid-93155-title" data-sectionid="4" data-for="section" data-id="93155" data-number="4" data-indexed="true">
+    
+    <div class="content" aria-live="polite">
+
+        <div id="toggle-4" class="sectionhead toggle toggle-arrow" role="button" aria-expanded="false" aria-controls="toggledsection-4" tabindex="0">
+            <span class="the_toggle toggle_closed tc-small"><h3 data-for="section_title" data-id="93155" data-number="4" id="sectionid-93155-title" class="sectionname">Reaktsiooni suhtelise kiiruse sõltuvus reagendi kontsentratsioonist</h3></span>
+        </div>
+        
+        <div class="section_availability">
+</div>
+                <div id="toggledsection-4" class="sectionbody toggledsection">
+            
+            <ul class="section m-0 p-0 img-text d-block" data-for="cmlist">
+            
+            
+            <li class="activity activity-wrapper label modtype_label   " id="module-1412368" data-for="cmitem" data-id="1412368" data-indexed="true">
+        <div class="activity-item focus-control activityinline" data-activityname="Enne praktikumi loe : &quot;õppevahend uus lk. 16 - 20&quot;.">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1412368" type="checkbox" data-id="1412368" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1412368">
+                            Vali tegevus Enne praktikumi loe : "õppevahend uus lk. 16 - 20".
+                        </label>
+                    </div>
+
+                <div class="activity-grid noname-grid">
+                
+                
+                
+                
+                
+                
+                
+                        <div class="activity-altcontent text-break ">
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><strong>Enne praktikumi loe :</strong></span></p></div></div>
+                        </div>
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1413675" data-for="cmitem" data-id="1413675" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Kineetika ja tasakaal">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1413675" type="checkbox" data-id="1413675" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1413675">
+                            Vali tegevus Kineetika ja tasakaal
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1413675" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1413675" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1413675&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Kineetika ja tasakaal <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1416389" data-for="cmitem" data-id="1416389" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Tiosulfaadi kineetika tööjuhend">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1416389" type="checkbox" data-id="1416389" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1416389">
+                            Vali tegevus Tiosulfaadi kineetika tööjuhend
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1416389" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1416389" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1416389&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Tiosulfaadi kineetika tööjuhend <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1416412" data-for="cmitem" data-id="1416412" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Tiosulfaadi kineetika protokoll">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1416412" type="checkbox" data-id="1416412" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1416412">
+                            Vali tegevus Tiosulfaadi kineetika protokoll
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1416412" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1416412" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1416412&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Tiosulfaadi kineetika protokoll <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper assign modtype_assign   " id="module-1525000" data-for="cmitem" data-id="1525000" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Graafikute esitamine">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1525000" type="checkbox" data-id="1525000" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1525000">
+                            Vali tegevus Graafikute esitamine
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller assessment assign  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/assign/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1525000" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_assign position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/assign/view.php?id=1525000" class=" aalink stretched-link" onclick="">        <span class="instancename">Graafikute esitamine <span class="accesshide "> Ülesanne</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper label modtype_label   " id="module-1412373" data-for="cmitem" data-id="1412373" data-indexed="true">
+        <div class="activity-item focus-control activityinline" data-activityname="Näidisülesanne: Reaktsiooni A + 2B = AB2 kiiruskon...">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1412373" type="checkbox" data-id="1412373" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1412373">
+                            Vali tegevus Näidisülesanne: Reaktsiooni A + 2B = AB2 kiiruskon...
+                        </label>
+                    </div>
+
+                <div class="activity-grid noname-grid">
+                
+                
+                
+                
+                
+                
+                
+                        <div class="activity-altcontent text-break ">
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">Näidisülesanne:</span></p>
+<p><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">Reaktsiooni A + 2B = AB</span><sub><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">&nbsp;kiiruskonstant mingil temperatuuril on 2·10</span><sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">-2</span></sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">(dm</span><sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">3</span></sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">)</span><sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">2</span></sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">/mol</span><sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">2</span></sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">·s. Missugune on reaktsiooni kiirus a) lähtemomendil, kui cA&nbsp;= cB&nbsp;= 0,4 mol/dm</span><sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">3</span></sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">; b) ajamomendil t, kui selleks ajaks on tekkinud 0,1 mol/dm</span><sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">3</span></sup><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">&nbsp;ainet AB</span><sub><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(76, 144, 78); --darkreader-inline-color: var(--darkreader-text-4c904e, #79b87b);" data-darkreader-inline-color="">?</span></p></div></div>
+                        </div>
+                
+                
+                </div>
+        </div>
+            </li>
+</ul>
+        </div>
+    </div>
+    
+</li><li id="section-5" class="section course-section main clearfix" style="width: 100%;" role="region" aria-labelledby="sectionid-93158-title" data-sectionid="5" data-for="section" data-id="93158" data-number="5" data-indexed="true">
+    
+    <div class="content" aria-live="polite">
+
+        <div id="toggle-5" class="sectionhead toggle toggle-arrow" role="button" aria-expanded="true" aria-controls="toggledsection-5" tabindex="0">
+            <span class="the_toggle toggle_open tc-small"><h3 data-for="section_title" data-id="93158" data-number="5" id="sectionid-93158-title" class="sectionname">Leeliselahuse ("Torusiili") kontsentratsiooni määramine tiitrimismeetodil, happe-aluse tiitrimine</h3></span>
+        </div>
+        
+        <div class="section_availability">
+</div>
+                <div id="toggledsection-5" class="sectionbody toggledsection sectionopen">
+            
+            <ul class="section m-0 p-0 img-text d-block" data-for="cmlist">
+            
+            
+            <li class="activity activity-wrapper label modtype_label   " id="module-1413574" data-for="cmitem" data-id="1413574" data-indexed="true">
+        <div class="activity-item focus-control activityinline" data-activityname="Enne praktikumi loe :">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1413574" type="checkbox" data-id="1413574" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1413574">
+                            Vali tegevus Enne praktikumi loe :
+                        </label>
+                    </div>
+
+                <div class="activity-grid noname-grid">
+                
+                
+                
+                
+                
+                
+                
+                        <div class="activity-altcontent text-break ">
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><strong>Enne praktikumi loe :</strong></span></p></div></div>
+                        </div>
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1413568" data-for="cmitem" data-id="1413568" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Kindla kontsentratsiooniga happelahuse valmistamine ja tiitrimine">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1413568" type="checkbox" data-id="1413568" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1413568">
+                            Vali tegevus Kindla kontsentratsiooniga happelahuse valmistamine ja tiitrimine
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1413568" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1413568" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1413568&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Kindla kontsentratsiooniga happelahuse valmistamine ja tiitrimine <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1416437" data-for="cmitem" data-id="1416437" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Tiitrimise juhend">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1416437" type="checkbox" data-id="1416437" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1416437">
+                            Vali tegevus Tiitrimise juhend
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1416437" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1416437" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1416437&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Tiitrimise juhend <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1416446" data-for="cmitem" data-id="1416446" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Tiitrimise protokoll">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1416446" type="checkbox" data-id="1416446" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1416446">
+                            Vali tegevus Tiitrimise protokoll
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1416446" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1416446" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1416446&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Tiitrimise protokoll <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1413585" data-for="cmitem" data-id="1413585" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Hapete tiheduste tabel">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1413585" type="checkbox" data-id="1413585" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1413585">
+                            Vali tegevus Hapete tiheduste tabel
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1413585" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1413585" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1413585&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Hapete tiheduste tabel <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper label modtype_label   " id="module-1413569" data-for="cmitem" data-id="1413569" data-indexed="true">
+        <div class="activity-item focus-control activityinline" data-activityname="Näidisülesanne: Mitu cm3 HNO3-lahust, mille tihedu...">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1413569" type="checkbox" data-id="1413569" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1413569">
+                            Vali tegevus Näidisülesanne: Mitu cm3 HNO3-lahust, mille tihedu...
+                        </label>
+                    </div>
+
+                <div class="activity-grid noname-grid">
+                
+                
+                
+                
+                
+                
+                
+                        <div class="activity-altcontent text-break ">
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color="">Näidisülesanne:</span></p>
+<p><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color="">Mitu cm</span><sup><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color="">3</span></sup><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color=""> HNO</span><sub><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color="">3</span></sub><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color="">-lahust, mille tihedus on 1,149 g/cm</span><sup><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color="">3</span></sup><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color="">, on tarvis 200 cm</span><sup><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color="">3</span></sup><span class="" style="color: rgb(48, 136, 59); --darkreader-inline-color: var(--darkreader-text-30883b, #7ad085);" data-darkreader-inline-color=""> 0,9 M lahuse valmistamiseks?</span></p></div></div>
+                        </div>
+                
+                
+                </div>
+        </div>
+            </li>
+</ul>
+        </div>
+    </div>
+    
+</li><li id="section-6" class="section course-section main clearfix" style="width: 100%;" role="region" aria-labelledby="sectionid-93161-title" data-sectionid="6" data-for="section" data-id="93161" data-number="6" data-indexed="true">
+    
+    <div class="content" aria-live="polite">
+
+        <div id="toggle-6" class="sectionhead toggle toggle-arrow" role="button" aria-expanded="false" aria-controls="toggledsection-6" tabindex="0">
+            <span class="the_toggle toggle_closed tc-small"><h3 data-for="section_title" data-id="93161" data-number="6" id="sectionid-93161-title" class="sectionname">Tasakaal elektrolüütide lahustes, pH, hüdrolüüs</h3></span>
+        </div>
+        
+        <div class="section_availability">
+</div>
+                <div id="toggledsection-6" class="sectionbody toggledsection">
+            
+            <ul class="section m-0 p-0 img-text d-block" data-for="cmlist">
+            
+            
+            <li class="activity activity-wrapper label modtype_label   " id="module-1413636" data-for="cmitem" data-id="1413636" data-indexed="true">
+        <div class="activity-item focus-control activityinline" data-activityname="Enne praktikumi loe :">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1413636" type="checkbox" data-id="1413636" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1413636">
+                            Vali tegevus Enne praktikumi loe :
+                        </label>
+                    </div>
+
+                <div class="activity-grid noname-grid">
+                
+                
+                
+                
+                
+                
+                
+                        <div class="activity-altcontent text-break ">
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><strong>Enne praktikumi loe :</strong></span></p></div></div>
+                        </div>
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1413627" data-for="cmitem" data-id="1413627" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Tasakaal elektrolüütide lahustes, pH">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1413627" type="checkbox" data-id="1413627" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1413627">
+                            Vali tegevus Tasakaal elektrolüütide lahustes, pH
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1413627" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1413627" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1413627&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Tasakaal elektrolüütide lahustes, pH <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1413632" data-for="cmitem" data-id="1413632" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Soolade hüdrolüüs">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1413632" type="checkbox" data-id="1413632" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1413632">
+                            Vali tegevus Soolade hüdrolüüs
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1413632" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1413632" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1413632&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Soolade hüdrolüüs <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1418459" data-for="cmitem" data-id="1418459" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Tasakaal el.lüütide lahustes, hüdrolüüs. Tööjuhend">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1418459" type="checkbox" data-id="1418459" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1418459">
+                            Vali tegevus Tasakaal el.lüütide lahustes, hüdrolüüs. Tööjuhend
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1418459" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1418459" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1418459&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Tasakaal el.lüütide lahustes, hüdrolüüs. Tööjuhend <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1418468" data-for="cmitem" data-id="1418468" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Tasakaal el.lüütide lahustes, hüdrolüüs. Protokoll">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1418468" type="checkbox" data-id="1418468" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1418468">
+                            Vali tegevus Tasakaal el.lüütide lahustes, hüdrolüüs. Protokoll
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1418468" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1418468" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1418468&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Tasakaal el.lüütide lahustes, hüdrolüüs. Protokoll <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper label modtype_label   " id="module-1413634" data-for="cmitem" data-id="1413634" data-indexed="true">
+        <div class="activity-item focus-control activityinline" data-activityname="Näidisülesanded: Mitu cm3 H2O tuleb lisada 10 cm3 ...">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1413634" type="checkbox" data-id="1413634" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1413634">
+                            Vali tegevus Näidisülesanded: Mitu cm3 H2O tuleb lisada 10 cm3 ...
+                        </label>
+                    </div>
+
+                <div class="activity-grid noname-grid">
+                
+                
+                
+                
+                
+                
+                
+                        <div class="activity-altcontent text-break ">
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">Näidisülesanded:</span></p>
+<p><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">Mitu cm</span><sup><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">3</span></sup><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color=""> H</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">O tuleb lisada 10 cm</span><sup><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">3</span></sup><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color=""> 0,4%-lisele NaOH lahusele, et saada lahust, mille pH = 12,3 (α = 1,0;&nbsp;ρ = 1,0)?</span></p>
+<p><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">Millised antud ühenditest hüdrolüüsuvad: a) K</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">CO</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">3</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">; b) Na</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">SO</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">4</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">; c) FeCl</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">3</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">; d) Al</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">S</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">3</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">; e) LiNO</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">3</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">; f) BaSO</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">4</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">; g) CaCl</span><sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(69, 135, 72); --darkreader-inline-color: var(--darkreader-text-458748, #7fbd82);" data-darkreader-inline-color="">. Kirjutada hüdrolüüsivõrrandid ioonsel kujul ja märkida lahuse pH (&lt;; &gt;; ≈ 7).</span></p></div></div>
+                        </div>
+                
+                
+                </div>
+        </div>
+            </li>
+</ul>
+        </div>
+    </div>
+    
+</li><li id="section-7" class="section course-section main clearfix" style="width: 100%;" role="region" aria-labelledby="sectionid-93164-title" data-sectionid="7" data-for="section" data-id="93164" data-number="7" data-indexed="true">
+    
+    <div class="content" aria-live="polite">
+
+        <div id="toggle-7" class="sectionhead toggle toggle-arrow" role="button" aria-expanded="false" aria-controls="toggledsection-7" tabindex="0">
+            <span class="the_toggle toggle_closed tc-small"><h3 data-for="section_title" data-id="93164" data-number="7" id="sectionid-93164-title" class="sectionname">Redoksreaktsioonid</h3></span>
+        </div>
+        
+        <div class="section_availability">
+</div>
+                <div id="toggledsection-7" class="sectionbody toggledsection">
+            
+            <ul class="section m-0 p-0 img-text d-block" data-for="cmlist">
+            
+            
+            <li class="activity activity-wrapper label modtype_label   " id="module-1413596" data-for="cmitem" data-id="1413596" data-indexed="true">
+        <div class="activity-item focus-control activityinline" data-activityname="Enne praktikumi loe :">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1413596" type="checkbox" data-id="1413596" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1413596">
+                            Vali tegevus Enne praktikumi loe :
+                        </label>
+                    </div>
+
+                <div class="activity-grid noname-grid">
+                
+                
+                
+                
+                
+                
+                
+                        <div class="activity-altcontent text-break ">
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><strong>Enne praktikumi loe :</strong></span></p></div></div>
+                        </div>
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1413593" data-for="cmitem" data-id="1413593" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Redoksreaktsioonid. Redokspotentsiaal.">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1413593" type="checkbox" data-id="1413593" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1413593">
+                            Vali tegevus Redoksreaktsioonid. Redokspotentsiaal.
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1413593" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1413593" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1413593&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Redoksreaktsioonid. Redokspotentsiaal. <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1419044" data-for="cmitem" data-id="1419044" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Redoksreaktsioonid. Tööjuhend">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1419044" type="checkbox" data-id="1419044" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1419044">
+                            Vali tegevus Redoksreaktsioonid. Tööjuhend
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1419044" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1419044" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1419044&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Redoksreaktsioonid. Tööjuhend <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1419072" data-for="cmitem" data-id="1419072" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Redoksreaktsioonid. Protokoll">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1419072" type="checkbox" data-id="1419072" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1419072">
+                            Vali tegevus Redoksreaktsioonid. Protokoll
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1419072" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1419072" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1419072&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Redoksreaktsioonid. Protokoll <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper label modtype_label   " id="module-1413594" data-for="cmitem" data-id="1413594" data-indexed="true">
+        <div class="activity-item focus-control activityinline" data-activityname="Näidisülesanne: Tasakaalustada järgmised reaktsioo...">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1413594" type="checkbox" data-id="1413594" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1413594">
+                            Vali tegevus Näidisülesanne: Tasakaalustada järgmised reaktsioo...
+                        </label>
+                    </div>
+
+                <div class="activity-grid noname-grid">
+                
+                
+                
+                
+                
+                
+                
+                        <div class="activity-altcontent text-break ">
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">Näidisülesanne:</span></p>
+<p><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">Tasakaalustada järgmised reaktsioonivõrrandid:</span></p>
+<p><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">FeCl</span><sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">3</span></sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color=""> + KOH + Br</span><sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color=""> → K</span><sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">FeO</span><sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">4</span></sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color=""> + KBr + KCl</span></p>
+<p><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">KClO</span><sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">3</span></sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color=""> + KNO</span><sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">2</span></sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color=""> → KCl + KNO</span><sub><span class="" style="color: rgb(64, 135, 70); --darkreader-inline-color: var(--darkreader-text-408746, #7ec284);" data-darkreader-inline-color="">3</span></sub></p></div></div>
+                        </div>
+                
+                
+                </div>
+        </div>
+            </li>
+</ul>
+        </div>
+    </div>
+    
+</li><li id="section-8" class="section course-section main clearfix" style="width: 100%;" role="region" aria-labelledby="sectionid-93167-title" data-sectionid="8" data-for="section" data-id="93167" data-number="8" data-indexed="true">
+    
+    <div class="content" aria-live="polite">
+
+        <div id="toggle-8" class="sectionhead toggle toggle-arrow" role="button" aria-expanded="false" aria-controls="toggledsection-8" tabindex="0">
+            <span class="the_toggle toggle_closed tc-small"><h3 data-for="section_title" data-id="93167" data-number="8" id="sectionid-93167-title" class="sectionname">Metallide aktiivsus ja korrosioon</h3></span>
+        </div>
+        
+        <div class="section_availability">
+</div>
+                <div id="toggledsection-8" class="sectionbody toggledsection">
+            
+            <ul class="section m-0 p-0 img-text d-block" data-for="cmlist">
+            
+            
+            <li class="activity activity-wrapper label modtype_label   " id="module-1413624" data-for="cmitem" data-id="1413624" data-indexed="true">
+        <div class="activity-item focus-control activityinline" data-activityname="Enne praktikumi loe :">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1413624" type="checkbox" data-id="1413624" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1413624">
+                            Vali tegevus Enne praktikumi loe :
+                        </label>
+                    </div>
+
+                <div class="activity-grid noname-grid">
+                
+                
+                
+                
+                
+                
+                
+                        <div class="activity-altcontent text-break ">
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><strong>Enne praktikumi loe :</strong></span></p></div></div>
+                        </div>
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1413620" data-for="cmitem" data-id="1413620" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Metallide aktiivsus ja korrosioon">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1413620" type="checkbox" data-id="1413620" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1413620">
+                            Vali tegevus Metallide aktiivsus ja korrosioon
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1413620" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1413620" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1413620&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Metallide aktiivsus ja korrosioon <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1428513" data-for="cmitem" data-id="1428513" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Metallide aktiivsus ja korrosioon. Tööjuhend">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1428513" type="checkbox" data-id="1428513" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1428513">
+                            Vali tegevus Metallide aktiivsus ja korrosioon. Tööjuhend
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1428513" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1428513" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1428513&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Metallide aktiivsus ja korrosioon. Tööjuhend <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1428521" data-for="cmitem" data-id="1428521" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Metallide aktiivsus ja korrosioon. Protokoll">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1428521" type="checkbox" data-id="1428521" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1428521">
+                            Vali tegevus Metallide aktiivsus ja korrosioon. Protokoll
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1428521" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1428521" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1428521&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Metallide aktiivsus ja korrosioon. Protokoll <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+</ul>
+        </div>
+    </div>
+    
+</li><li id="section-9" class="section course-section main clearfix" style="width: 100%;" role="region" aria-labelledby="sectionid-93170-title" data-sectionid="9" data-for="section" data-id="93170" data-number="9" data-indexed="true">
+    
+    <div class="content" aria-live="polite">
+
+        <div id="toggle-9" class="sectionhead toggle toggle-arrow" role="button" aria-expanded="false" aria-controls="toggledsection-9" tabindex="0">
+            <span class="the_toggle toggle_closed tc-small"><h3 data-for="section_title" data-id="93170" data-number="9" id="sectionid-93170-title" class="sectionname">Keemilised vooluallikad</h3></span>
+        </div>
+        
+        <div class="section_availability">
+</div>
+                <div id="toggledsection-9" class="sectionbody toggledsection">
+            <div class="summary"><div class="no-overflow"><p><span style="color: rgb(0, 0, 128); --darkreader-inline-color: var(--darkreader-text-000080, #7faeff);" data-darkreader-inline-color=""><br></span></p></div></div>
+            <ul class="section m-0 p-0 img-text d-block" data-for="cmlist">
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-956317" data-for="cmitem" data-id="956317" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Permanganaadi patarei">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox956317" type="checkbox" data-id="956317" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox956317">
+                            Vali tegevus Permanganaadi patarei
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="956317" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=956317" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=956317&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Permanganaadi patarei <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper label modtype_label   " id="module-1428584" data-for="cmitem" data-id="1428584" data-indexed="true">
+        <div class="activity-item focus-control activityinline" data-activityname="Enne praktikumi loe :">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1428584" type="checkbox" data-id="1428584" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1428584">
+                            Vali tegevus Enne praktikumi loe :
+                        </label>
+                    </div>
+
+                <div class="activity-grid noname-grid">
+                
+                
+                
+                
+                
+                
+                
+                        <div class="activity-altcontent text-break ">
+                            <div class="no-overflow"><div class="no-overflow"><p><span class="" style="color: rgb(0, 61, 245); --darkreader-inline-color: var(--darkreader-text-003df5, #3994ff);" data-darkreader-inline-color=""><strong>Enne praktikumi loe :</strong></span></p></div></div>
+                        </div>
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1428554" data-for="cmitem" data-id="1428554" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="Keemilised vooluallikad">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1428554" type="checkbox" data-id="1428554" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1428554">
+                            Vali tegevus Keemilised vooluallikad
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1428554" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1428554" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1428554&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Keemilised vooluallikad <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1428559" data-for="cmitem" data-id="1428559" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="EMJ mõõtmine. Tööjuhend">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1428559" type="checkbox" data-id="1428559" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1428559">
+                            Vali tegevus EMJ mõõtmine. Tööjuhend
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1428559" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1428559" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1428559&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">EMJ mõõtmine. Tööjuhend <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+            
+            
+            <li class="activity activity-wrapper url modtype_url   " id="module-1428579" data-for="cmitem" data-id="1428579" data-indexed="true">
+        <div class="activity-item focus-control" data-activityname="EMJ mõõtmine. Protokoll">
+                    <div class="bulkselect d-none" data-for="cmBulkSelect">
+                        <input id="cmCheckbox1428579" type="checkbox" data-id="1428579" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                        <label class="sr-only" for="cmCheckbox1428579">
+                            Vali tegevus EMJ mõõtmine. Protokoll
+                        </label>
+                    </div>
+
+                <div class="activity-grid ">
+                
+                                            <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1428579" alt="">
+                                            </div>
+                                
+                                    <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                        <div class="activitytitle  modtype_url position-relative align-self-start">
+                                            <div class="activityname">
+                                                            <a href="https://moodle.ut.ee/mod/url/view.php?id=1428579" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1428579&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">EMJ mõõtmine. Protokoll <span class="accesshide "> URL</span></span>    </a>
+                                                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+        </div>
+            </li>
+</ul>
+        </div>
+    </div>
+    
+</li><li id="section-10" class="section course-section main clearfix" style="width: 100%;" role="region" aria-labelledby="sectionid-98418-title" data-sectionid="10" data-for="section" data-id="98418" data-number="10" data-indexed="true">
+    
+    <div class="content" aria-live="polite">
+
+        <div id="toggle-10" class="sectionhead toggle toggle-arrow" role="button" aria-expanded="false" aria-controls="toggledsection-10" tabindex="0">
+            <span class="the_toggle toggle_closed tc-small"><h3 data-for="section_title" data-id="98418" data-number="10" id="sectionid-98418-title" class="sectionname">Konsultatsioon arvestustööks, praktikumi lõpetamine, huvitavad näitkatsed</h3></span>
+        </div>
+        
+        <div class="section_availability">
+</div>
+                <div id="toggledsection-10" class="sectionbody toggledsection">
+            <div class="summary"><div class="no-overflow"><p><span style="color: rgb(0, 0, 128); --darkreader-inline-color: var(--darkreader-text-000080, #7faeff);" data-darkreader-inline-color="">Lahendatakse probleeme praktikumi protokollides.</span></p>
+<p><span style="color: rgb(0, 0, 128); --darkreader-inline-color: var(--darkreader-text-000080, #7faeff);" data-darkreader-inline-color="">Targutatakse teemadel, mis eelmiste aastate arvestustöödes nihu läks.</span></p>
+<p><span style="color: rgb(0, 0, 128); --darkreader-inline-color: var(--darkreader-text-000080, #7faeff);" data-darkreader-inline-color="">Lõpetuseks tehakse huvitavaid õppejõu poolt väljapakutud või ka tudengite poolt soovitud näidiskatseid.</span></p>
+<p></p></div></div>
+            <ul class="section m-0 p-0 img-text" data-for="cmlist">
+</ul>
+        </div>
+    </div>
+    
+</li><li id="section-11" class="section course-section main clearfix" style="width: 100%;" role="region" aria-labelledby="sectionid-98421-title" data-sectionid="11" data-for="section" data-id="98421" data-number="11" data-indexed="true">
+    
+    <div class="content" aria-live="polite">
+
+        <div id="toggle-11" class="sectionhead toggle toggle-arrow" role="button" aria-expanded="false" aria-controls="toggledsection-11" tabindex="0">
+            <span class="the_toggle toggle_closed tc-small"><h3 data-for="section_title" data-id="98421" data-number="11" id="sectionid-98421-title" class="sectionname">Kirjalik arvestustöö</h3></span>
+        </div>
+        
+        <div class="section_availability">
+</div>
+                <div id="toggledsection-11" class="sectionbody toggledsection">
+            <div class="summary"><div class="no-overflow"><p><span style="color: rgb(0, 0, 128); --darkreader-inline-color: var(--darkreader-text-000080, #7faeff);" data-darkreader-inline-color="">Arvestustööle pääsemiseks peavad kõik praktikumide protokollid olema arvestatud. </span></p>
+<p><span style="color: rgb(0, 0, 128); --darkreader-inline-color: var(--darkreader-text-000080, #7faeff);" data-darkreader-inline-color="">Arvestustöös esitatavad teoreetilised küsimused ja ülesanded on seotud läbitud praktikumidega.</span></p>
+<p><span style="color: rgb(0, 0, 128); --darkreader-inline-color: var(--darkreader-text-000080, #7faeff);" data-darkreader-inline-color=""> </span></p></div></div>
+            <ul class="section m-0 p-0 img-text" data-for="cmlist">
+</ul>
+        </div>
+    </div>
+    
+</li></ul><span id="tcdata" class="d-none" data-onetopic="false" data-onetopictoggle="false" data-defaulttogglepersistence="true"></span>
+</div></div></div>
+                    
+                    
+                </section>
+            </div>
+            <div class="columnleft blockcolumn  has-blocks ">
+                <section data-region="blocks-column" class="hidden-print" aria-label="Plokid">
+                    <aside id="block-region-side-pre" class="block-region" data-blockregion="side-pre" data-droptarget="1" aria-labelledby="side-pre-block-region-heading"><h2 class="sr-only" id="side-pre-block-region-heading">Plokid</h2><a href="#sb-1" class="sr-only sr-only-focusable">Jäta vahele Tegevused</a>
+
+<section id="inst1418919" class=" block_activity_modules block list_block  card mb-3" role="navigation" data-block="activity_modules" data-instance-id="1418919" aria-labelledby="instance-1418919-header">
+
+    <div class="card-body p-3">
+
+            <h3 id="instance-1418919-header" class="h5 card-title d-inline">Tegevused</h3>
+
+
+        <div class="card-text content mt-3">
+            <ul class="unlist"><li class="r0"><div class="column c1"><a href="https://moodle.ut.ee/mod/forum/index.php?id=6453"><img class="icon " alt="Foorum" title="Foorum" src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1790052085/monologo">Foorumid</a></div></li>
+<li class="r1"><div class="column c1"><a href="https://moodle.ut.ee/course/resources.php?id=6453"><img class="icon icon" alt="" aria-hidden="true" src="https://moodle.ut.ee/theme/image.php/classic_ut/mod_page/1790052085/monologo">Vahendid</a></div></li>
+<li class="r0"><div class="column c1"><a href="https://moodle.ut.ee/mod/assign/index.php?id=6453"><img class="icon " alt="Ülesanne" title="Ülesanne" src="https://moodle.ut.ee/theme/image.php/classic_ut/assign/1790052085/monologo">Ülesanded</a></div></li></ul>
+            <div class="footer"></div>
+            
+        </div>
+
+    </div>
+
+</section>
+
+  <span id="sb-1"></span><a href="#sb-2" class="sr-only sr-only-focusable">Jäta vahele Seadistused</a>
+
+<section id="inst39912" class=" block_settings block  card mb-3" role="navigation" data-block="settings" data-instance-id="39912" aria-labelledby="instance-39912-header">
+
+    <div class="card-body p-3">
+
+            <h3 id="instance-39912-header" class="h5 card-title d-inline">Seadistused</h3>
+
+
+        <div class="card-text content mt-3">
+            <div id="settingsnav" class="box py-3 block_tree_box"><ul class="block_tree list" role="tree" data-ajax-loader="block_navigation/site_admin_loader"><li class="type_course depth_1 contains_branch" tabindex="0" role="treeitem" aria-expanded="true" aria-owns="random6ac22c4640a011_group" aria-selected="true"><p class="tree_item root_node tree_item branch" tabindex="-1"><span tabindex="-1">Kursuse haldamine</span></p><ul id="random6ac22c4640a011_group" role="group" tabindex="-1"><li class="type_setting depth_2 item_with_icon" tabindex="-1" role="treeitem" aria-selected="false"><p class="tree_item hasicon tree_item leaf" tabindex="-1"><a href="https://moodle.ut.ee/grade/report/index.php?id=6453" tabindex="-1"><i class="icon fa fa-clipboard-check fa-fw navicon" aria-hidden="true" tabindex="-1"></i>Hinded</a></p></li></ul></li></ul></div>
+            <div class="footer"></div>
+            
+        </div>
+
+    </div>
+
+</section>
+
+  <span id="sb-2"></span><a href="#sb-3" class="sr-only sr-only-focusable">Jäta vahele Foorumite plokk</a>
+
+<section id="inst311673" class=" block_forum_block block  card mb-3" role="region" data-block="forum_block" data-instance-id="311673" aria-labelledby="instance-311673-header">
+
+    <div class="card-body p-3">
+
+            <h3 id="instance-311673-header" class="h5 card-title d-inline">Foorumite plokk</h3>
+
+
+        <div class="card-text content mt-3">
+            <ul class="unlist"><li class="forum_title"><a href="https://moodle.ut.ee/mod/forum/view.php?id=428873">Teated õppijatele (uudistefoorum)</a></li><li class="no_posts">(Postitused puuduvad)</li></ul>
+            <div class="footer"></div>
+            
+        </div>
+
+    </div>
+
+</section>
+
+  <span id="sb-3"></span><a href="#sb-4" class="sr-only sr-only-focusable">Jäta vahele Sisenenud kasutajad</a>
+
+<section id="inst736897" class=" block_online_users block  card mb-3" role="region" data-block="online_users" data-instance-id="736897" aria-labelledby="instance-736897-header">
+
+    <div class="card-body p-3">
+
+            <h3 id="instance-736897-header" class="h5 card-title d-inline">Sisenenud kasutajad</h3>
+
+
+        <div class="card-text content mt-3">
+            <div class="info">1 sisenenud kasutaja (Viimased 10 minutit)</div><ul class="list">
+<li class="listentry"><div class="user"><a href="https://moodle.ut.ee/user/view.php?id=264340&amp;course=6453" title="Praegu"><span class="userinitials size-30" title="Grete Rahi" aria-label="Grete Rahi" role="img">GR</span>Grete Rahi</a></div><div class="uservisibility"><a title="Peida mu võrgusolemise staatus teiste eest" data-action="hide" data-userid="264340" id="change-user-visibility" href=""><i class="icon fa-regular fa-eye fa-fw " title="Peida mu võrgusolemise staatus teiste eest" role="img" aria-label="Peida mu võrgusolemise staatus teiste eest"></i></a></div></li>
+</ul><div class="clearer"><!-- --></div>
+            <div class="footer"></div>
+            
+        </div>
+
+    </div>
+
+</section>
+
+  <span id="sb-4"></span></aside>
+                </section>
+            </div>
+
+            <div class="columnright blockcolumn  has-blocks ">
+                <section data-region="blocks-column" class="hidden-print" aria-label="Plokid">
+                    <aside id="block-region-side-post" class="block-region" data-blockregion="side-post" data-droptarget="1" aria-labelledby="side-post-block-region-heading"><h2 class="sr-only" id="side-post-block-region-heading">Supplementary blocks</h2><a href="#sb-6" class="sr-only sr-only-focusable">Jäta vahele Kalender</a>
+
+<section id="inst327009" class=" block_calendar_month block  card mb-3" role="region" data-block="calendar_month" data-instance-id="327009" aria-labelledby="instance-327009-header">
+
+    <div class="card-body p-3">
+
+            <h3 id="instance-327009-header" class="h5 card-title d-inline">Kalender</h3>
+
+
+        <div class="card-text content mt-3">
+            <div data-region="calendar" class="maincalendar"><div id="calendar-month-6ac22c464aa396ac22c4640a013-1" data-template="core_calendar/month_detailed">
+    <div class="calendarwrapper" data-courseid="6453" data-categoryid="138" data-context-id="857976" data-month="10" data-year="2026" data-view="monthblock">
+
+
+    <div id="month-navigation-1-1" class="controls">
+        <div class="calendar-controls">
+            <a href="https://moodle.ut.ee/calendar/view.php?view=month&amp;time=1788210000&amp;course=6453" class="arrow_link previous" title="Previous month: september" data-year="2026" data-month="9" data-drop-zone="nav-link" aria-label="Previous month: september">
+                <span class="arrow" aria-hidden="true">◀︎</span>
+                &nbsp;
+                <span class="arrow_text">september</span>
+            </a>
+            <span class="hide"> | </span>
+                <h4 class="current">oktoober 2026</h4>
+            <span class="hide"> | </span>
+            <a href="https://moodle.ut.ee/calendar/view.php?view=month&amp;time=1793484000&amp;course=6453" class="arrow_link next" title="Next month: november" data-year="2026" data-month="11" data-drop-zone="nav-link" aria-label="Next month: november">
+                <span class="arrow_text">november</span>
+                &nbsp;
+                <span class="arrow" aria-hidden="true">▶︎</span>
+            </a>
+        </div>
+    </div>
+
+
+    <span class="overlay-icon-container hidden" data-region="overlay-icon-container">
+
+
+        <span class="loading-icon icon-no-margin"><i class="icon fa fa-spinner fa-spin fa-fw " title="Laadimine" role="img" aria-label="Laadimine"></i></span>
+    </span>
+    <table id="month-detailed-1-1" class="calendarmonth calendartable mb-0">
+        <thead>
+            <tr>
+                <th class="header text-xs-center">
+                    <span class="sr-only">Esmaspäev</span>
+                    <span aria-hidden="true">E</span>
+                </th>
+                <th class="header text-xs-center">
+                    <span class="sr-only">Teisipäev</span>
+                    <span aria-hidden="true">T</span>
+                </th>
+                <th class="header text-xs-center">
+                    <span class="sr-only">Kolmapäev</span>
+                    <span aria-hidden="true">K</span>
+                </th>
+                <th class="header text-xs-center">
+                    <span class="sr-only">Neljapäev</span>
+                    <span aria-hidden="true">N</span>
+                </th>
+                <th class="header text-xs-center">
+                    <span class="sr-only">Reede</span>
+                    <span aria-hidden="true">R</span>
+                </th>
+                <th class="header text-xs-center">
+                    <span class="sr-only">Laupäev</span>
+                    <span aria-hidden="true">L</span>
+                </th>
+                <th class="header text-xs-center">
+                    <span class="sr-only">Pühapäev</span>
+                    <span aria-hidden="true">P</span>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr data-region="month-view-week">
+                    <td class="dayblank">&nbsp;</td>
+                    <td class="dayblank">&nbsp;</td>
+                    <td class="dayblank">&nbsp;</td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="1" data-day-timestamp="1790802000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1790851015">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 1. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">1</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 1. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">1</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="2" data-day-timestamp="1790888400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1790937415">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Reede, 2. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">2</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Reede, 2. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">2</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start weekend clickable" data-day="3" data-day-timestamp="1790974800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791023815">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Laupäev, 3. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">3</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Laupäev, 3. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">3</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start today weekend clickable" data-day="4" data-day-timestamp="1791061200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791110215" title="Täna">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 4. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">4</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 4. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">4</span></span></span>
+                        </div>
+                    </td>
+            </tr>
+            <tr data-region="month-view-week">
+                    <td class="day text-sm-center text-md-start clickable" data-day="5" data-day-timestamp="1791147600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791196615">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Esmaspäev, 5. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">5</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Esmaspäev, 5. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">5</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="6" data-day-timestamp="1791234000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791283015">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Teisipäev, 6. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">6</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Teisipäev, 6. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">6</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="7" data-day-timestamp="1791320400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791369415">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 7. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">7</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 7. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">7</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="8" data-day-timestamp="1791406800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791455815">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 8. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">8</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 8. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">8</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="9" data-day-timestamp="1791493200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791542215">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Reede, 9. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">9</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Reede, 9. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">9</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start weekend clickable" data-day="10" data-day-timestamp="1791579600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791628615">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Laupäev, 10. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">10</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Laupäev, 10. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">10</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start weekend clickable" data-day="11" data-day-timestamp="1791666000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791715015">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 11. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">11</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 11. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">11</span></span></span>
+                        </div>
+                    </td>
+            </tr>
+            <tr data-region="month-view-week">
+                    <td class="day text-sm-center text-md-start clickable" data-day="12" data-day-timestamp="1791752400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791801415">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Esmaspäev, 12. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">12</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Esmaspäev, 12. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">12</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="13" data-day-timestamp="1791838800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791887815">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Teisipäev, 13. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">13</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Teisipäev, 13. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">13</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="14" data-day-timestamp="1791925200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1791974215">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 14. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">14</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 14. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">14</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="15" data-day-timestamp="1792011600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792060615">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 15. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">15</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 15. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">15</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="16" data-day-timestamp="1792098000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792147015">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Reede, 16. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">16</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Reede, 16. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">16</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start weekend clickable" data-day="17" data-day-timestamp="1792184400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792233415">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Laupäev, 17. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">17</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Laupäev, 17. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">17</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start weekend clickable" data-day="18" data-day-timestamp="1792270800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792319815">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 18. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">18</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 18. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">18</span></span></span>
+                        </div>
+                    </td>
+            </tr>
+            <tr data-region="month-view-week">
+                    <td class="day text-sm-center text-md-start clickable" data-day="19" data-day-timestamp="1792357200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792406215">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Esmaspäev, 19. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">19</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Esmaspäev, 19. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">19</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="20" data-day-timestamp="1792443600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792492615">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Teisipäev, 20. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">20</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Teisipäev, 20. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">20</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="21" data-day-timestamp="1792530000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792579015">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 21. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">21</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 21. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">21</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="22" data-day-timestamp="1792616400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792665415">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 22. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">22</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 22. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">22</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="23" data-day-timestamp="1792702800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792751815">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Reede, 23. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">23</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Reede, 23. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">23</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start weekend clickable" data-day="24" data-day-timestamp="1792789200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792838215">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Laupäev, 24. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">24</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Laupäev, 24. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">24</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start weekend clickable" data-day="25" data-day-timestamp="1792875600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1792928215">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 25. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">25</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Pühapäev, 25. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">25</span></span></span>
+                        </div>
+                    </td>
+            </tr>
+            <tr data-region="month-view-week">
+                    <td class="day text-sm-center text-md-start clickable" data-day="26" data-day-timestamp="1792965600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793014615">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Esmaspäev, 26. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">26</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Esmaspäev, 26. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">26</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="27" data-day-timestamp="1793052000" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793101015">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Teisipäev, 27. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">27</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Teisipäev, 27. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">27</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="28" data-day-timestamp="1793138400" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793187415">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 28. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">28</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Kolmapäev, 28. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">28</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="29" data-day-timestamp="1793224800" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793273815">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 29. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">29</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Neljapäev, 29. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">29</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start clickable" data-day="30" data-day-timestamp="1793311200" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793360215">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Reede, 30. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">30</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Reede, 30. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">30</span></span></span>
+                        </div>
+                    </td>
+                    <td class="day text-sm-center text-md-start weekend clickable" data-day="31" data-day-timestamp="1793397600" data-drop-zone="month-view-day" data-region="day" data-new-event-timestamp="1793446615">
+                        <div class="d-none d-md-block hidden-phone text-xs-center">
+                            <span class="sr-only">Sündmsued puuduvad Laupäev, 31. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">31</span></span></span>
+                        </div>
+                        <div class="d-md-none hidden-desktop hidden-tablet">
+                            <span class="sr-only">Sündmsued puuduvad Laupäev, 31. oktoober</span>
+                                <span aria-hidden="true"><span class="day-number-circle"><span class="day-number">31</span></span></span>
+                        </div>
+                    </td>
+                    <td class="dayblank">&nbsp;</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+</div></div>
+            <div class="footer"><div class="bottom">
+        <span class="footer-link">
+            <a href="https://moodle.ut.ee/calendar/view.php?view=month&amp;time=1791110214&amp;course=6453">Kursuse kalender</a>
+        </span>
+        <span class="footer-link">
+            <a href="https://moodle.ut.ee/calendar/managesubscriptions.php?course=6453">Halda tellimusi</a>
+        </span>
+</div></div>
+            
+        </div>
+
+    </div>
+
+</section>
+
+  <span id="sb-6"></span></aside>
+                </section>
+            </div>
+        </div>

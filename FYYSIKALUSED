@@ -1,0 +1,327 @@
+<div role="main" id="yui_3_18_1_1_1791110216638_416"><span id="maincontent"></span><div class="course-content" id="yui_3_18_1_1_1791110216638_415"><div id="course-format-6ac22c486b8d16ac22c4856a8322">
+    <h2 class="accesshide">Section outline</h2>
+    
+    <ul class="topics" data-for="course_sectionlist" id="yui_3_18_1_1_1791110216638_414">
+                <li id="section-0" class="section course-section main  clearfix
+                             
+                            " data-sectionid="0" data-sectionreturnnum="" data-for="section" data-id="35520" data-number="0" data-sectionname="Kursuse üldosa" data-indexed="true">
+                    <div class="section-item">
+                            <div class="course-section-header d-flex" data-for="section_title" data-id="35520" data-number="0">
+                                            <div class="bulkselect align-self-center d-none" data-for="sectionBulkSelect">
+                                                <input id="sectionCheckbox35520" type="checkbox" data-id="35520" data-action="toggleSelectionSection" data-bulkcheckbox="1">
+                                                <label class="sr-only" for="sectionCheckbox35520">
+                                                     Vali jaotis Kursuse üldosa 
+                                                </label>
+                                            </div>
+                                                    <div class="d-flex align-items-center position-relative">
+                                                        <a role="button" data-toggle="collapse" data-for="sectiontoggler" href="#coursecontentcollapseid35520" id="collapsesectionid35520" aria-expanded="true" aria-controls="coursecontentcollapseid35520" class="btn btn-icon me-1 icons-collapse-expand justify-content-center
+                                                                " aria-label="Kursuse üldosa">
+                                                        <span class="expanded-icon icon-no-margin p-2" title="Ahenda">
+                                                            <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
+                                                            <span class="sr-only">Ahenda</span>
+                                                        </span>
+                                                        <span class="collapsed-icon icon-no-margin p-2" title="Laienda">
+                                                            <span class="dir-rtl-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="sr-only">Laienda</span>
+                                                        </span>
+                                                        </a>
+                                                        <h3 class="h4 sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-35520-title" data-for="section_title" data-id="35520" data-number="0" data-target="#coursecontentcollapseid35520" data-toggle="collapse" role="button">
+                                                            Kursuse üldosa
+                                                        </h3>
+                                                    </div>
+                                <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                                </div>
+                                        <div class="flex-fill d-flex justify-content-end me-2 align-self-start mt-2">
+                                            <a id="collapsesections" class="section-collapsemenu" href="#" aria-expanded="true" role="button" data-toggle="toggleall" aria-controls="collapsesectionid35520 sectionid-35520-title collapsesectionid35521 sectionid-35521-title">
+                                                <span class="collapseall text-nowrap">Sulge kõik</span>
+                                                <span class="expandall text-nowrap">Ava kõik</span>
+                                            </a>
+                                        </div>
+                            </div>
+                            <div id="coursecontentcollapseid35520" class="content course-content-item-content collapse show">
+                                <div class=" my-3" data-for="sectioninfo">
+                                            <div class="section_availability">
+                                            </div>
+                                </div>
+                                        <ul class="section m-0 p-0 img-text  d-block " data-for="cmlist">
+                                                    <li class="activity activity-wrapper forum modtype_forum   " id="module-164566" data-for="cmitem" data-id="164566" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Teated õppijatele (uudistefoorum)" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox164566" type="checkbox" data-id="164566" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox164566">
+                                                                                Vali tegevus Teated õppijatele (uudistefoorum)
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller collaboration forum  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="164566" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_forum position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/forum/view.php?id=164566" class=" aalink stretched-link" onclick="">        <span class="instancename">Teated õppijatele (uudistefoorum) </span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper forum modtype_forum   " id="module-202134" data-for="cmitem" data-id="202134" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Foorum" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox202134" type="checkbox" data-id="202134" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox202134">
+                                                                                Vali tegevus Foorum
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller collaboration forum  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/forum/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="202134" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_forum position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/forum/view.php?id=202134" class=" aalink stretched-link" onclick="">        <span class="instancename">Foorum </span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper folder modtype_folder   " id="module-574447" data-for="cmitem" data-id="574447" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Laborite tutvustused" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox574447" type="checkbox" data-id="574447" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox574447">
+                                                                                Vali tegevus Laborite tutvustused
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller content folder  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/folder/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="574447" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_folder position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/folder/view.php?id=574447" class=" aalink stretched-link" onclick="">        <span class="instancename">Laborite tutvustused <span class="accesshide "> Kaust</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper resource modtype_resource   " id="module-574448" data-for="cmitem" data-id="574448" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Ülikoolis õppimisest" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox574448" type="checkbox" data-id="574448" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox574448">
+                                                                                Vali tegevus Ülikoolis õppimisest
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1790052085/f/powerpoint?filtericon=1" class="activityicon " data-region="activity-icon" data-id="574448" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/resource/view.php?id=574448" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=574448&amp;redirect=1', '', 'width=900,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Ülikoolis õppimisest <span class="accesshide "> Fail</span></span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper resource modtype_resource   " id="module-1193924" data-for="cmitem" data-id="1193924" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="TÜ füüsika bakalaureuseõppe vilistlased 2008-2012" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1193924" type="checkbox" data-id="1193924" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1193924">
+                                                                                Vali tegevus TÜ füüsika bakalaureuseõppe vilistlased 2008-2012
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller content resource  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/core/1790052085/f/pdf?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1193924" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_resource position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/resource/view.php?id=1193924" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/resource/view.php?id=1193924&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">TÜ füüsika bakalaureuseõppe vilistlased 2008-2012 <span class="accesshide "> Fail</span></span>    </a>
+                                                                                                            
+                                                                                                            <span class="ms-1">
+                                                                                                                <span class="activitybadge badge rounded-pill ">
+                                                                                                                        
+                                                                                                                </span>
+                                                                                                            </span>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                                    <li class="activity activity-wrapper url modtype_url   " id="module-1527723" data-for="cmitem" data-id="1527723" data-indexed="true">
+                                                            <div class="activity-item focus-control " data-activityname="Õppeaine versiooni info LOFY.01.080 (26/27 S PÕ)" data-region="activity-card">
+                                                                        <div class="bulkselect d-none" data-for="cmBulkSelect">
+                                                                            <input id="cmCheckbox1527723" type="checkbox" data-id="1527723" data-action="toggleSelectionCm" data-bulkcheckbox="1" disabled="">
+                                                                            <label class="sr-only" for="cmCheckbox1527723">
+                                                                                Vali tegevus Õppeaine versiooni info LOFY.01.080 (26/27 S PÕ)
+                                                                            </label>
+                                                                        </div>
+
+                                                                    <div class="activity-grid ">
+                                                                    
+                                                                                                <div class="activity-icon activityiconcontainer smaller content url  courseicon align-self-start me-2">
+                                                                                                    <img src="https://moodle.ut.ee/theme/image.php/classic_ut/url/1790052085/monologo?filtericon=1" class="activityicon " data-region="activity-icon" data-id="1527723" alt="">
+                                                                                                </div>
+                                                                                    
+                                                                                        <div class="activity-name-area activity-instance d-flex flex-column me-2">
+                                                                                            <div class="activitytitle  modtype_url position-relative align-self-start">
+                                                                                                <div class="activityname">
+                                                                                                                <a href="https://moodle.ut.ee/mod/url/view.php?id=1527723" class=" aalink stretched-link" onclick="window.open('https://moodle.ut.ee/mod/url/view.php?id=1527723&amp;redirect=1', '', 'width=1160,height=800,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false;">        <span class="instancename">Õppeaine versiooni info LOFY.01.080 (26/27 S PÕ) <span class="accesshide "> URL</span></span>    </a>
+                                                                                                            
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    </div>
+                                                            </div>
+                                                    </li>
+                                            </ul>
+                                
+                            </div>
+                    </div>
+                
+                </li>
+                <li id="section-1" class="section course-section main  clearfix
+                             
+                            " data-sectionid="1" data-sectionreturnnum="" data-for="section" data-id="35521" data-number="1" data-sectionname="Iseseisvad tööd" data-indexed="true" data-locked="false" aria-busy="false">
+                    <div class="section-item" id="yui_3_18_1_1_1791110216638_413">
+                            <div class="course-section-header d-flex" data-for="section_title" data-id="35521" data-number="1" id="yui_3_18_1_1_1791110216638_412">
+                                            <div class="bulkselect align-self-center d-none" data-for="sectionBulkSelect">
+                                                <input id="sectionCheckbox35521" type="checkbox" data-id="35521" data-action="toggleSelectionSection" data-bulkcheckbox="1">
+                                                <label class="sr-only" for="sectionCheckbox35521">
+                                                     Vali jaotis Iseseisvad tööd 
+                                                </label>
+                                            </div>
+                                                    <div class="d-flex align-items-center position-relative" id="yui_3_18_1_1_1791110216638_411">
+                                                        <a role="button" data-toggle="collapse" data-for="sectiontoggler" href="#coursecontentcollapseid35521" id="collapsesectionid35521" aria-expanded="true" aria-controls="coursecontentcollapseid35521" class="btn btn-icon me-1 icons-collapse-expand justify-content-center" aria-label="Iseseisvad tööd">
+                                                        <span class="expanded-icon icon-no-margin p-2" title="Ahenda" id="yui_3_18_1_1_1791110216638_410">
+                                                            <i class="icon fa fa-chevron-down fa-fw " aria-hidden="true"></i>
+                                                            <span class="sr-only">Ahenda</span>
+                                                        </span>
+                                                        <span class="collapsed-icon icon-no-margin p-2" title="Laienda" id="yui_3_18_1_1_1791110216638_419">
+                                                            <span class="dir-rtl-hide" id="yui_3_18_1_1_1791110216638_418"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="dir-ltr-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                                                            <span class="sr-only">Laienda</span>
+                                                        </span>
+                                                        </a>
+                                                        <h3 class="h4 sectionname course-content-item d-flex align-self-stretch align-items-center mb-0" id="sectionid-35521-title" data-for="section_title" data-id="35521" data-number="1" data-target="#coursecontentcollapseid35521" data-toggle="collapse" role="button" aria-expanded="true">
+                                                            Iseseisvad tööd
+                                                        </h3>
+                                                    </div>
+                                <div data-region="sectionbadges" class="sectionbadges d-flex align-items-center">
+                                </div>
+                            </div>
+                            <div id="coursecontentcollapseid35521" class="content course-content-item-content collapse show" style="">
+                                <div class=" my-3" data-for="sectioninfo">
+                                            <div class="section_availability">
+                                            </div>
+                                </div>
+                                        <ul class="section m-0 p-0 img-text " data-for="cmlist">
+                                            </ul>
+                                
+                            </div>
+                    </div>
+                
+                </li>
+    </ul>
+</div></div></div>
